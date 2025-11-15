@@ -32,53 +32,123 @@ Dado que aún no se disponen de datos reales de la escuela, se generan DataFrame
 
 ## DataFrame: Metricas_campanas.csv
 
-### Variables Comunes
+### 1. Identidad / Contexto
 
-| Variable | Tipo | Descripción | Valores Posibles | Plataforma |
-|----------|------|-------------|------------------|------------|
-| `fecha` | datetime | Fecha de registro de la métrica | 2024-09-01 a 2025-06-30 | Ambas |
-| `plataforma` | string | Plataforma de origen de los datos | "Google Analytics", "Facebook Ads" | Ambas |
-| `campana_nombre` | string | Nombre de la campaña de marketing | Varios (ej: "Master Data Science 2024", "Bootcamp Full Stack") | Ambas |
+| Variable | Tipo | Descripción | Valores Posibles |
+|----------|------|-------------|------------------|
+| `fecha` | datetime | Fecha de registro | 2024-01-01 a 2024-12-31 |
+| `mes` | int | Mes del año | 1-12 |
+| `dia_semana` | string | Día de la semana | "Monday", "Tuesday", etc. |
+| `franja_horaria` | string | Franja horaria del día | "manana", "tarde", "noche" |
+| `periodo_academico` | string | Período académico | "pre_matricula", "captacion", "cierre", "post_matricula" |
+| `plataforma` | string | Plataforma publicitaria | "Google Ads", "Meta Ads", "LinkedIn Ads", "TikTok Ads" |
+| `fuente` | string | Fuente del tráfico | "google", "facebook", "instagram", "linkedin", "newsletter" |
+| `medio` | string | Medio de adquisición | "cpc", "social", "email", "display", "video" |
+| `canal_agrupado` | string | Canal agrupado | "search", "paid_social", "display_video", "email_own", "organic_like" |
+| `campana_id` | string | ID de campaña | "100"-"999" |
+| `campana_nombre` | string | Nombre de campaña | "Campaña_" + ID |
+| `conjunto_anuncios_id` | string | ID conjunto anuncios | "1000"-"9999" |
+| `conjunto_anuncios` | string | Nombre conjunto anuncios | "Conjunto_" + ID |
+| `anuncio_id` | string | ID de anuncio | "10000"-"99999" |
+| `anuncio_nombre` | string | Nombre de anuncio | "Anuncio_" + ID |
+| `landing_url` | string | URL de landing page | "https://immune.institute/landing/[area]" |
+| `ciudad_usuario` | string | Ciudad del usuario | "Madrid", "Barcelona", "Valencia", "Sevilla", "Bilbao", "Online" |
+| `pais_usuario` | string | País del usuario (código ISO) | "ES", "PT", "FR", "IT", "MX", "AR", "CO" |
+| `device_category` | string | Categoría de dispositivo | "desktop", "mobile", "tablet" |
 
-### Variables Específicas de Google Analytics
+### 2. Perfil del Usuario
 
-| Variable | Tipo | Descripción | Rango/Valores | Unidad |
-|----------|------|-------------|---------------|--------|
-| `fuente` | string | Fuente del tráfico web | "google", "facebook", "direct", "organic", "referral", "email" | - |
-| `medio` | string | Medio de adquisición | "cpc", "organic", "referral", "email", "display", "social" | - |
-| `sesiones` | int | Número total de sesiones iniciadas | 50 - 2000 | sesiones |
-| `usuarios` | int | Número de usuarios únicos | 30 - 1900 (70-95% de sesiones) | usuarios |
-| `paginas_vistas` | int | Total de páginas vistas | 75 - 9000 (1.5-4.5x sesiones) | páginas |
-| `tasa_rebote` | float | Porcentaje de sesiones de una sola página | 30.0 - 75.0 | % |
-| `duracion_promedio_sesion` | float | Duración promedio de sesión | 60.0 - 600.0 | segundos |
-| `conversiones` | int | Número de conversiones completadas | 0 - 200 (hasta 10% de sesiones) | conversiones |
-| `tasa_conversion` | float | Porcentaje de sesiones con conversión | 0.0 - 10.0 | % |
-| `ingresos` | float | Ingresos generados por conversiones | 0.0 - 1,000,000.0 | € |
+| Variable | Tipo | Descripción | Valores Posibles |
+|----------|------|-------------|------------------|
+| `edad` | int | Edad del usuario | 18-55 |
+| `genero` | string | Género | "M", "F", "Otro", "Prefiere_no_decirlo" |
+| `nivel_estudios` | string | Nivel de estudios | "ESO", "Bachillerato", "FP", "Grado universitario", "Postgrado/Master", "Doctorado" |
+| `situacion_laboral` | string | Situación laboral | "estudiante", "trabajando", "en_transicion", "desempleado" |
+| `interes_area` | string | Área de interés | "IA", "Ciberseguridad", "Data", "Full-Stack", "Cloud", "UX/UI" |
+| `experiencia_previa_tech` | int | Experiencia previa en tech | 0 (bajo), 1 (medio), 2 (alto) |
+| `objetivo` | string | Objetivo profesional | "first_job", "reskilling", "upskilling", "emprendimiento" |
+| `capacidad_inversion` | string | Capacidad de inversión | "baja", "media", "alta" |
 
-**Nota**: Para registros de Facebook Ads, estas variables tendrán valor `None` (NaN).
+### 3. Comportamiento Web
 
-### Variables Específicas de Facebook Ads
+| Variable | Tipo | Descripción | Rango/Valores |
+|----------|------|-------------|---------------|
+| `sesiones` | int | Número de sesiones web | Derivado de clics (0.8-1.1x) |
+| `usuarios` | int | Usuarios únicos | 60-100% de sesiones |
+| `nuevos_usuarios` | int | Usuarios nuevos | 30-80% de usuarios |
+| `usuarios_recurrentes` | int | Usuarios recurrentes | usuarios - nuevos_usuarios |
+| `paginas_vistas` | int | Total páginas vistas | sesiones * (1-6) |
+| `paginas_por_sesion` | float | Promedio páginas por sesión | paginas_vistas / sesiones |
+| `engagement_rate` | float | Tasa de engagement | 0.1 - 0.9 |
+| `scroll_max` | float | Scroll máximo (%) | 30-100 |
+| `eventos_interaccion` | int | Eventos de interacción | sesiones * (0.5-3.0) |
+| `eventos_form_view` | int | Visualizaciones de formulario | sesiones * (0.1-0.8) |
+| `eventos_form_start` | int | Inicios de formulario | eventos_form_view * (0.4-0.9) |
+| `eventos_form_submit` | int | Envíos de formulario | eventos_form_start * (0.3-0.9) |
 
-| Variable | Tipo | Descripción | Rango/Valores | Unidad |
-|----------|------|-------------|---------------|--------|
-| `conjunto_anuncios` | string | Nombre del conjunto de anuncios | "Conjunto Retargeting", "Conjunto Lookalike", "Conjunto Intereses", "Conjunto Demográfico", "Conjunto Audiencia Personalizada" | - |
-| `anuncio_nombre` | string | Nombre del anuncio específico | "Anuncio Video Master", "Anuncio Carousel", "Anuncio Imagen Simple", "Anuncio Lead Gen", "Anuncio Conversión", "Anuncio Brand Awareness" | - |
-| `impresiones` | int | Número de veces que se mostró el anuncio | 1,000 - 50,000 | impresiones |
-| `alcance` | int | Número de personas únicas que vieron el anuncio | 600 - 45,000 (60-90% de impresiones) | personas |
-| `clics` | int | Número total de clics en el anuncio | 10 - 2,500 (hasta 5% de impresiones) | clics |
-| `gasto` | float | Cantidad de dinero gastada en el anuncio | 50.0 - 2,000.0 | € |
-| `ctr` | float | Click-Through Rate (tasa de clics) | 0.1 - 10.0 | % |
-| `cpc` | float | Costo por clic | 0.1 - 5.0 | € |
-| `cpm` | float | Costo por mil impresiones | 1.0 - 20.0 | € |
-| `costo_por_conversion` | float | Costo promedio por conversión | 5.0 - 2,000.0 | € |
+### 4. Funnel Educativo / Negocio
 
-**Nota**: Para registros de Google Analytics, estas variables tendrán valor `None` (NaN).
+| Variable | Tipo | Descripción | Rango/Valores |
+|----------|------|-------------|---------------|
+| `leads` | int | Leads generados | eventos_form_submit * (0.5-1.0) |
+| `leads_cualificados` | int | Leads cualificados | leads * (0.4-0.9) |
+| `entrevistas_agendadas` | int | Entrevistas agendadas | leads_cualificados * (0.5-0.95) |
+| `entrevistas_realizadas` | int | Entrevistas realizadas | entrevistas_agendadas * (0.7-1.0) |
+| `matriculas` | int | Matrículas completadas | entrevistas_realizadas * (0.2-0.8) |
+| `importe_matricula` | float | Importe de matrícula | 4,000 - 12,000 € |
+| `ingresos` | float | Ingresos totales | matriculas * importe_matricula |
+| `conversiones` | int | Conversiones (equivalente a leads) | leads |
+| `tasa_conversion` | float | Tasa de conversión | conversiones / sesiones |
 
-**Fórmulas calculadas**:
-- `ctr = (clics / impresiones) * 100`
-- `cpc = gasto / clics`
-- `cpm = (gasto / impresiones) * 1000`
-- `costo_por_conversion = gasto / conversiones`
+### 5. Paid Media
+
+| Variable | Tipo | Descripción | Rango/Valores |
+|----------|------|-------------|---------------|
+| `impresiones` | int | Impresiones del anuncio | 500 - 50,000 |
+| `alcance` | int | Alcance único | 200 - 20,000 (≤ impresiones) |
+| `frecuencia` | float | Frecuencia de exposición | impresiones / alcance |
+| `clics` | int | Clics en el anuncio | impresiones * CTR (mínimo 1) |
+| `gasto` | float | Gasto total | clics * CPC |
+| `ctr` | float | Click-Through Rate | 0.005 - 0.20 (0.5% - 20%) |
+| `cpc` | float | Costo por clic | 0.3 - 5.0 € |
+| `cpm` | float | Costo por mil impresiones | (gasto / impresiones) * 1000 |
+| `cpl` | float | Costo por lead | gasto / leads |
+| `cpmatricula` | float | Costo por matrícula | gasto / matriculas |
+| `roas` | float | Return on Ad Spend | ingresos / gasto |
+
+### 6. Creatividad
+
+| Variable | Tipo | Descripción | Valores Posibles |
+|----------|------|-------------|------------------|
+| `tipo_creatividad` | string | Tipo de creatividad | "imagen", "video", "carrusel" |
+| `formato_creatividad` | string | Formato de la creatividad | "feed", "stories", "shorts/reels", "search", "display" |
+| `cta_mensaje` | string | Mensaje del CTA | "Inscríbete ahora", "Reserva tu plaza", "Descargar guía", "Agenda una llamada", "Solicita información" |
+| `angulo_mensaje` | string | Ángulo del mensaje | "empleabilidad", "salario", "vocacion_tech", "flexibilidad", "internacional" |
+| `duracion_video_segundos` | int | Duración del video (si aplica) | 10-120 segundos (0 si no es video) |
+| `color_dominante` | int | Color dominante (cluster) | 0-4 |
+
+### 7. Atribución
+
+| Variable | Tipo | Descripción | Valores Posibles |
+|----------|------|-------------|------------------|
+| `modelo_atribucion` | string | Modelo de atribución | "last_click", "first_click", "data_driven" |
+| `conversiones_last_click` | int | Conversiones (last click) | conversiones * factor (0.6-1.1) |
+| `conversiones_data_driven` | int | Conversiones (data driven) | conversiones * factor (0.8-1.2) |
+
+### 8. Features ML Derivadas
+
+| Variable | Tipo | Descripción | Fórmula |
+|----------|------|-------------|---------|
+| `interaccion_media` | float | Interacción media por sesión | eventos_interaccion / sesiones |
+| `indice_intencion_form` | float | Índice de intención de formulario | eventos_form_start / sesiones |
+| `porcentaje_scroll` | float | Porcentaje de scroll | scroll_max / 100 |
+| `engagement_relevante` | float | Engagement relevante | engagement_rate * paginas_por_sesion |
+| `eficiencia_creatividad` | float | Eficiencia de creatividad | clics / alcance |
+| `eficiencia_gasto` | float | Eficiencia del gasto | conversiones / gasto |
+| `valor_prospecto` | float | Valor del prospecto | ingresos / leads |
+| `ratio_frecuencia` | float | Ratio de frecuencia | frecuencia |
+| `propension_matricula` | float | Propensión a matrícula | matriculas / leads |
+| `data_health_score` | int | Score de salud de datos | 100 - penalización (0-100) |
 
 ---
 

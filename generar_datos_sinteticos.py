@@ -4,142 +4,294 @@ from datetime import datetime, timedelta
 import random
 
 # Configuración de semilla para reproducibilidad
-np.random.seed(42)
-random.seed(42)
+RANDOM_SEED = 42
+np.random.seed(RANDOM_SEED)
+random.seed(RANDOM_SEED)
+rng = np.random.default_rng(RANDOM_SEED)
 
 # ============================================================================
 # 1. GENERACIÓN DE DATAFRAME: Metricas_campañas
 # ============================================================================
 
-def generar_metricas_campanas(n_registros=500):
-    """
-    Genera DataFrame sintético con métricas de Google Analytics y Facebook Ads
-    """
-    # Rango de fechas: año lectivo (septiembre 2024 - junio 2025)
-    start_date = pd.Timestamp('2024-09-01')
-    end_date = pd.Timestamp('2025-06-30')
-    
-    # Generar fechas aleatorias
-    fechas = pd.date_range(start_date, end_date, periods=n_registros)
-    fechas = np.random.choice(fechas, n_registros, replace=True)
-    fechas = pd.to_datetime(fechas).sort_values()
-    
-    # Nombres de campañas realistas
-    campanas_ga = [
-        'Master Data Science 2024', 'Bootcamp Full Stack', 'Curso Python Avanzado',
-        'Master IA y ML', 'Bootcamp Marketing Digital', 'Curso SQL Profesional',
-        'Master Ciberseguridad', 'Bootcamp UX/UI', 'Curso Cloud Computing'
-    ]
-    
-    campanas_fb = [
-        'Master Data Science 2024', 'Bootcamp Full Stack', 'Curso Python Avanzado',
-        'Master IA y ML', 'Bootcamp Marketing Digital', 'Curso SQL Profesional',
-        'Master Ciberseguridad', 'Bootcamp UX/UI', 'Curso Cloud Computing'
-    ]
-    
-    # Fuentes y medios (Google Analytics)
-    fuentes = ['google', 'facebook', 'direct', 'organic', 'referral', 'email']
-    medios = ['cpc', 'organic', 'referral', 'email', 'display', 'social']
-    
-    # Conjuntos de anuncios y nombres de anuncios (Facebook Ads)
-    conjuntos_anuncios = [
-        'Conjunto Retargeting', 'Conjunto Lookalike', 'Conjunto Intereses',
-        'Conjunto Demográfico', 'Conjunto Audiencia Personalizada'
-    ]
-    
-    anuncios_nombres = [
-        'Anuncio Video Master', 'Anuncio Carousel', 'Anuncio Imagen Simple',
-        'Anuncio Lead Gen', 'Anuncio Conversión', 'Anuncio Brand Awareness'
-    ]
-    
-    # Determinar qué plataforma usar para cada registro
-    plataformas = np.random.choice(['Google Analytics', 'Facebook Ads'], 
-                                   n_registros, p=[0.5, 0.5])
-    
-    # Inicializar listas para almacenar datos
-    datos = []
-    
-    for i, fecha in enumerate(fechas):
-        plataforma = plataformas[i]
-        
-        if plataforma == 'Google Analytics':
-            # Métricas específicas de Google Analytics
-            sesiones = np.random.randint(50, 2000)
-            usuarios = int(sesiones * np.random.uniform(0.7, 0.95))
-            paginas_vistas = int(sesiones * np.random.uniform(1.5, 4.5))
-            tasa_rebote = np.random.uniform(30, 75)
-            duracion_promedio = np.random.uniform(60, 600)  # segundos
-            conversiones = np.random.randint(0, int(sesiones * 0.1))
-            tasa_conversion = (conversiones / sesiones * 100) if sesiones > 0 else 0
-            ingresos = conversiones * np.random.uniform(500, 5000)
-            
-            datos.append({
-                'fecha': fecha,
-                'plataforma': 'Google Analytics',
-                'campana_nombre': np.random.choice(campanas_ga),
-                'fuente': np.random.choice(fuentes),
-                'medio': np.random.choice(medios),
-                'sesiones': sesiones,
-                'usuarios': usuarios,
-                'paginas_vistas': paginas_vistas,
-                'tasa_rebote': round(tasa_rebote, 2),
-                'duracion_promedio_sesion': round(duracion_promedio, 2),
-                'conversiones': conversiones,
-                'tasa_conversion': round(tasa_conversion, 2),
-                'ingresos': round(ingresos, 2),
-                # Campos específicos de Facebook (NaN para GA)
-                'conjunto_anuncios': None,
-                'anuncio_nombre': None,
-                'impresiones': None,
-                'alcance': None,
-                'clics': None,
-                'gasto': None,
-                'ctr': None,
-                'cpc': None,
-                'cpm': None,
-                'costo_por_conversion': None
-            })
-        else:
-            # Métricas específicas de Facebook Ads
-            impresiones = np.random.randint(1000, 50000)
-            alcance = int(impresiones * np.random.uniform(0.6, 0.9))
-            clics = np.random.randint(10, int(impresiones * 0.05))
-            gasto = np.random.uniform(50, 2000)
-            ctr = (clics / impresiones * 100) if impresiones > 0 else 0
-            cpc = (gasto / clics) if clics > 0 else 0
-            cpm = (gasto / impresiones * 1000) if impresiones > 0 else 0
-            conversiones = np.random.randint(0, int(clics * 0.15))
-            costo_por_conversion = (gasto / conversiones) if conversiones > 0 else 0
-            
-            datos.append({
-                'fecha': fecha,
-                'plataforma': 'Facebook Ads',
-                'campana_nombre': np.random.choice(campanas_fb),
-                'conjunto_anuncios': np.random.choice(conjuntos_anuncios),
-                'anuncio_nombre': np.random.choice(anuncios_nombres),
-                'impresiones': impresiones,
-                'alcance': alcance,
-                'clics': clics,
-                'gasto': round(gasto, 2),
-                'ctr': round(ctr, 2),
-                'cpc': round(cpc, 2),
-                'cpm': round(cpm, 2),
-                'conversiones': conversiones,
-                'costo_por_conversion': round(costo_por_conversion, 2),
-                # Campos específicos de Google Analytics (NaN para FB)
-                'fuente': None,
-                'medio': None,
-                'sesiones': None,
-                'usuarios': None,
-                'paginas_vistas': None,
-                'tasa_rebote': None,
-                'duracion_promedio_sesion': None,
-                'tasa_conversion': None,
-                'ingresos': None
-            })
-    
-    df_campanas = pd.DataFrame(datos)
-    return df_campanas
+# ===========================
+# OPCIONES CATEGÓRICAS
+# ===========================
+
+PLATAFORMAS = ["Google Ads", "Meta Ads", "LinkedIn Ads", "TikTok Ads"]
+FUENTES = ["google", "facebook", "instagram", "linkedin", "newsletter"]
+MEDIOS = ["cpc", "social", "email", "display", "video"]
+PERIODOS_ACADEMICOS = ["pre_matricula", "captacion", "cierre", "post_matricula"]
+FRANJAS_HORARIAS = ["manana", "tarde", "noche"]
+CIUDADES = ["Madrid", "Barcelona", "Valencia", "Sevilla", "Bilbao", "Online"]
+PAISES = ["ES", "PT", "FR", "IT", "MX", "AR", "CO"]
+DEVICE_CATEGORIES = ["desktop", "mobile", "tablet"]
+
+NIVELES_ESTUDIO = [
+    "ESO", "Bachillerato", "FP", "Grado universitario",
+    "Postgrado/Master", "Doctorado"
+]
+SITUACION_LABORAL = [
+    "estudiante", "trabajando", "en_transicion", "desempleado"
+]
+INTERES_AREA = [
+    "IA", "Ciberseguridad", "Data", "Full-Stack", "Cloud", "UX/UI"
+]
+OBJETIVO = [
+    "first_job", "reskilling", "upskilling", "emprendimiento"
+]
+CAPACIDAD_INVERSION = ["baja", "media", "alta"]
+GENEROS = ["M", "F", "Otro", "Prefiere_no_decirlo"]
+
+TIPO_CREATIVIDAD = ["imagen", "video", "carrusel"]
+FORMATO_CREATIVIDAD = ["feed", "stories", "shorts/reels", "search", "display"]
+CTA_MENSAJE = [
+    "Inscríbete ahora", "Reserva tu plaza", "Descargar guía",
+    "Agenda una llamada", "Solicita información"
+]
+ANGULO_MENSAJE = [
+    "empleabilidad", "salario", "vocacion_tech", "flexibilidad", "internacional"
+]
+MODELOS_ATRIBUCION = ["last_click", "first_click", "data_driven"]
+
+# Alguna variable extra útil:
+CANALES_AGRUPADOS = ["search", "paid_social", "display_video", "email_own", "organic_like"]
+
+def generar_metricas_campanas(n_filas=500):
+    # ===========================
+    # 1. CONTEXTO TEMPORAL
+    # ===========================
+    fechas = pd.to_datetime(
+        rng.integers(
+            pd.Timestamp("2024-01-01").value,
+            pd.Timestamp("2024-12-31").value,
+            size=n_filas,
+        )
+    ).normalize()
+
+    df = pd.DataFrame({
+        "fecha": fechas,
+    })
+
+    df["mes"] = df["fecha"].dt.month
+    df["dia_semana"] = df["fecha"].dt.day_name()
+    df["es_fin_de_semana"] = df["dia_semana"].isin(["Saturday", "Sunday"]).astype(int)
+    df["franja_horaria"] = rng.choice(FRANJAS_HORARIAS, size=n_filas, replace=True)
+    df["periodo_academico"] = rng.choice(PERIODOS_ACADEMICOS, size=n_filas, replace=True)
+
+    # ===========================
+    # 2. IDENTIDAD / CANAL
+    # ===========================
+    df["plataforma"] = rng.choice(PLATAFORMAS, size=n_filas, replace=True)
+    df["fuente"] = rng.choice(FUENTES, size=n_filas, replace=True)
+    df["medio"] = rng.choice(MEDIOS, size=n_filas, replace=True)
+    df["canal_agrupado"] = rng.choice(CANALES_AGRUPADOS, size=n_filas, replace=True)
+
+    # IDs sintéticos de campaña / conjunto / anuncio
+    df["campana_id"] = rng.integers(100, 999, size=n_filas).astype(str)
+    df["campana_nombre"] = "Campaña_" + df["campana_id"]
+    df["conjunto_anuncios_id"] = rng.integers(1000, 9999, size=n_filas).astype(str)
+    df["conjunto_anuncios"] = "Conjunto_" + df["conjunto_anuncios_id"]
+    df["anuncio_id"] = rng.integers(10000, 99999, size=n_filas).astype(str)
+    df["anuncio_nombre"] = "Anuncio_" + df["anuncio_id"]
+
+    # Landing / ubicación
+    df["landing_url"] = "https://immune.institute/landing/" + rng.choice(
+        ["ia", "ciberseguridad", "data", "fullstack", "cloud"], size=n_filas
+    )
+    df["ciudad_usuario"] = rng.choice(CIUDADES, size=n_filas, replace=True)
+    df["pais_usuario"] = rng.choice(PAISES, size=n_filas, replace=True)
+    df["device_category"] = rng.choice(DEVICE_CATEGORIES, size=n_filas, replace=True)
+
+    # ===========================
+    # 3. PERFIL DEL USUARIO
+    # ===========================
+    df["edad"] = rng.integers(18, 55, size=n_filas)
+    df["genero"] = rng.choice(GENEROS, size=n_filas, replace=True)
+    df["nivel_estudios"] = rng.choice(NIVELES_ESTUDIO, size=n_filas, replace=True)
+    df["situacion_laboral"] = rng.choice(SITUACION_LABORAL, size=n_filas, replace=True)
+    df["interes_area"] = rng.choice(INTERES_AREA, size=n_filas, replace=True)
+    df["experiencia_previa_tech"] = rng.choice([0, 1, 2], size=n_filas, replace=True)  # 0,1,2 = bajo/medio/alto
+    df["objetivo"] = rng.choice(OBJETIVO, size=n_filas, replace=True)
+    df["capacidad_inversion"] = rng.choice(CAPACIDAD_INVERSION, size=n_filas, replace=True)
+
+    # ===========================
+    # 4. PAID MEDIA (base)
+    # ===========================
+    # Impresiones, alcance, clics
+    impresiones = rng.integers(500, 50000, size=n_filas)
+    alcance = np.minimum(
+        impresiones,
+        rng.integers(200, 20000, size=n_filas)
+    )
+    alcance = np.maximum(alcance, 1)  # evitar 0
+
+    ctr = rng.uniform(0.005, 0.20, size=n_filas)  # 0.5% a 20%
+    clics = np.maximum((impresiones * ctr).astype(int), 1)
+
+    cpc = rng.uniform(0.3, 5.0, size=n_filas)
+    gasto = clics * cpc
+    cpm = (gasto / np.maximum(impresiones, 1)) * 1000
+
+    df["impresiones"] = impresiones
+    df["alcance"] = alcance
+    df["frecuencia"] = df["impresiones"] / df["alcance"]
+    df["clics"] = clics
+    df["gasto"] = gasto
+    df["ctr"] = df["clics"] / df["impresiones"]
+    df["cpc"] = cpc
+    df["cpm"] = cpm
+
+    # ===========================
+    # 5. MÉTRICAS WEB
+    # ===========================
+    # Sesiones ~ clics (+ ruido)
+    sesiones = np.maximum((df["clics"] * rng.uniform(0.8, 1.1, size=n_filas)).astype(int), 1)
+    usuarios = np.maximum((sesiones * rng.uniform(0.6, 1.0, size=n_filas)).astype(int), 1)
+    nuevos_usuarios = (usuarios * rng.uniform(0.3, 0.8, size=n_filas)).astype(int)
+    nuevos_usuarios = np.minimum(nuevos_usuarios, usuarios)
+    usuarios_recurrentes = np.maximum(usuarios - nuevos_usuarios, 0)
+
+    paginas_vistas = sesiones * rng.integers(1, 6, size=n_filas)
+    paginas_por_sesion = paginas_vistas / sesiones
+
+    engagement_rate = rng.uniform(0.1, 0.9, size=n_filas)
+    scroll_max = rng.uniform(30, 100, size=n_filas)
+
+    eventos_interaccion = (sesiones * rng.uniform(0.5, 3.0, size=n_filas)).astype(int)
+
+    # Eventos relacionados con formulario
+    eventos_form_view = (sesiones * rng.uniform(0.1, 0.8, size=n_filas)).astype(int)
+    eventos_form_start = np.minimum(
+        (eventos_form_view * rng.uniform(0.4, 0.9, size=n_filas)).astype(int),
+        eventos_form_view
+    )
+    eventos_form_submit = np.minimum(
+        (eventos_form_start * rng.uniform(0.3, 0.9, size=n_filas)).astype(int),
+        eventos_form_start
+    )
+
+    df["sesiones"] = sesiones
+    df["usuarios"] = usuarios
+    df["nuevos_usuarios"] = nuevos_usuarios
+    df["usuarios_recurrentes"] = usuarios_recurrentes
+    df["paginas_vistas"] = paginas_vistas
+    df["paginas_por_sesion"] = paginas_por_sesion
+    df["engagement_rate"] = engagement_rate
+    df["scroll_max"] = scroll_max
+    df["eventos_interaccion"] = eventos_interaccion
+    df["eventos_form_view"] = eventos_form_view
+    df["eventos_form_start"] = eventos_form_start
+    df["eventos_form_submit"] = eventos_form_submit
+
+    # ===========================
+    # 6. FUNNEL EDUCATIVO / NEGOCIO
+    # ===========================
+    # leads ~ eventos_form_submit, matriculas ~ leads
+    leads = np.maximum(
+        (eventos_form_submit * rng.uniform(0.5, 1.0, size=n_filas)).astype(int),
+        0
+    )
+
+    leads_cualificados = np.minimum(
+        (leads * rng.uniform(0.4, 0.9, size=n_filas)).astype(int),
+        leads
+    )
+
+    entrevistas_agendadas = np.minimum(
+        (leads_cualificados * rng.uniform(0.5, 0.95, size=n_filas)).astype(int),
+        leads_cualificados
+    )
+
+    entrevistas_realizadas = np.minimum(
+        (entrevistas_agendadas * rng.uniform(0.7, 1.0, size=n_filas)).astype(int),
+        entrevistas_agendadas
+    )
+
+    matriculas = np.minimum(
+        (entrevistas_realizadas * rng.uniform(0.2, 0.8, size=n_filas)).astype(int),
+        entrevistas_realizadas
+    )
+
+    # ticket medio
+    importe_matricula = rng.uniform(4000, 12000, size=n_filas)
+    ingresos = matriculas * importe_matricula
+
+    df["leads"] = leads
+    df["leads_cualificados"] = leads_cualificados
+    df["entrevistas_agendadas"] = entrevistas_agendadas
+    df["entrevistas_realizadas"] = entrevistas_realizadas
+    df["matriculas"] = matriculas
+    df["importe_matricula"] = importe_matricula
+    df["ingresos"] = ingresos
+
+    # conversiones (puedes equipararlo a leads o a otra métrica)
+    df["conversiones"] = df["leads"]
+    df["tasa_conversion"] = df["conversiones"] / df["sesiones"]
+
+    # ===========================
+    # 7. ATRIBUCIÓN
+    # ===========================
+    df["modelo_atribucion"] = rng.choice(MODELOS_ATRIBUCION, size=n_filas, replace=True)
+
+    # repartimos conversiones en dos modelos para simular diferencias
+    factor_ll = rng.uniform(0.6, 1.1, size=n_filas)
+    factor_dd = rng.uniform(0.8, 1.2, size=n_filas)
+
+    df["conversiones_last_click"] = np.maximum((df["conversiones"] * factor_ll).astype(int), 0)
+    df["conversiones_data_driven"] = np.maximum((df["conversiones"] * factor_dd).astype(int), 0)
+
+    # ===========================
+    # 8. CREATIVIDAD
+    # ===========================
+    df["tipo_creatividad"] = rng.choice(TIPO_CREATIVIDAD, size=n_filas, replace=True)
+    df["formato_creatividad"] = rng.choice(FORMATO_CREATIVIDAD, size=n_filas, replace=True)
+    df["cta_mensaje"] = rng.choice(CTA_MENSAJE, size=n_filas, replace=True)
+    df["angulo_mensaje"] = rng.choice(ANGULO_MENSAJE, size=n_filas, replace=True)
+    df["duracion_video_segundos"] = np.where(
+        df["tipo_creatividad"] == "video",
+        rng.integers(10, 120, size=n_filas),
+        0
+    )
+    # color_dominante representado como cluster 0-4
+    df["color_dominante"] = rng.integers(0, 5, size=n_filas)
+
+    # ===========================
+    # 9. MÉTRICAS DERIVADAS CLAVE
+    # ===========================
+    df["cpl"] = df["gasto"] / np.maximum(df["leads"], 1)
+    df["cpmatricula"] = df["gasto"] / np.maximum(df["matriculas"], 1)
+    df["roas"] = np.where(df["gasto"] > 0, df["ingresos"] / df["gasto"], 0)
+
+    df["interaccion_media"] = df["eventos_interaccion"] / df["sesiones"]
+    df["indice_intencion_form"] = df["eventos_form_start"] / np.maximum(df["sesiones"], 1)
+    df["porcentaje_scroll"] = df["scroll_max"] / 100.0
+    df["engagement_relevante"] = df["engagement_rate"] * df["paginas_por_sesion"]
+    df["eficiencia_creatividad"] = df["clics"] / df["alcance"]
+    df["eficiencia_gasto"] = df["conversiones"] / np.maximum(df["gasto"], 1)
+    df["valor_prospecto"] = np.where(
+        df["leads"] > 0,
+        df["ingresos"] / df["leads"],
+        0
+    )
+    df["ratio_frecuencia"] = df["frecuencia"]
+    df["propension_matricula"] = np.where(
+        df["leads"] > 0,
+        df["matriculas"] / df["leads"],
+        0
+    )
+
+    # ===========================
+    # 10. SALUD DE LOS DATOS (extra útil)
+    # ===========================
+    # Simple: penaliza 0 impresiones, 0 sesiones, 0 leads
+    penalizacion = (
+        (df["impresiones"] == 0).astype(int)
+        + (df["sesiones"] == 0).astype(int)
+        + (df["leads"] == 0).astype(int)
+    )
+    df["data_health_score"] = np.clip(100 - penalizacion * 20, 0, 100)
+
+    return df
 
 # ============================================================================
 # 2. GENERACIÓN DE DATAFRAME: Metricas_satisfaccion
@@ -320,7 +472,7 @@ if __name__ == "__main__":
     
     # Generar DataFrames
     print("1. Generando Metricas_campanas...")
-    Metricas_campanas = generar_metricas_campanas(n_registros=500)
+    Metricas_campanas = generar_metricas_campanas(n_filas=500)
     print(f"   [OK] Generados {len(Metricas_campanas)} registros")
     print(f"   [OK] Columnas: {list(Metricas_campanas.columns)}")
     print(f"   [OK] Rango de fechas: {Metricas_campanas['fecha'].min()} a {Metricas_campanas['fecha'].max()}")
