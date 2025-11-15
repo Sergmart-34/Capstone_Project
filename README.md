@@ -28,6 +28,10 @@ python generar_datos_sinteticos.py
 
 Esto generará los archivos CSV con 500 registros cada uno.
 
+
+Enlace para el documento de resumen visual del proyecto : https://excalidraw.com/#room=b2f4fb4c0ce095979505,gzZQ7jnj6MIlwEKvtgGA0g
+
+
 ## Documentación
 
 Ver `Arquitectura.md` para la documentación completa del proyecto, incluyendo:
