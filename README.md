@@ -34,4 +34,3 @@ Ver `Arquitectura.md` para la documentación completa del proyecto, incluyendo:
 - Diccionario detallado de variables
 - Especificaciones de los DataFrames
 - Estructura de datos
-
