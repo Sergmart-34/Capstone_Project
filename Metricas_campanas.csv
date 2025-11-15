@@ -1,0 +1,501 @@
+﻿fecha,plataforma,campana_nombre,fuente,medio,sesiones,usuarios,paginas_vistas,tasa_rebote,duracion_promedio_sesion,conversiones,tasa_conversion,ingresos,conjunto_anuncios,anuncio_nombre,impresiones,alcance,clics,gasto,ctr,cpc,cpm,costo_por_conversion
+2024-09-01 14:31:30.180360721,Google Analytics,Master Data Science 2024,email,social,1046.0,935.0,2018.0,39.2,445.59,4,0.38,17781.78,,,,,,,,,,
+2024-09-01 14:31:30.180360721,Facebook Ads,Bootcamp UX/UI,,,,,,,,14,,,Conjunto Audiencia Personalizada,Anuncio Conversión,24710.0,17634.0,225.0,1227.72,0.91,5.46,49.69,87.69
+2024-09-01 14:31:30.180360721,Facebook Ads,Curso Python Avanzado,,,,,,,,94,,,Conjunto Intereses,Anuncio Lead Gen,15382.0,11116.0,694.0,1454.07,4.51,2.1,94.53,15.47
+2024-09-02 19:34:30.541082164,Facebook Ads,Bootcamp UX/UI,,,,,,,,9,,,Conjunto Lookalike,Anuncio Brand Awareness,34561.0,23347.0,78.0,1662.26,0.23,21.31,48.1,184.7
+2024-09-03 10:06:00.721442885,Facebook Ads,Curso Cloud Computing,,,,,,,,17,,,Conjunto Retargeting,Anuncio Lead Gen,25938.0,16756.0,150.0,321.28,0.58,2.14,12.39,18.9
+2024-09-04 00:37:30.901803607,Facebook Ads,Bootcamp UX/UI,,,,,,,,4,,,Conjunto Audiencia Personalizada,Anuncio Carousel,28306.0,24898.0,365.0,1841.56,1.29,5.05,65.06,460.39
+2024-09-05 20:12:01.442885771,Google Analytics,Master Ciberseguridad,google,social,1058.0,893.0,3512.0,49.09,457.68,39,3.69,166997.16,,,,,,,,,,
+2024-09-05 20:12:01.442885771,Google Analytics,Curso Python Avanzado,referral,cpc,1686.0,1595.0,6772.0,35.61,557.25,62,3.68,117892.95,,,,,,,,,,
+2024-09-08 06:18:02.164328657,Facebook Ads,Curso Cloud Computing,,,,,,,,25,,,Conjunto Intereses,Anuncio Lead Gen,10524.0,7372.0,445.0,1586.19,4.23,3.56,150.72,63.45
+2024-09-08 20:49:32.344689378,Facebook Ads,Bootcamp Full Stack,,,,,,,,26,,,Conjunto Intereses,Anuncio Video Master,35393.0,31002.0,395.0,958.12,1.12,2.43,27.07,36.85
+2024-09-09 11:21:02.525050100,Facebook Ads,Bootcamp UX/UI,,,,,,,,53,,,Conjunto Retargeting,Anuncio Lead Gen,7783.0,5194.0,373.0,1829.86,4.79,4.91,235.11,34.53
+2024-09-09 11:21:02.525050100,Facebook Ads,Curso SQL Profesional,,,,,,,,62,,,Conjunto Lookalike,Anuncio Lead Gen,46765.0,28534.0,1194.0,756.67,2.55,0.63,16.18,12.2
+2024-09-10 16:24:02.885771543,Facebook Ads,Master IA y ML,,,,,,,,48,,,Conjunto Demográfico,Anuncio Conversión,17241.0,13776.0,858.0,1924.09,4.98,2.24,111.6,40.09
+2024-09-11 06:55:33.066132264,Facebook Ads,Bootcamp UX/UI,,,,,,,,122,,,Conjunto Intereses,Anuncio Brand Awareness,21806.0,16978.0,999.0,1512.42,4.58,1.51,69.36,12.4
+2024-09-13 02:30:03.607214428,Facebook Ads,Bootcamp UX/UI,,,,,,,,5,,,Conjunto Intereses,Anuncio Carousel,3079.0,2279.0,58.0,121.27,1.88,2.09,39.39,24.25
+2024-09-13 02:30:03.607214428,Facebook Ads,Bootcamp Full Stack,,,,,,,,112,,,Conjunto Intereses,Anuncio Lead Gen,34536.0,28756.0,1208.0,1078.91,3.5,0.89,31.24,9.63
+2024-09-13 17:01:33.787575150,Facebook Ads,Master Data Science 2024,,,,,,,,33,,,Conjunto Demográfico,Anuncio Carousel,13342.0,11792.0,467.0,1799.99,3.5,3.85,134.91,54.55
+2024-09-13 17:01:33.787575150,Facebook Ads,Bootcamp UX/UI,,,,,,,,66,,,Conjunto Intereses,Anuncio Conversión,20846.0,16628.0,842.0,1125.86,4.04,1.34,54.01,17.06
+2024-09-16 17:39:04.689378757,Facebook Ads,Bootcamp UX/UI,,,,,,,,32,,,Conjunto Lookalike,Anuncio Imagen Simple,9519.0,6008.0,248.0,1160.41,2.61,4.68,121.91,36.26
+2024-09-17 08:10:34.869739479,Google Analytics,Bootcamp Marketing Digital,email,organic,145.0,137.0,479.0,66.31,579.83,3,2.07,10519.15,,,,,,,,,,
+2024-09-17 08:10:34.869739479,Google Analytics,Bootcamp Full Stack,facebook,cpc,56.0,48.0,207.0,68.17,126.3,2,3.57,6247.37,,,,,,,,,,
+2024-09-17 22:42:05.050100200,Google Analytics,Bootcamp Marketing Digital,email,social,864.0,739.0,2166.0,67.13,256.05,11,1.27,46617.4,,,,,,,,,,
+2024-09-20 08:48:05.771543086,Facebook Ads,Master Data Science 2024,,,,,,,,279,,,Conjunto Lookalike,Anuncio Brand Awareness,46960.0,34320.0,1900.0,1899.48,4.05,1.0,40.45,6.81
+2024-09-20 08:48:05.771543086,Google Analytics,Bootcamp Full Stack,referral,cpc,681.0,644.0,1983.0,38.19,321.78,13,1.91,49888.69,,,,,,,,,,
+2024-09-21 13:51:06.132264529,Google Analytics,Master Ciberseguridad,referral,referral,1432.0,1080.0,4919.0,48.98,131.43,28,1.96,35631.59,,,,,,,,,,
+2024-09-21 13:51:06.132264529,Facebook Ads,Bootcamp Full Stack,,,,,,,,5,,,Conjunto Retargeting,Anuncio Conversión,32889.0,24959.0,51.0,1174.21,0.16,23.02,35.7,234.84
+2024-09-21 13:51:06.132264529,Google Analytics,Curso SQL Profesional,direct,organic,1226.0,1010.0,4487.0,34.8,135.61,26,2.12,118302.18,,,,,,,,,,
+2024-09-22 04:22:36.312625250,Facebook Ads,Master Data Science 2024,,,,,,,,44,,,Conjunto Lookalike,Anuncio Conversión,31987.0,25267.0,830.0,391.97,2.59,0.47,12.25,8.91
+2024-09-22 18:54:06.492985972,Google Analytics,Curso Python Avanzado,facebook,display,1549.0,1382.0,4284.0,45.92,577.66,50,3.23,45325.82,,,,,,,,,,
+2024-09-22 18:54:06.492985972,Google Analytics,Bootcamp Full Stack,email,social,198.0,180.0,556.0,71.2,449.63,7,3.54,21341.75,,,,,,,,,,
+2024-09-23 09:25:36.673346693,Facebook Ads,Master IA y ML,,,,,,,,98,,,Conjunto Intereses,Anuncio Video Master,24863.0,16521.0,760.0,561.41,3.06,0.74,22.58,5.73
+2024-09-23 23:57:06.853707415,Google Analytics,Master Data Science 2024,google,cpc,1007.0,945.0,1977.0,58.05,316.09,72,7.15,60344.64,,,,,,,,,,
+2024-09-25 05:00:07.214428857,Google Analytics,Curso Python Avanzado,email,social,110.0,95.0,308.0,41.09,502.32,4,3.64,2042.11,,,,,,,,,,
+2024-09-25 05:00:07.214428857,Facebook Ads,Master Data Science 2024,,,,,,,,48,,,Conjunto Lookalike,Anuncio Video Master,24393.0,15390.0,1077.0,1624.49,4.42,1.51,66.6,33.84
+2024-09-25 19:31:37.394789579,Facebook Ads,Bootcamp UX/UI,,,,,,,,2,,,Conjunto Audiencia Personalizada,Anuncio Video Master,29470.0,22290.0,21.0,1106.71,0.07,52.7,37.55,553.35
+2024-09-27 00:34:37.755511022,Google Analytics,Curso Cloud Computing,referral,organic,1800.0,1585.0,6141.0,74.13,547.82,11,0.61,16449.87,,,,,,,,,,
+2024-09-27 00:34:37.755511022,Facebook Ads,Bootcamp Marketing Digital,,,,,,,,25,,,Conjunto Lookalike,Anuncio Brand Awareness,28935.0,23485.0,720.0,1998.74,2.49,2.78,69.08,79.95
+2024-09-27 15:06:07.935871743,Google Analytics,Master IA y ML,direct,organic,384.0,335.0,918.0,71.6,584.37,22,5.73,89738.84,,,,,,,,,,
+2024-09-28 05:37:38.116232465,Google Analytics,Bootcamp Marketing Digital,direct,organic,1516.0,1375.0,2442.0,56.83,184.2,44,2.9,37236.73,,,,,,,,,,
+2024-09-29 10:40:38.476953908,Facebook Ads,Master IA y ML,,,,,,,,0,,,Conjunto Audiencia Personalizada,Anuncio Brand Awareness,21662.0,15625.0,48.0,664.82,0.22,13.85,30.69,0.0
+2024-09-30 01:12:08.657314629,Facebook Ads,Bootcamp Full Stack,,,,,,,,1,,,Conjunto Intereses,Anuncio Carousel,8564.0,6746.0,25.0,882.29,0.29,35.29,103.02,882.29
+2024-09-30 01:12:08.657314629,Facebook Ads,Master Ciberseguridad,,,,,,,,2,,,Conjunto Demográfico,Anuncio Conversión,1545.0,936.0,22.0,1081.43,1.42,49.16,699.95,540.71
+2024-09-30 15:43:38.837675351,Facebook Ads,Bootcamp UX/UI,,,,,,,,15,,,Conjunto Demográfico,Anuncio Video Master,30629.0,19190.0,327.0,985.76,1.07,3.01,32.18,65.72
+2024-10-01 06:15:09.018036072,Facebook Ads,Master Data Science 2024,,,,,,,,64,,,Conjunto Intereses,Anuncio Conversión,38129.0,23926.0,1392.0,1068.91,3.65,0.77,28.03,16.7
+2024-10-01 06:15:09.018036072,Facebook Ads,Curso Cloud Computing,,,,,,,,36,,,Conjunto Retargeting,Anuncio Conversión,34933.0,24072.0,333.0,1445.33,0.95,4.34,41.37,40.15
+2024-10-01 20:46:39.198396793,Google Analytics,Curso SQL Profesional,email,referral,634.0,461.0,1695.0,35.6,576.46,36,5.68,145387.89,,,,,,,,,,
+2024-10-01 20:46:39.198396793,Facebook Ads,Bootcamp UX/UI,,,,,,,,3,,,Conjunto Demográfico,Anuncio Conversión,30757.0,24114.0,1186.0,1499.54,3.86,1.26,48.75,499.85
+2024-10-02 11:18:09.378757515,Google Analytics,Master Data Science 2024,facebook,referral,1648.0,1248.0,6578.0,35.42,85.35,56,3.4,83562.52,,,,,,,,,,
+2024-10-02 11:18:09.378757515,Google Analytics,Master Data Science 2024,referral,referral,1961.0,1544.0,3281.0,73.61,537.24,98,5.0,312397.87,,,,,,,,,,
+2024-10-02 11:18:09.378757515,Google Analytics,Curso Cloud Computing,google,email,1563.0,1295.0,4647.0,74.84,544.62,12,0.77,18086.15,,,,,,,,,,
+2024-10-03 01:49:39.559118236,Google Analytics,Curso Cloud Computing,facebook,email,1983.0,1814.0,5695.0,47.6,207.4,28,1.41,125982.26,,,,,,,,,,
+2024-10-03 01:49:39.559118236,Facebook Ads,Bootcamp Full Stack,,,,,,,,2,,,Conjunto Demográfico,Anuncio Brand Awareness,29841.0,25151.0,49.0,1866.6,0.16,38.09,62.55,933.3
+2024-10-03 01:49:39.559118236,Facebook Ads,Bootcamp Marketing Digital,,,,,,,,5,,,Conjunto Demográfico,Anuncio Conversión,15663.0,12666.0,185.0,1016.96,1.18,5.5,64.93,203.39
+2024-10-03 01:49:39.559118236,Facebook Ads,Curso Python Avanzado,,,,,,,,44,,,Conjunto Lookalike,Anuncio Imagen Simple,42755.0,26629.0,602.0,169.96,1.41,0.28,3.98,3.86
+2024-10-03 16:21:09.739478958,Google Analytics,Master Data Science 2024,direct,referral,1641.0,1420.0,5138.0,68.9,456.31,146,8.9,643381.65,,,,,,,,,,
+2024-10-05 11:55:40.280561122,Google Analytics,Master Ciberseguridad,referral,referral,865.0,758.0,3469.0,61.39,427.28,62,7.17,226018.42,,,,,,,,,,
+2024-10-06 02:27:10.460921844,Google Analytics,Master Ciberseguridad,facebook,email,606.0,556.0,962.0,67.16,129.59,42,6.93,64210.16,,,,,,,,,,
+2024-10-06 16:58:40.641282565,Google Analytics,Curso Cloud Computing,google,organic,1331.0,1208.0,4022.0,30.29,215.0,45,3.38,88602.8,,,,,,,,,,
+2024-10-07 22:01:41.002004008,Facebook Ads,Curso Python Avanzado,,,,,,,,5,,,Conjunto Lookalike,Anuncio Video Master,13987.0,8430.0,374.0,1570.7,2.67,4.2,112.3,314.14
+2024-10-07 22:01:41.002004008,Facebook Ads,Curso SQL Profesional,,,,,,,,36,,,Conjunto Demográfico,Anuncio Lead Gen,43207.0,36813.0,1445.0,1283.61,3.34,0.89,29.71,35.66
+2024-10-08 12:33:11.182364729,Facebook Ads,Curso SQL Profesional,,,,,,,,16,,,Conjunto Retargeting,Anuncio Carousel,19271.0,16019.0,333.0,636.88,1.73,1.91,33.05,39.8
+2024-10-08 12:33:11.182364729,Google Analytics,Master IA y ML,direct,referral,935.0,735.0,3144.0,32.06,530.63,63,6.74,223160.81,,,,,,,,,,
+2024-10-09 17:36:11.543086172,Facebook Ads,Curso SQL Profesional,,,,,,,,32,,,Conjunto Intereses,Anuncio Imagen Simple,22427.0,18557.0,1040.0,177.97,4.64,0.17,7.94,5.56
+2024-10-10 08:07:41.723446894,Facebook Ads,Master Data Science 2024,,,,,,,,3,,,Conjunto Intereses,Anuncio Conversión,30241.0,18153.0,1463.0,963.65,4.84,0.66,31.87,321.22
+2024-10-11 13:10:42.084168337,Facebook Ads,Master IA y ML,,,,,,,,74,,,Conjunto Lookalike,Anuncio Brand Awareness,33232.0,21570.0,896.0,1660.55,2.7,1.85,49.97,22.44
+2024-10-13 23:16:42.805611222,Facebook Ads,Bootcamp Marketing Digital,,,,,,,,7,,,Conjunto Audiencia Personalizada,Anuncio Imagen Simple,4093.0,2617.0,90.0,1928.31,2.2,21.43,471.12,275.47
+2024-10-15 18:51:13.346693387,Google Analytics,Bootcamp Full Stack,referral,referral,133.0,106.0,308.0,74.28,281.04,11,8.27,41358.92,,,,,,,,,,
+2024-10-19 10:00:14.428857715,Google Analytics,Curso Cloud Computing,google,display,1905.0,1746.0,6943.0,55.32,314.63,26,1.36,126278.63,,,,,,,,,,
+2024-10-19 10:00:14.428857715,Google Analytics,Bootcamp Marketing Digital,organic,organic,1382.0,1020.0,3954.0,53.87,69.65,92,6.66,100335.38,,,,,,,,,,
+2024-10-19 10:00:14.428857715,Facebook Ads,Master Data Science 2024,,,,,,,,6,,,Conjunto Demográfico,Anuncio Lead Gen,16251.0,13633.0,162.0,52.4,1.0,0.32,3.22,8.73
+2024-10-22 10:37:45.330661323,Google Analytics,Bootcamp UX/UI,direct,display,1813.0,1522.0,3946.0,37.24,411.82,116,6.4,366117.78,,,,,,,,,,
+2024-10-23 15:40:45.691382766,Google Analytics,Curso Cloud Computing,google,email,770.0,541.0,1322.0,47.66,319.17,37,4.81,67061.82,,,,,,,,,,
+2024-10-24 06:12:15.871743487,Google Analytics,Curso SQL Profesional,email,email,151.0,139.0,554.0,63.71,138.8,11,7.28,54339.8,,,,,,,,,,
+2024-10-26 01:46:46.412825652,Google Analytics,Master Data Science 2024,referral,email,1733.0,1363.0,6632.0,72.36,99.1,32,1.85,143084.82,,,,,,,,,,
+2024-10-27 21:21:16.953907816,Facebook Ads,Bootcamp Full Stack,,,,,,,,1,,,Conjunto Lookalike,Anuncio Lead Gen,44201.0,39482.0,99.0,1394.46,0.22,14.09,31.55,1394.46
+2024-10-28 11:52:47.134268537,Facebook Ads,Curso Cloud Computing,,,,,,,,5,,,Conjunto Retargeting,Anuncio Carousel,7090.0,4518.0,132.0,111.59,1.86,0.85,15.74,22.32
+2024-10-28 11:52:47.134268537,Google Analytics,Master IA y ML,email,organic,765.0,702.0,2786.0,66.08,243.3,6,0.78,20842.14,,,,,,,,,,
+2024-10-29 02:24:17.314629259,Google Analytics,Master Ciberseguridad,organic,display,71.0,57.0,243.0,53.69,455.06,2,2.82,7523.44,,,,,,,,,,
+2024-10-29 02:24:17.314629259,Google Analytics,Bootcamp Marketing Digital,direct,email,1610.0,1477.0,3473.0,73.91,241.92,135,8.39,597138.41,,,,,,,,,,
+2024-10-29 16:55:47.494989980,Google Analytics,Curso Python Avanzado,direct,display,1667.0,1175.0,5767.0,44.95,352.94,58,3.48,198735.0,,,,,,,,,,
+2024-10-30 07:27:17.675350702,Google Analytics,Bootcamp UX/UI,organic,display,142.0,114.0,299.0,67.82,154.06,4,2.82,15089.04,,,,,,,,,,
+2024-10-30 07:27:17.675350702,Google Analytics,Master IA y ML,facebook,display,565.0,499.0,2148.0,52.72,353.38,50,8.85,155201.97,,,,,,,,,,
+2024-10-30 07:27:17.675350702,Google Analytics,Curso SQL Profesional,referral,email,915.0,751.0,3770.0,70.53,287.73,41,4.48,203548.6,,,,,,,,,,
+2024-10-30 07:27:17.675350702,Facebook Ads,Bootcamp UX/UI,,,,,,,,281,,,Conjunto Demográfico,Anuncio Brand Awareness,49364.0,36516.0,2078.0,1479.57,4.21,0.71,29.97,5.27
+2024-10-30 07:27:17.675350702,Facebook Ads,Bootcamp Marketing Digital,,,,,,,,36,,,Conjunto Audiencia Personalizada,Anuncio Video Master,47678.0,37654.0,535.0,1944.22,1.12,3.63,40.78,54.01
+2024-10-30 07:27:17.675350702,Google Analytics,Curso SQL Profesional,google,referral,367.0,265.0,996.0,56.68,372.88,19,5.18,60197.3,,,,,,,,,,
+2024-10-30 21:58:47.855711423,Google Analytics,Master IA y ML,referral,referral,1930.0,1818.0,4389.0,59.55,235.6,167,8.65,533433.56,,,,,,,,,,
+2024-10-31 12:30:18.036072145,Facebook Ads,Bootcamp Marketing Digital,,,,,,,,256,,,Conjunto Demográfico,Anuncio Imagen Simple,45738.0,33507.0,2003.0,925.12,4.38,0.46,20.23,3.61
+2024-10-31 12:30:18.036072145,Facebook Ads,Curso Cloud Computing,,,,,,,,27,,,Conjunto Intereses,Anuncio Conversión,24499.0,19894.0,585.0,750.54,2.39,1.28,30.64,27.8
+2024-11-01 17:33:18.396793587,Facebook Ads,Bootcamp UX/UI,,,,,,,,43,,,Conjunto Demográfico,Anuncio Brand Awareness,7116.0,5408.0,314.0,1696.13,4.41,5.4,238.35,39.44
+2024-11-01 17:33:18.396793587,Facebook Ads,Curso Cloud Computing,,,,,,,,1,,,Conjunto Audiencia Personalizada,Anuncio Lead Gen,1619.0,1233.0,29.0,576.01,1.79,19.86,355.78,576.01
+2024-11-02 08:04:48.577154309,Google Analytics,Curso Python Avanzado,email,email,331.0,234.0,617.0,50.35,564.29,4,1.21,3859.56,,,,,,,,,,
+2024-11-03 13:07:48.937875752,Google Analytics,Curso Cloud Computing,direct,organic,539.0,430.0,1584.0,60.87,69.39,24,4.45,81024.95,,,,,,,,,,
+2024-11-04 03:39:19.118236473,Facebook Ads,Master IA y ML,,,,,,,,44,,,Conjunto Lookalike,Anuncio Carousel,10110.0,8088.0,349.0,295.2,3.45,0.85,29.2,6.71
+2024-11-04 18:10:49.298597195,Google Analytics,Bootcamp Full Stack,google,organic,941.0,817.0,4149.0,34.23,423.21,4,0.43,19340.24,,,,,,,,,,
+2024-11-07 04:16:50.020040080,Facebook Ads,Bootcamp UX/UI,,,,,,,,11,,,Conjunto Retargeting,Anuncio Brand Awareness,23473.0,14207.0,312.0,1162.69,1.33,3.73,49.53,105.7
+2024-11-07 04:16:50.020040080,Facebook Ads,Bootcamp Marketing Digital,,,,,,,,141,,,Conjunto Audiencia Personalizada,Anuncio Video Master,31659.0,25420.0,1180.0,1884.71,3.73,1.6,59.53,13.37
+2024-11-07 18:48:20.200400802,Facebook Ads,Curso Cloud Computing,,,,,,,,62,,,Conjunto Retargeting,Anuncio Video Master,45633.0,32151.0,1019.0,1229.66,2.23,1.21,26.95,19.83
+2024-11-07 18:48:20.200400802,Google Analytics,Curso SQL Profesional,email,email,1162.0,1066.0,4470.0,55.52,458.76,67,5.77,229629.26,,,,,,,,,,
+2024-11-07 18:48:20.200400802,Facebook Ads,Master Data Science 2024,,,,,,,,18,,,Conjunto Retargeting,Anuncio Conversión,27213.0,19904.0,406.0,1605.74,1.49,3.96,59.01,89.21
+2024-11-07 18:48:20.200400802,Google Analytics,Master Data Science 2024,google,referral,1728.0,1481.0,5753.0,55.35,265.43,92,5.32,231759.16,,,,,,,,,,
+2024-11-07 18:48:20.200400802,Facebook Ads,Bootcamp Full Stack,,,,,,,,73,,,Conjunto Retargeting,Anuncio Imagen Simple,23443.0,14168.0,876.0,378.47,3.74,0.43,16.14,5.18
+2024-11-08 09:19:50.380761523,Facebook Ads,Bootcamp Marketing Digital,,,,,,,,27,,,Conjunto Audiencia Personalizada,Anuncio Carousel,23612.0,20282.0,825.0,1701.98,3.49,2.06,72.08,63.04
+2024-11-09 14:22:50.741482966,Google Analytics,Master Ciberseguridad,email,social,714.0,567.0,1925.0,56.11,348.15,14,1.96,31845.02,,,,,,,,,,
+2024-11-09 14:22:50.741482966,Facebook Ads,Master Ciberseguridad,,,,,,,,106,,,Conjunto Audiencia Personalizada,Anuncio Lead Gen,27987.0,24814.0,1014.0,1653.67,3.62,1.63,59.09,15.6
+2024-11-09 14:22:50.741482966,Facebook Ads,Bootcamp Marketing Digital,,,,,,,,67,,,Conjunto Audiencia Personalizada,Anuncio Brand Awareness,40310.0,27130.0,724.0,791.15,1.8,1.09,19.63,11.81
+2024-11-12 00:28:51.462925852,Google Analytics,Curso Python Avanzado,facebook,email,836.0,606.0,2472.0,41.55,213.83,26,3.11,121763.89,,,,,,,,,,
+2024-11-12 15:00:21.643286573,Google Analytics,Master Ciberseguridad,referral,cpc,719.0,632.0,1666.0,48.61,125.82,6,0.83,21390.18,,,,,,,,,,
+2024-11-13 05:31:51.823647295,Google Analytics,Master Ciberseguridad,email,social,494.0,377.0,2168.0,51.76,495.24,0,0.0,0.0,,,,,,,,,,
+2024-11-13 20:03:22.004008016,Google Analytics,Bootcamp UX/UI,google,organic,1350.0,1243.0,2948.0,39.54,389.93,121,8.96,256940.64,,,,,,,,,,
+2024-11-14 10:34:52.184368738,Google Analytics,Curso Python Avanzado,organic,organic,908.0,812.0,2110.0,67.02,288.82,73,8.04,302430.6,,,,,,,,,,
+2024-11-15 15:37:52.545090181,Facebook Ads,Bootcamp Full Stack,,,,,,,,2,,,Conjunto Retargeting,Anuncio Conversión,4040.0,2937.0,78.0,377.63,1.93,4.84,93.47,188.81
+2024-11-16 20:40:52.905811624,Google Analytics,Curso Cloud Computing,email,cpc,711.0,501.0,2435.0,57.32,355.22,9,1.27,14903.8,,,,,,,,,,
+2024-11-16 20:40:52.905811624,Google Analytics,Master Ciberseguridad,organic,social,819.0,629.0,2695.0,60.41,299.07,38,4.64,142892.38,,,,,,,,,,
+2024-11-16 20:40:52.905811624,Facebook Ads,Bootcamp UX/UI,,,,,,,,35,,,Conjunto Audiencia Personalizada,Anuncio Video Master,39467.0,32256.0,563.0,1815.77,1.43,3.23,46.01,51.88
+2024-11-16 20:40:52.905811624,Google Analytics,Bootcamp Full Stack,organic,display,1749.0,1308.0,4320.0,40.2,251.7,12,0.69,34029.23,,,,,,,,,,
+2024-11-17 11:12:23.086172345,Facebook Ads,Bootcamp Full Stack,,,,,,,,7,,,Conjunto Intereses,Anuncio Brand Awareness,3475.0,2328.0,158.0,578.74,4.55,3.66,166.54,82.68
+2024-11-17 11:12:23.086172345,Google Analytics,Curso Python Avanzado,facebook,social,1885.0,1472.0,4710.0,60.13,596.84,1,0.05,2133.25,,,,,,,,,,
+2024-11-18 01:43:53.266533066,Google Analytics,Master Ciberseguridad,facebook,social,165.0,117.0,525.0,73.09,154.66,14,8.48,54554.78,,,,,,,,,,
+2024-11-18 01:43:53.266533066,Facebook Ads,Master IA y ML,,,,,,,,135,,,Conjunto Intereses,Anuncio Brand Awareness,24197.0,17787.0,921.0,52.41,3.81,0.06,2.17,0.39
+2024-11-18 16:15:23.446893788,Facebook Ads,Master IA y ML,,,,,,,,4,,,Conjunto Demográfico,Anuncio Video Master,34004.0,21624.0,636.0,347.21,1.87,0.55,10.21,86.8
+2024-11-18 16:15:23.446893788,Facebook Ads,Master Data Science 2024,,,,,,,,31,,,Conjunto Audiencia Personalizada,Anuncio Lead Gen,33376.0,26749.0,1117.0,1265.99,3.35,1.13,37.93,40.84
+2024-11-18 16:15:23.446893788,Facebook Ads,Curso Cloud Computing,,,,,,,,65,,,Conjunto Audiencia Personalizada,Anuncio Carousel,10715.0,8707.0,490.0,493.35,4.57,1.01,46.04,7.59
+2024-11-18 16:15:23.446893788,Facebook Ads,Master Ciberseguridad,,,,,,,,51,,,Conjunto Lookalike,Anuncio Lead Gen,31682.0,21281.0,458.0,645.77,1.45,1.41,20.38,12.66
+2024-11-20 11:49:53.987975952,Google Analytics,Master Data Science 2024,facebook,social,1539.0,1275.0,6553.0,52.36,595.77,100,6.5,225969.24,,,,,,,,,,
+2024-11-21 02:21:24.168336674,Google Analytics,Master IA y ML,email,cpc,643.0,551.0,2265.0,53.96,449.57,2,0.31,8110.27,,,,,,,,,,
+2024-11-21 02:21:24.168336674,Facebook Ads,Bootcamp Full Stack,,,,,,,,34,,,Conjunto Demográfico,Anuncio Carousel,13686.0,9866.0,587.0,349.89,4.29,0.6,25.57,10.29
+2024-11-21 02:21:24.168336674,Facebook Ads,Master IA y ML,,,,,,,,288,,,Conjunto Retargeting,Anuncio Brand Awareness,49895.0,43898.0,1995.0,308.42,4.0,0.15,6.18,1.07
+2024-11-21 16:52:54.348697395,Facebook Ads,Curso Cloud Computing,,,,,,,,34,,,Conjunto Retargeting,Anuncio Conversión,32055.0,26587.0,390.0,669.19,1.22,1.72,20.88,19.68
+2024-11-22 07:24:24.529058117,Google Analytics,Master IA y ML,facebook,display,1190.0,869.0,3492.0,52.77,185.58,44,3.7,130806.85,,,,,,,,,,
+2024-11-23 12:27:24.889779559,Google Analytics,Curso Python Avanzado,referral,referral,1901.0,1735.0,2853.0,30.8,385.38,150,7.89,177616.78,,,,,,,,,,
+2024-11-24 02:58:55.070140281,Facebook Ads,Bootcamp UX/UI,,,,,,,,49,,,Conjunto Retargeting,Anuncio Imagen Simple,43913.0,32405.0,651.0,994.97,1.48,1.53,22.66,20.31
+2024-11-25 22:33:25.611222445,Google Analytics,Master Data Science 2024,organic,email,1978.0,1454.0,3687.0,43.65,114.56,79,3.99,285370.22,,,,,,,,,,
+2024-11-26 13:04:55.791583167,Facebook Ads,Master IA y ML,,,,,,,,3,,,Conjunto Demográfico,Anuncio Lead Gen,35406.0,23674.0,110.0,1249.68,0.31,11.36,35.3,416.56
+2024-11-26 13:04:55.791583167,Facebook Ads,Curso Python Avanzado,,,,,,,,61,,,Conjunto Intereses,Anuncio Lead Gen,38285.0,27864.0,1096.0,1594.58,2.86,1.45,41.65,26.14
+2024-11-28 08:39:26.332665331,Google Analytics,Bootcamp Marketing Digital,email,social,1031.0,934.0,3815.0,64.62,65.96,1,0.1,1102.12,,,,,,,,,,
+2024-11-28 08:39:26.332665331,Facebook Ads,Master Data Science 2024,,,,,,,,4,,,Conjunto Audiencia Personalizada,Anuncio Conversión,8758.0,6784.0,323.0,419.9,3.69,1.3,47.95,104.98
+2024-11-28 08:39:26.332665331,Facebook Ads,Master IA y ML,,,,,,,,31,,,Conjunto Retargeting,Anuncio Imagen Simple,25817.0,20364.0,347.0,176.0,1.34,0.51,6.82,5.68
+2024-11-28 23:10:56.513026052,Google Analytics,Bootcamp Full Stack,organic,email,546.0,456.0,1563.0,68.0,112.96,25,4.58,26809.97,,,,,,,,,,
+2024-11-28 23:10:56.513026052,Facebook Ads,Bootcamp Marketing Digital,,,,,,,,41,,,Conjunto Lookalike,Anuncio Conversión,34361.0,25523.0,1469.0,1726.15,4.28,1.18,50.24,42.1
+2024-11-30 04:13:56.873747495,Facebook Ads,Master Data Science 2024,,,,,,,,1,,,Conjunto Lookalike,Anuncio Carousel,31911.0,26679.0,402.0,1888.52,1.26,4.7,59.18,1888.52
+2024-11-30 18:45:27.054108217,Facebook Ads,Master Ciberseguridad,,,,,,,,10,,,Conjunto Lookalike,Anuncio Imagen Simple,21281.0,14384.0,241.0,949.88,1.13,3.94,44.64,94.99
+2024-11-30 18:45:27.054108217,Google Analytics,Master Data Science 2024,referral,display,775.0,665.0,2589.0,33.0,339.94,68,8.77,259654.73,,,,,,,,,,
+2024-12-01 09:16:57.234468938,Facebook Ads,Master Data Science 2024,,,,,,,,151,,,Conjunto Audiencia Personalizada,Anuncio Lead Gen,29758.0,24249.0,1468.0,188.95,4.93,0.13,6.35,1.25
+2024-12-01 09:16:57.234468938,Google Analytics,Curso Python Avanzado,direct,organic,326.0,259.0,940.0,74.62,584.2,18,5.52,62571.02,,,,,,,,,,
+2024-12-01 09:16:57.234468938,Google Analytics,Master Data Science 2024,google,cpc,1334.0,1117.0,5324.0,33.09,289.12,110,8.25,95674.98,,,,,,,,,,
+2024-12-01 23:48:27.414829660,Facebook Ads,Curso Cloud Computing,,,,,,,,67,,,Conjunto Retargeting,Anuncio Video Master,32182.0,21295.0,1594.0,548.06,4.95,0.34,17.03,8.18
+2024-12-04 09:54:28.136272545,Google Analytics,Curso SQL Profesional,referral,display,427.0,349.0,1788.0,44.5,127.63,26,6.09,127656.53,,,,,,,,,,
+2024-12-05 00:25:58.316633267,Google Analytics,Bootcamp Full Stack,google,cpc,209.0,185.0,822.0,59.54,129.17,14,6.7,13980.9,,,,,,,,,,
+2024-12-05 00:25:58.316633267,Facebook Ads,Curso SQL Profesional,,,,,,,,17,,,Conjunto Demográfico,Anuncio Brand Awareness,5583.0,4073.0,133.0,807.87,2.38,6.07,144.7,47.52
+2024-12-06 05:28:58.677354710,Facebook Ads,Curso Python Avanzado,,,,,,,,20,,,Conjunto Lookalike,Anuncio Brand Awareness,15291.0,9731.0,297.0,1017.29,1.94,3.43,66.53,50.86
+2024-12-06 05:28:58.677354710,Facebook Ads,Bootcamp Marketing Digital,,,,,,,,17,,,Conjunto Audiencia Personalizada,Anuncio Brand Awareness,49758.0,42979.0,789.0,1841.91,1.59,2.33,37.02,108.35
+2024-12-06 05:28:58.677354710,Facebook Ads,Curso SQL Profesional,,,,,,,,22,,,Conjunto Intereses,Anuncio Video Master,16997.0,14491.0,369.0,1137.74,2.17,3.08,66.94,51.72
+2024-12-06 05:28:58.677354710,Google Analytics,Curso Python Avanzado,organic,display,583.0,486.0,2147.0,34.86,430.06,51,8.75,213181.73,,,,,,,,,,
+2024-12-06 20:00:28.857715431,Google Analytics,Master Ciberseguridad,organic,cpc,327.0,273.0,1069.0,52.88,220.68,18,5.5,21277.12,,,,,,,,,,
+2024-12-06 20:00:28.857715431,Google Analytics,Master Data Science 2024,organic,referral,1201.0,970.0,2381.0,55.11,498.35,107,8.91,403291.32,,,,,,,,,,
+2024-12-06 20:00:28.857715431,Facebook Ads,Master Ciberseguridad,,,,,,,,45,,,Conjunto Intereses,Anuncio Imagen Simple,22727.0,19634.0,482.0,1132.42,2.12,2.35,49.83,25.16
+2024-12-06 20:00:28.857715431,Facebook Ads,Curso SQL Profesional,,,,,,,,1,,,Conjunto Demográfico,Anuncio Video Master,12329.0,8711.0,22.0,1100.46,0.18,50.02,89.26,1100.46
+2024-12-07 10:31:59.038076153,Facebook Ads,Curso Python Avanzado,,,,,,,,15,,,Conjunto Intereses,Anuncio Conversión,14944.0,13261.0,386.0,1372.84,2.58,3.56,91.87,91.52
+2024-12-08 01:03:29.218436874,Facebook Ads,Bootcamp UX/UI,,,,,,,,9,,,Conjunto Intereses,Anuncio Carousel,18081.0,12846.0,390.0,1304.56,2.16,3.35,72.15,144.95
+2024-12-08 01:03:29.218436874,Google Analytics,Curso Cloud Computing,referral,email,1878.0,1625.0,2827.0,38.03,75.7,173,9.21,363251.31,,,,,,,,,,
+2024-12-09 06:06:29.579158317,Google Analytics,Master IA y ML,organic,social,322.0,272.0,947.0,58.9,95.02,15,4.66,22717.12,,,,,,,,,,
+2024-12-10 11:09:29.939879760,Google Analytics,Curso Python Avanzado,email,display,585.0,508.0,2290.0,42.14,505.53,48,8.21,161481.98,,,,,,,,,,
+2024-12-11 16:12:30.300601203,Facebook Ads,Master IA y ML,,,,,,,,2,,,Conjunto Retargeting,Anuncio Video Master,1541.0,1378.0,40.0,1659.0,2.6,41.48,1076.58,829.5
+2024-12-12 06:44:00.480961924,Google Analytics,Master Data Science 2024,google,social,1219.0,966.0,2057.0,66.06,473.96,56,4.59,263144.56,,,,,,,,,,
+2024-12-12 06:44:00.480961924,Facebook Ads,Master Ciberseguridad,,,,,,,,46,,,Conjunto Retargeting,Anuncio Carousel,35051.0,26247.0,1080.0,280.76,3.08,0.26,8.01,6.1
+2024-12-12 21:15:30.661322646,Google Analytics,Curso SQL Profesional,referral,social,1473.0,1105.0,4708.0,74.08,149.26,106,7.2,64539.47,,,,,,,,,,
+2024-12-13 11:47:00.841683367,Google Analytics,Bootcamp Marketing Digital,organic,cpc,1922.0,1792.0,7395.0,32.53,520.47,153,7.96,677374.78,,,,,,,,,,
+2024-12-13 11:47:00.841683367,Google Analytics,Master Data Science 2024,google,email,966.0,786.0,2848.0,36.01,103.52,38,3.93,103894.86,,,,,,,,,,
+2024-12-13 11:47:00.841683367,Facebook Ads,Curso Cloud Computing,,,,,,,,59,,,Conjunto Demográfico,Anuncio Video Master,43821.0,27045.0,695.0,1239.94,1.59,1.78,28.3,21.02
+2024-12-13 11:47:00.841683367,Facebook Ads,Curso SQL Profesional,,,,,,,,157,,,Conjunto Demográfico,Anuncio Imagen Simple,46603.0,28149.0,1441.0,161.26,3.09,0.11,3.46,1.03
+2024-12-14 16:50:01.202404810,Google Analytics,Master IA y ML,direct,email,1293.0,1159.0,5720.0,46.7,291.6,69,5.34,54796.19,,,,,,,,,,
+2024-12-15 07:21:31.382765532,Google Analytics,Bootcamp Full Stack,direct,email,1923.0,1781.0,3687.0,53.96,281.99,6,0.31,5333.46,,,,,,,,,,
+2024-12-15 21:53:01.563126252,Facebook Ads,Curso Cloud Computing,,,,,,,,13,,,Conjunto Audiencia Personalizada,Anuncio Carousel,12918.0,11169.0,435.0,1664.34,3.37,3.83,128.84,128.03
+2024-12-17 17:27:32.104208418,Google Analytics,Bootcamp Marketing Digital,organic,cpc,70.0,53.0,242.0,38.91,365.28,2,2.86,3778.29,,,,,,,,,,
+2024-12-18 07:59:02.284569138,Facebook Ads,Curso Cloud Computing,,,,,,,,9,,,Conjunto Retargeting,Anuncio Video Master,7588.0,4812.0,187.0,1454.02,2.46,7.78,191.62,161.56
+2024-12-18 22:30:32.464929860,Facebook Ads,Curso Cloud Computing,,,,,,,,42,,,Conjunto Retargeting,Anuncio Video Master,10879.0,6901.0,363.0,837.76,3.34,2.31,77.01,19.95
+2024-12-20 18:05:03.006012024,Google Analytics,Curso Cloud Computing,facebook,organic,1683.0,1212.0,4838.0,51.81,149.52,1,0.06,3488.85,,,,,,,,,,
+2024-12-22 13:39:33.547094188,Google Analytics,Curso Python Avanzado,direct,cpc,147.0,134.0,423.0,63.72,216.92,7,4.76,7025.98,,,,,,,,,,
+2024-12-22 13:39:33.547094188,Facebook Ads,Master IA y ML,,,,,,,,3,,,Conjunto Audiencia Personalizada,Anuncio Brand Awareness,38823.0,27251.0,286.0,371.18,0.74,1.3,9.56,123.73
+2024-12-22 13:39:33.547094188,Google Analytics,Bootcamp Full Stack,google,social,677.0,621.0,1500.0,50.31,591.89,25,3.69,75272.83,,,,,,,,,,
+2024-12-23 04:11:03.727454910,Google Analytics,Bootcamp Full Stack,direct,referral,1972.0,1828.0,6144.0,52.4,116.96,179,9.08,453341.79,,,,,,,,,,
+2024-12-23 04:11:03.727454910,Facebook Ads,Curso Cloud Computing,,,,,,,,23,,,Conjunto Demográfico,Anuncio Conversión,7852.0,6983.0,277.0,1070.49,3.53,3.86,136.33,46.54
+2024-12-23 04:11:03.727454910,Facebook Ads,Bootcamp UX/UI,,,,,,,,5,,,Conjunto Lookalike,Anuncio Carousel,8239.0,6915.0,56.0,431.89,0.68,7.71,52.42,86.38
+2024-12-23 18:42:33.907815632,Facebook Ads,Curso Python Avanzado,,,,,,,,15,,,Conjunto Audiencia Personalizada,Anuncio Imagen Simple,7971.0,6446.0,277.0,373.77,3.48,1.35,46.89,24.92
+2024-12-24 09:14:04.088176354,Facebook Ads,Master Data Science 2024,,,,,,,,3,,,Conjunto Audiencia Personalizada,Anuncio Lead Gen,1282.0,875.0,49.0,1038.75,3.82,21.2,810.26,346.25
+2024-12-24 09:14:04.088176354,Google Analytics,Master Ciberseguridad,google,display,737.0,543.0,2079.0,57.69,105.07,31,4.21,31911.34,,,,,,,,,,
+2024-12-24 09:14:04.088176354,Google Analytics,Bootcamp Marketing Digital,google,referral,1960.0,1431.0,7204.0,44.54,598.42,58,2.96,71342.92,,,,,,,,,,
+2024-12-24 23:45:34.268537074,Facebook Ads,Curso Python Avanzado,,,,,,,,132,,,Conjunto Audiencia Personalizada,Anuncio Lead Gen,44360.0,27006.0,1949.0,1786.0,4.39,0.92,40.26,13.53
+2024-12-24 23:45:34.268537074,Facebook Ads,Curso Cloud Computing,,,,,,,,210,,,Conjunto Intereses,Anuncio Carousel,33220.0,22886.0,1519.0,1104.55,4.57,0.73,33.25,5.26
+2024-12-25 14:17:04.448897796,Google Analytics,Bootcamp Marketing Digital,organic,organic,992.0,856.0,2422.0,41.44,502.4,75,7.56,150632.72,,,,,,,,,,
+2024-12-25 14:17:04.448897796,Facebook Ads,Bootcamp Full Stack,,,,,,,,46,,,Conjunto Lookalike,Anuncio Imagen Simple,25765.0,21017.0,555.0,728.49,2.15,1.31,28.27,15.84
+2024-12-26 19:20:04.809619238,Google Analytics,Curso Python Avanzado,google,email,1002.0,810.0,3238.0,63.21,495.35,93,9.28,456255.42,,,,,,,,,,
+2024-12-27 09:51:34.989979960,Google Analytics,Master IA y ML,organic,cpc,942.0,818.0,2331.0,60.88,97.61,38,4.03,47579.57,,,,,,,,,,
+2024-12-29 05:26:05.531062124,Google Analytics,Bootcamp Marketing Digital,direct,cpc,1017.0,730.0,1760.0,45.32,527.85,46,4.52,86199.31,,,,,,,,,,
+2024-12-29 05:26:05.531062124,Google Analytics,Bootcamp Full Stack,direct,cpc,1702.0,1365.0,6429.0,70.66,185.69,136,7.99,550529.77,,,,,,,,,,
+2024-12-29 05:26:05.531062124,Google Analytics,Bootcamp Marketing Digital,email,referral,695.0,603.0,2211.0,34.99,301.41,37,5.32,56250.61,,,,,,,,,,
+2024-12-29 19:57:35.711422846,Google Analytics,Curso SQL Profesional,email,cpc,1732.0,1635.0,3173.0,49.01,82.69,87,5.02,54139.02,,,,,,,,,,
+2024-12-31 01:00:36.072144290,Google Analytics,Curso Cloud Computing,direct,email,132.0,124.0,525.0,61.47,513.31,12,9.09,57991.76,,,,,,,,,,
+2024-12-31 01:00:36.072144290,Facebook Ads,Master IA y ML,,,,,,,,52,,,Conjunto Retargeting,Anuncio Brand Awareness,14686.0,11158.0,407.0,475.96,2.77,1.17,32.41,9.15
+2024-12-31 15:32:06.252505010,Facebook Ads,Curso Python Avanzado,,,,,,,,4,,,Conjunto Retargeting,Anuncio Imagen Simple,7816.0,5788.0,98.0,1657.84,1.25,16.92,212.11,414.46
+2025-01-01 06:03:36.432865732,Facebook Ads,Curso Cloud Computing,,,,,,,,1,,,Conjunto Audiencia Personalizada,Anuncio Brand Awareness,27957.0,23007.0,77.0,1760.62,0.28,22.87,62.98,1760.62
+2025-01-03 01:38:06.973947896,Facebook Ads,Bootcamp Full Stack,,,,,,,,2,,,Conjunto Audiencia Personalizada,Anuncio Conversión,6374.0,3975.0,71.0,1599.43,1.11,22.53,250.93,799.71
+2025-01-03 16:09:37.154308618,Google Analytics,Master Data Science 2024,facebook,cpc,1398.0,1066.0,3020.0,51.98,458.29,136,9.73,477550.56,,,,,,,,,,
+2025-01-04 06:41:07.334669340,Google Analytics,Curso Python Avanzado,facebook,email,1081.0,896.0,3017.0,44.26,294.68,46,4.26,51467.42,,,,,,,,,,
+2025-01-04 06:41:07.334669340,Facebook Ads,Curso Cloud Computing,,,,,,,,19,,,Conjunto Audiencia Personalizada,Anuncio Imagen Simple,24132.0,15714.0,542.0,1281.05,2.25,2.36,53.09,67.42
+2025-01-04 06:41:07.334669340,Google Analytics,Bootcamp Full Stack,facebook,referral,181.0,157.0,343.0,40.54,484.85,2,1.1,6870.02,,,,,,,,,,
+2025-01-07 07:18:38.236472946,Facebook Ads,Curso SQL Profesional,,,,,,,,5,,,Conjunto Retargeting,Anuncio Carousel,12190.0,10911.0,593.0,1286.5,4.86,2.17,105.54,257.3
+2025-01-07 21:50:08.416833668,Google Analytics,Master Data Science 2024,direct,social,1986.0,1409.0,6578.0,70.83,188.98,105,5.29,511549.2,,,,,,,,,,
+2025-01-08 12:21:38.597194390,Facebook Ads,Master Data Science 2024,,,,,,,,5,,,Conjunto Retargeting,Anuncio Brand Awareness,6410.0,4706.0,186.0,1057.32,2.9,5.68,164.95,211.46
+2025-01-08 12:21:38.597194390,Google Analytics,Curso SQL Profesional,email,cpc,1209.0,857.0,2205.0,45.25,493.4,48,3.97,71198.12,,,,,,,,,,
+2025-01-09 02:53:08.777555110,Facebook Ads,Curso Python Avanzado,,,,,,,,4,,,Conjunto Intereses,Anuncio Video Master,6463.0,4046.0,50.0,1645.5,0.77,32.91,254.6,411.38
+2025-01-09 17:24:38.957915832,Facebook Ads,Master Data Science 2024,,,,,,,,10,,,Conjunto Demográfico,Anuncio Imagen Simple,23054.0,17245.0,788.0,137.46,3.42,0.17,5.96,13.75
+2025-01-10 07:56:09.138276554,Facebook Ads,Master Data Science 2024,,,,,,,,239,,,Conjunto Audiencia Personalizada,Anuncio Carousel,45363.0,39224.0,2046.0,553.44,4.51,0.27,12.2,2.32
+2025-01-10 07:56:09.138276554,Google Analytics,Master Ciberseguridad,google,email,152.0,142.0,556.0,68.83,61.14,13,8.55,21570.02,,,,,,,,,,
+2025-01-10 07:56:09.138276554,Facebook Ads,Bootcamp Marketing Digital,,,,,,,,81,,,Conjunto Intereses,Anuncio Lead Gen,24377.0,16503.0,999.0,1610.69,4.1,1.61,66.07,19.89
+2025-01-11 12:59:09.498997996,Facebook Ads,Curso Cloud Computing,,,,,,,,14,,,Conjunto Lookalike,Anuncio Conversión,34703.0,28642.0,341.0,206.35,0.98,0.61,5.95,14.74
+2025-01-11 12:59:09.498997996,Facebook Ads,Curso Cloud Computing,,,,,,,,117,,,Conjunto Retargeting,Anuncio Lead Gen,21584.0,17136.0,919.0,1290.39,4.26,1.4,59.78,11.03
+2025-01-12 18:02:09.859719440,Facebook Ads,Curso SQL Profesional,,,,,,,,92,,,Conjunto Intereses,Anuncio Brand Awareness,18154.0,14835.0,676.0,1494.91,3.72,2.21,82.35,16.25
+2025-01-13 08:33:40.040080160,Facebook Ads,Master Ciberseguridad,,,,,,,,0,,,Conjunto Audiencia Personalizada,Anuncio Carousel,7439.0,6293.0,277.0,625.33,3.72,2.26,84.06,0.0
+2025-01-13 23:05:10.220440882,Google Analytics,Curso SQL Profesional,direct,organic,1430.0,1044.0,4541.0,45.44,453.75,37,2.59,159293.13,,,,,,,,,,
+2025-01-14 13:36:40.400801604,Facebook Ads,Bootcamp Full Stack,,,,,,,,9,,,Conjunto Intereses,Anuncio Imagen Simple,36426.0,22703.0,82.0,647.31,0.23,7.89,17.77,71.92
+2025-01-14 13:36:40.400801604,Facebook Ads,Curso Cloud Computing,,,,,,,,2,,,Conjunto Demográfico,Anuncio Lead Gen,14467.0,11194.0,50.0,890.42,0.35,17.81,61.55,445.21
+2025-01-14 13:36:40.400801604,Facebook Ads,Master IA y ML,,,,,,,,6,,,Conjunto Audiencia Personalizada,Anuncio Video Master,21384.0,16203.0,449.0,372.98,2.1,0.83,17.44,62.16
+2025-01-15 04:08:10.581162326,Google Analytics,Master Data Science 2024,google,social,1266.0,1185.0,3189.0,53.28,264.61,34,2.69,69112.44,,,,,,,,,,
+2025-01-15 18:39:40.761523046,Google Analytics,Master Data Science 2024,referral,organic,625.0,532.0,1621.0,39.81,593.54,0,0.0,0.0,,,,,,,,,,
+2025-01-15 18:39:40.761523046,Facebook Ads,Master IA y ML,,,,,,,,74,,,Conjunto Lookalike,Anuncio Imagen Simple,40748.0,27241.0,1377.0,1035.64,3.38,0.75,25.42,14.0
+2025-01-17 14:14:11.302605210,Facebook Ads,Bootcamp Marketing Digital,,,,,,,,5,,,Conjunto Lookalike,Anuncio Conversión,8597.0,5238.0,243.0,821.1,2.83,3.38,95.51,164.22
+2025-01-18 04:45:41.482965932,Google Analytics,Curso Cloud Computing,google,display,171.0,124.0,746.0,44.13,539.74,3,1.75,14930.58,,,,,,,,,,
+2025-01-18 04:45:41.482965932,Facebook Ads,Bootcamp Marketing Digital,,,,,,,,3,,,Conjunto Audiencia Personalizada,Anuncio Video Master,21538.0,19133.0,118.0,1942.95,0.55,16.47,90.21,647.65
+2025-01-18 04:45:41.482965932,Google Analytics,Curso Python Avanzado,facebook,cpc,354.0,294.0,709.0,41.11,512.82,2,0.56,3721.0,,,,,,,,,,
+2025-01-18 04:45:41.482965932,Google Analytics,Bootcamp UX/UI,referral,referral,390.0,306.0,901.0,73.49,361.16,0,0.0,0.0,,,,,,,,,,
+2025-01-19 09:48:41.843687376,Google Analytics,Curso Cloud Computing,facebook,referral,958.0,820.0,2842.0,48.08,596.68,81,8.46,267731.47,,,,,,,,,,
+2025-01-19 09:48:41.843687376,Google Analytics,Bootcamp Marketing Digital,facebook,referral,214.0,188.0,416.0,68.37,443.88,18,8.41,19722.16,,,,,,,,,,
+2025-01-19 09:48:41.843687376,Facebook Ads,Master Ciberseguridad,,,,,,,,138,,,Conjunto Demográfico,Anuncio Conversión,27421.0,20840.0,1173.0,124.06,4.28,0.11,4.52,0.9
+2025-01-19 09:48:41.843687376,Google Analytics,Master IA y ML,email,organic,1026.0,892.0,2975.0,31.55,583.59,18,1.75,50545.1,,,,,,,,,,
+2025-01-20 00:20:12.024048096,Facebook Ads,Curso Cloud Computing,,,,,,,,150,,,Conjunto Intereses,Anuncio Carousel,39115.0,26822.0,1450.0,1147.29,3.71,0.79,29.33,7.65
+2025-01-21 05:23:12.384769540,Facebook Ads,Curso Python Avanzado,,,,,,,,91,,,Conjunto Demográfico,Anuncio Conversión,37304.0,32069.0,983.0,939.16,2.64,0.96,25.18,10.32
+2025-01-21 19:54:42.565130262,Facebook Ads,Master Data Science 2024,,,,,,,,80,,,Conjunto Retargeting,Anuncio Video Master,20503.0,18428.0,849.0,1715.23,4.14,2.02,83.66,21.44
+2025-01-21 19:54:42.565130262,Facebook Ads,Bootcamp Marketing Digital,,,,,,,,186,,,Conjunto Audiencia Personalizada,Anuncio Brand Awareness,37703.0,25340.0,1608.0,1772.76,4.26,1.1,47.02,9.53
+2025-01-22 10:26:12.745490982,Google Analytics,Bootcamp Marketing Digital,organic,organic,1774.0,1652.0,2762.0,51.46,431.37,170,9.58,752116.98,,,,,,,,,,
+2025-01-23 15:29:13.106212426,Facebook Ads,Curso Python Avanzado,,,,,,,,34,,,Conjunto Lookalike,Anuncio Carousel,12944.0,8848.0,295.0,1917.02,2.28,6.5,148.1,56.38
+2025-01-24 06:00:43.286573146,Facebook Ads,Master IA y ML,,,,,,,,64,,,Conjunto Retargeting,Anuncio Conversión,37976.0,23808.0,551.0,77.91,1.45,0.14,2.05,1.22
+2025-01-24 20:32:13.466933868,Google Analytics,Master IA y ML,direct,organic,50.0,35.0,75.0,72.17,503.84,0,0.0,0.0,,,,,,,,,,
+2025-01-25 11:03:43.647294590,Facebook Ads,Master IA y ML,,,,,,,,13,,,Conjunto Intereses,Anuncio Imagen Simple,16038.0,10049.0,274.0,1460.14,1.71,5.33,91.04,112.32
+2025-01-26 01:35:13.827655312,Facebook Ads,Curso SQL Profesional,,,,,,,,2,,,Conjunto Lookalike,Anuncio Video Master,25322.0,19994.0,54.0,1912.47,0.21,35.42,75.53,956.24
+2025-01-27 21:09:44.368737476,Facebook Ads,Bootcamp Full Stack,,,,,,,,65,,,Conjunto Lookalike,Anuncio Conversión,13449.0,11275.0,665.0,982.61,4.94,1.48,73.06,15.12
+2025-01-30 21:47:15.270541082,Facebook Ads,Master Ciberseguridad,,,,,,,,7,,,Conjunto Intereses,Anuncio Brand Awareness,11350.0,7528.0,299.0,597.96,2.63,2.0,52.68,85.42
+2025-01-30 21:47:15.270541082,Facebook Ads,Bootcamp Marketing Digital,,,,,,,,29,,,Conjunto Audiencia Personalizada,Anuncio Conversión,36548.0,28323.0,330.0,1120.51,0.9,3.4,30.66,38.64
+2025-01-30 21:47:15.270541082,Google Analytics,Master IA y ML,email,email,1476.0,1165.0,5082.0,35.53,539.88,22,1.49,96826.41,,,,,,,,,,
+2025-01-30 21:47:15.270541082,Facebook Ads,Master IA y ML,,,,,,,,109,,,Conjunto Audiencia Personalizada,Anuncio Brand Awareness,26235.0,21113.0,1047.0,953.19,3.99,0.91,36.33,8.74
+2025-01-31 12:18:45.450901804,Facebook Ads,Bootcamp Full Stack,,,,,,,,7,,,Conjunto Demográfico,Anuncio Brand Awareness,47109.0,35616.0,1238.0,1837.74,2.63,1.48,39.01,262.53
+2025-01-31 12:18:45.450901804,Google Analytics,Master Data Science 2024,facebook,display,1363.0,999.0,4618.0,32.44,464.27,78,5.72,75064.64,,,,,,,,,,
+2025-02-01 02:50:15.631262526,Google Analytics,Bootcamp Marketing Digital,organic,cpc,1227.0,1078.0,4025.0,70.31,374.96,7,0.57,3620.33,,,,,,,,,,
+2025-02-01 02:50:15.631262526,Google Analytics,Master IA y ML,organic,organic,1905.0,1484.0,3439.0,46.21,206.01,154,8.08,677517.75,,,,,,,,,,
+2025-02-01 17:21:45.811623248,Facebook Ads,Bootcamp UX/UI,,,,,,,,111,,,Conjunto Demográfico,Anuncio Imagen Simple,49014.0,43274.0,1116.0,1824.39,2.28,1.63,37.22,16.44
+2025-02-01 17:21:45.811623248,Facebook Ads,Curso Cloud Computing,,,,,,,,32,,,Conjunto Lookalike,Anuncio Conversión,45452.0,28853.0,480.0,1012.94,1.06,2.11,22.29,31.65
+2025-02-02 07:53:15.991983968,Google Analytics,Curso Cloud Computing,referral,email,1990.0,1828.0,4076.0,42.53,129.98,195,9.8,713979.29,,,,,,,,,,
+2025-02-02 22:24:46.172344690,Facebook Ads,Curso SQL Profesional,,,,,,,,100,,,Conjunto Demográfico,Anuncio Video Master,40890.0,32315.0,1326.0,143.96,3.24,0.11,3.52,1.44
+2025-02-03 12:56:16.352705412,Google Analytics,Bootcamp Full Stack,referral,display,1428.0,1162.0,3036.0,46.59,259.7,123,8.61,536932.53,,,,,,,,,,
+2025-02-04 03:27:46.533066132,Facebook Ads,Curso SQL Profesional,,,,,,,,74,,,Conjunto Retargeting,Anuncio Lead Gen,47179.0,40342.0,658.0,1331.84,1.39,2.02,28.23,18.0
+2025-02-04 03:27:46.533066132,Facebook Ads,Master Ciberseguridad,,,,,,,,7,,,Conjunto Demográfico,Anuncio Carousel,11860.0,9798.0,171.0,819.73,1.44,4.79,69.12,117.1
+2025-02-04 17:59:16.713426854,Facebook Ads,Curso SQL Profesional,,,,,,,,53,,,Conjunto Retargeting,Anuncio Lead Gen,24554.0,17057.0,949.0,820.51,3.86,0.86,33.42,15.48
+2025-02-05 08:30:46.893787576,Google Analytics,Bootcamp Marketing Digital,facebook,social,1606.0,1239.0,4180.0,32.61,120.22,137,8.53,403756.23,,,,,,,,,,
+2025-02-06 13:33:47.254509018,Google Analytics,Curso Python Avanzado,email,cpc,1598.0,1270.0,4014.0,30.87,127.16,137,8.57,87871.55,,,,,,,,,,
+2025-02-07 04:05:17.434869740,Google Analytics,Master IA y ML,organic,cpc,1853.0,1572.0,2834.0,50.88,580.29,89,4.8,315855.68,,,,,,,,,,
+2025-02-07 04:05:17.434869740,Google Analytics,Bootcamp Full Stack,referral,social,153.0,112.0,622.0,55.89,101.25,14,9.15,57850.8,,,,,,,,,,
+2025-02-07 18:36:47.615230462,Facebook Ads,Master Ciberseguridad,,,,,,,,57,,,Conjunto Demográfico,Anuncio Video Master,29038.0,17575.0,674.0,1557.63,2.32,2.31,53.64,27.33
+2025-02-08 23:39:47.975951904,Facebook Ads,Master Ciberseguridad,,,,,,,,99,,,Conjunto Demográfico,Anuncio Imagen Simple,21093.0,16266.0,729.0,634.61,3.46,0.87,30.09,6.41
+2025-02-09 14:11:18.156312626,Facebook Ads,Bootcamp UX/UI,,,,,,,,88,,,Conjunto Audiencia Personalizada,Anuncio Brand Awareness,21936.0,16761.0,785.0,1577.24,3.58,2.01,71.9,17.92
+2025-02-09 14:11:18.156312626,Facebook Ads,Master Ciberseguridad,,,,,,,,27,,,Conjunto Demográfico,Anuncio Carousel,46671.0,28922.0,498.0,1877.89,1.07,3.77,40.24,69.55
+2025-02-10 19:14:18.517034068,Facebook Ads,Master IA y ML,,,,,,,,55,,,Conjunto Lookalike,Anuncio Imagen Simple,42475.0,37689.0,402.0,516.36,0.95,1.28,12.16,9.39
+2025-02-11 09:45:48.697394790,Facebook Ads,Curso Cloud Computing,,,,,,,,9,,,Conjunto Lookalike,Anuncio Video Master,17616.0,11652.0,99.0,431.87,0.56,4.36,24.52,47.99
+2025-02-11 09:45:48.697394790,Facebook Ads,Master Data Science 2024,,,,,,,,67,,,Conjunto Retargeting,Anuncio Lead Gen,47473.0,32972.0,2324.0,1964.22,4.9,0.85,41.38,29.32
+2025-02-11 09:45:48.697394790,Facebook Ads,Bootcamp Full Stack,,,,,,,,232,,,Conjunto Lookalike,Anuncio Video Master,33983.0,27780.0,1602.0,1785.78,4.71,1.11,52.55,7.7
+2025-02-13 05:20:19.238476954,Google Analytics,Bootcamp Full Stack,referral,organic,1955.0,1372.0,6632.0,50.15,132.51,177,9.05,328976.65,,,,,,,,,,
+2025-02-15 00:54:49.779559118,Google Analytics,Curso Python Avanzado,email,social,326.0,306.0,1096.0,71.79,470.86,13,3.99,38474.76,,,,,,,,,,
+2025-02-15 00:54:49.779559118,Google Analytics,Curso SQL Profesional,google,email,1166.0,956.0,4889.0,60.35,133.98,74,6.35,301116.58,,,,,,,,,,
+2025-02-15 00:54:49.779559118,Facebook Ads,Bootcamp Marketing Digital,,,,,,,,75,,,Conjunto Retargeting,Anuncio Carousel,26851.0,24124.0,1123.0,1068.95,4.18,0.95,39.81,14.25
+2025-02-16 20:29:20.320641284,Facebook Ads,Curso Python Avanzado,,,,,,,,3,,,Conjunto Audiencia Personalizada,Anuncio Imagen Simple,40954.0,26735.0,879.0,1263.57,2.15,1.44,30.85,421.19
+2025-02-16 20:29:20.320641284,Google Analytics,Bootcamp UX/UI,email,email,174.0,162.0,762.0,53.47,587.75,7,4.02,8592.65,,,,,,,,,,
+2025-02-16 20:29:20.320641284,Facebook Ads,Bootcamp UX/UI,,,,,,,,83,,,Conjunto Lookalike,Anuncio Brand Awareness,46550.0,31170.0,1072.0,1573.63,2.3,1.47,33.81,18.96
+2025-02-16 20:29:20.320641284,Facebook Ads,Bootcamp Marketing Digital,,,,,,,,155,,,Conjunto Lookalike,Anuncio Lead Gen,42045.0,32833.0,1646.0,785.12,3.91,0.48,18.67,5.07
+2025-02-17 11:00:50.501002004,Google Analytics,Master IA y ML,google,social,921.0,839.0,3395.0,34.29,291.5,66,7.17,298708.91,,,,,,,,,,
+2025-02-18 16:03:50.861723448,Google Analytics,Master IA y ML,organic,display,1833.0,1736.0,8000.0,52.26,336.87,70,3.82,152093.08,,,,,,,,,,
+2025-02-18 16:03:50.861723448,Facebook Ads,Master IA y ML,,,,,,,,28,,,Conjunto Audiencia Personalizada,Anuncio Imagen Simple,43589.0,38163.0,283.0,1985.26,0.65,7.02,45.55,70.9
+2025-02-18 16:03:50.861723448,Facebook Ads,Master IA y ML,,,,,,,,0,,,Conjunto Demográfico,Anuncio Carousel,2105.0,1677.0,10.0,423.61,0.48,42.36,201.24,0.0
+2025-02-19 06:35:21.042084170,Facebook Ads,Master Data Science 2024,,,,,,,,0,,,Conjunto Lookalike,Anuncio Conversión,13602.0,9062.0,114.0,495.95,0.84,4.35,36.46,0.0
+2025-02-19 06:35:21.042084170,Facebook Ads,Curso Python Avanzado,,,,,,,,55,,,Conjunto Audiencia Personalizada,Anuncio Imagen Simple,27536.0,24373.0,718.0,1452.36,2.61,2.02,52.74,26.41
+2025-02-19 06:35:21.042084170,Facebook Ads,Master Ciberseguridad,,,,,,,,14,,,Conjunto Lookalike,Anuncio Conversión,11521.0,9814.0,118.0,738.45,1.02,6.26,64.1,52.75
+2025-02-20 11:38:21.402805612,Facebook Ads,Bootcamp UX/UI,,,,,,,,3,,,Conjunto Retargeting,Anuncio Imagen Simple,5557.0,4635.0,93.0,1020.2,1.67,10.97,183.59,340.07
+2025-02-20 11:38:21.402805612,Facebook Ads,Curso Python Avanzado,,,,,,,,67,,,Conjunto Audiencia Personalizada,Anuncio Video Master,29783.0,25509.0,933.0,1290.28,3.13,1.38,43.32,19.26
+2025-02-21 16:41:21.763527054,Facebook Ads,Bootcamp Full Stack,,,,,,,,35,,,Conjunto Audiencia Personalizada,Anuncio Carousel,16042.0,10082.0,292.0,1679.86,1.82,5.75,104.72,48.0
+2025-02-22 07:12:51.943887776,Google Analytics,Bootcamp Marketing Digital,email,cpc,1077.0,794.0,4445.0,54.26,212.54,22,2.04,103169.99,,,,,,,,,,
+2025-02-22 07:12:51.943887776,Google Analytics,Curso SQL Profesional,referral,display,874.0,740.0,1471.0,46.3,450.49,39,4.46,59185.0,,,,,,,,,,
+2025-02-24 17:18:52.665330662,Google Analytics,Master IA y ML,google,display,261.0,197.0,392.0,62.82,582.1,5,1.92,18963.81,,,,,,,,,,
+2025-02-25 07:50:22.845691384,Facebook Ads,Curso Cloud Computing,,,,,,,,36,,,Conjunto Intereses,Anuncio Imagen Simple,23412.0,17015.0,315.0,1797.28,1.35,5.71,76.77,49.92
+2025-02-25 07:50:22.845691384,Facebook Ads,Bootcamp UX/UI,,,,,,,,38,,,Conjunto Audiencia Personalizada,Anuncio Brand Awareness,17589.0,11214.0,505.0,1808.78,2.87,3.58,102.84,47.6
+2025-02-25 22:21:53.026052104,Facebook Ads,Bootcamp Full Stack,,,,,,,,2,,,Conjunto Retargeting,Anuncio Video Master,3708.0,2391.0,25.0,202.99,0.67,8.12,54.74,101.49
+2025-02-26 12:53:23.206412826,Google Analytics,Bootcamp Marketing Digital,referral,social,1724.0,1477.0,5078.0,46.28,572.57,110,6.38,408639.96,,,,,,,,,,
+2025-02-27 17:56:23.567134270,Google Analytics,Master Ciberseguridad,direct,social,802.0,664.0,2427.0,46.62,563.78,65,8.1,236433.74,,,,,,,,,,
+2025-03-01 13:30:54.108216434,Google Analytics,Curso Cloud Computing,referral,social,1074.0,784.0,2014.0,68.27,246.09,33,3.07,136350.03,,,,,,,,,,
+2025-03-02 04:02:24.288577156,Google Analytics,Master Ciberseguridad,google,cpc,311.0,269.0,613.0,35.35,472.95,15,4.82,45439.91,,,,,,,,,,
+2025-03-03 09:05:24.649298598,Facebook Ads,Master IA y ML,,,,,,,,127,,,Conjunto Lookalike,Anuncio Video Master,40874.0,30440.0,1133.0,1583.1,2.77,1.4,38.73,12.47
+2025-03-03 09:05:24.649298598,Google Analytics,Master IA y ML,direct,display,900.0,805.0,1685.0,65.89,392.59,33,3.67,81492.71,,,,,,,,,,
+2025-03-03 09:05:24.649298598,Google Analytics,Bootcamp UX/UI,referral,social,1924.0,1686.0,5969.0,54.33,291.98,26,1.35,69424.93,,,,,,,,,,
+2025-03-03 09:05:24.649298598,Facebook Ads,Curso Cloud Computing,,,,,,,,73,,,Conjunto Demográfico,Anuncio Lead Gen,14794.0,13103.0,601.0,306.84,4.06,0.51,20.74,4.2
+2025-03-03 09:05:24.649298598,Google Analytics,Master Ciberseguridad,direct,organic,477.0,368.0,1962.0,60.27,490.21,6,1.26,11447.31,,,,,,,,,,
+2025-03-05 04:39:55.190380762,Facebook Ads,Master Data Science 2024,,,,,,,,71,,,Conjunto Retargeting,Anuncio Lead Gen,25335.0,22663.0,1212.0,73.71,4.78,0.06,2.91,1.04
+2025-03-05 04:39:55.190380762,Facebook Ads,Master Data Science 2024,,,,,,,,133,,,Conjunto Audiencia Personalizada,Anuncio Video Master,20581.0,14760.0,910.0,738.27,4.42,0.81,35.87,5.55
+2025-03-05 19:11:25.370741484,Google Analytics,Curso SQL Profesional,referral,referral,1997.0,1599.0,3405.0,65.27,214.31,111,5.56,222064.57,,,,,,,,,,
+2025-03-06 09:42:55.551102206,Facebook Ads,Master Ciberseguridad,,,,,,,,53,,,Conjunto Intereses,Anuncio Brand Awareness,27049.0,17896.0,461.0,1965.0,1.7,4.26,72.65,37.08
+2025-03-07 00:14:25.731462926,Facebook Ads,Curso Cloud Computing,,,,,,,,201,,,Conjunto Retargeting,Anuncio Carousel,38623.0,34649.0,1825.0,588.82,4.73,0.32,15.25,2.93
+2025-03-07 00:14:25.731462926,Facebook Ads,Curso Cloud Computing,,,,,,,,4,,,Conjunto Audiencia Personalizada,Anuncio Carousel,39556.0,35328.0,331.0,1942.82,0.84,5.87,49.12,485.7
+2025-03-09 10:20:26.452905812,Google Analytics,Curso Cloud Computing,direct,organic,1547.0,1308.0,3269.0,53.39,99.98,130,8.4,185119.77,,,,,,,,,,
+2025-03-10 00:51:56.633266534,Facebook Ads,Master Ciberseguridad,,,,,,,,10,,,Conjunto Intereses,Anuncio Conversión,6755.0,5166.0,175.0,1938.65,2.59,11.08,286.99,193.86
+2025-03-10 15:23:26.813627256,Google Analytics,Bootcamp Full Stack,email,display,1568.0,1470.0,3750.0,34.14,383.48,83,5.29,75897.58,,,,,,,,,,
+2025-03-11 05:54:56.993987976,Google Analytics,Master IA y ML,direct,email,851.0,745.0,2229.0,55.36,303.37,47,5.52,146922.3,,,,,,,,,,
+2025-03-11 20:26:27.174348698,Google Analytics,Curso Python Avanzado,referral,referral,307.0,281.0,1332.0,34.77,143.61,14,4.56,20424.36,,,,,,,,,,
+2025-03-11 20:26:27.174348698,Facebook Ads,Master Data Science 2024,,,,,,,,27,,,Conjunto Retargeting,Anuncio Conversión,35039.0,27199.0,619.0,778.43,1.77,1.26,22.22,28.83
+2025-03-13 01:29:27.535070142,Google Analytics,Curso SQL Profesional,email,cpc,1141.0,1065.0,3566.0,72.28,179.06,72,6.31,308095.72,,,,,,,,,,
+2025-03-14 21:03:58.076152306,Google Analytics,Master IA y ML,referral,referral,891.0,625.0,2495.0,34.17,464.13,24,2.69,58874.27,,,,,,,,,,
+2025-03-14 21:03:58.076152306,Facebook Ads,Curso Cloud Computing,,,,,,,,120,,,Conjunto Lookalike,Anuncio Carousel,25473.0,22897.0,869.0,1245.92,3.41,1.43,48.91,10.38
+2025-03-15 11:35:28.256513026,Google Analytics,Master Data Science 2024,google,social,261.0,196.0,903.0,66.83,87.01,19,7.28,10675.24,,,,,,,,,,
+2025-03-16 02:06:58.436873748,Google Analytics,Bootcamp Full Stack,email,organic,118.0,84.0,499.0,45.97,289.38,9,7.63,28682.38,,,,,,,,,,
+2025-03-16 16:38:28.617234470,Google Analytics,Master Data Science 2024,direct,social,1411.0,1271.0,5600.0,71.97,353.9,130,9.21,425818.41,,,,,,,,,,
+2025-03-17 07:09:58.797595192,Google Analytics,Master Data Science 2024,email,display,1849.0,1325.0,4832.0,71.43,375.6,88,4.76,176108.29,,,,,,,,,,
+2025-03-17 07:09:58.797595192,Google Analytics,Bootcamp UX/UI,organic,organic,698.0,494.0,2695.0,48.51,531.81,59,8.45,250832.25,,,,,,,,,,
+2025-03-17 21:41:28.977955912,Google Analytics,Master Ciberseguridad,referral,referral,1325.0,975.0,5103.0,48.87,330.04,3,0.23,9468.14,,,,,,,,,,
+2025-03-18 12:12:59.158316634,Facebook Ads,Curso Python Avanzado,,,,,,,,54,,,Conjunto Lookalike,Anuncio Video Master,30493.0,18554.0,997.0,255.52,3.27,0.26,8.38,4.73
+2025-03-19 17:15:59.519038076,Google Analytics,Master Ciberseguridad,direct,display,1458.0,1357.0,2676.0,53.24,484.72,91,6.24,317497.84,,,,,,,,,,
+2025-03-19 17:15:59.519038076,Google Analytics,Master Ciberseguridad,google,display,352.0,306.0,644.0,43.01,227.3,26,7.39,73255.66,,,,,,,,,,
+2025-03-23 22:56:30.781563128,Facebook Ads,Master Ciberseguridad,,,,,,,,6,,,Conjunto Audiencia Personalizada,Anuncio Lead Gen,33828.0,23887.0,61.0,1751.64,0.18,28.72,51.78,291.94
+2025-03-23 22:56:30.781563128,Google Analytics,Curso Python Avanzado,referral,referral,671.0,529.0,2024.0,72.35,533.21,60,8.94,136037.3,,,,,,,,,,
+2025-03-23 22:56:30.781563128,Facebook Ads,Master Ciberseguridad,,,,,,,,0,,,Conjunto Intereses,Anuncio Brand Awareness,1661.0,1256.0,14.0,1370.03,0.84,97.86,824.83,0.0
+2025-03-25 03:59:31.142284570,Google Analytics,Master Ciberseguridad,referral,cpc,874.0,614.0,2086.0,50.66,281.99,31,3.55,112305.97,,,,,,,,,,
+2025-03-25 03:59:31.142284570,Google Analytics,Curso Python Avanzado,email,organic,1320.0,924.0,4826.0,62.96,338.06,32,2.42,65713.11,,,,,,,,,,
+2025-03-25 03:59:31.142284570,Google Analytics,Master Ciberseguridad,email,referral,1723.0,1479.0,5593.0,35.33,174.42,10,0.58,16040.85,,,,,,,,,,
+2025-03-26 09:02:31.503006012,Google Analytics,Master Data Science 2024,direct,referral,167.0,126.0,731.0,57.73,360.71,14,8.38,54493.5,,,,,,,,,,
+2025-03-26 23:34:01.683366734,Google Analytics,Bootcamp Full Stack,referral,display,379.0,304.0,1425.0,39.17,236.88,12,3.17,53008.46,,,,,,,,,,
+2025-03-27 14:05:31.863727456,Google Analytics,Bootcamp Marketing Digital,facebook,cpc,609.0,518.0,1127.0,45.17,137.13,25,4.11,70132.04,,,,,,,,,,
+2025-03-27 14:05:31.863727456,Google Analytics,Curso Python Avanzado,referral,display,1524.0,1144.0,4607.0,48.87,69.79,16,1.05,69726.24,,,,,,,,,,
+2025-03-28 04:37:02.044088178,Google Analytics,Curso SQL Profesional,google,referral,465.0,408.0,1927.0,62.91,436.53,0,0.0,0.0,,,,,,,,,,
+2025-03-28 04:37:02.044088178,Google Analytics,Bootcamp Marketing Digital,email,social,1437.0,1125.0,5567.0,50.31,159.06,14,0.97,36377.51,,,,,,,,,,
+2025-03-28 19:08:32.224448900,Google Analytics,Curso Cloud Computing,organic,email,106.0,95.0,445.0,39.16,96.17,5,4.72,13283.35,,,,,,,,,,
+2025-03-28 19:08:32.224448900,Google Analytics,Curso Python Avanzado,direct,referral,165.0,142.0,284.0,46.9,494.06,14,8.48,21587.55,,,,,,,,,,
+2025-03-28 19:08:32.224448900,Facebook Ads,Master IA y ML,,,,,,,,5,,,Conjunto Intereses,Anuncio Lead Gen,47773.0,39115.0,49.0,183.99,0.1,3.75,3.85,36.8
+2025-03-28 19:08:32.224448900,Facebook Ads,Bootcamp Full Stack,,,,,,,,29,,,Conjunto Retargeting,Anuncio Video Master,23387.0,14350.0,628.0,1862.11,2.69,2.97,79.62,64.21
+2025-03-30 00:11:32.585170340,Google Analytics,Bootcamp Marketing Digital,referral,social,397.0,340.0,709.0,34.67,86.28,35,8.82,138226.12,,,,,,,,,,
+2025-03-30 14:43:02.765531064,Facebook Ads,Curso Python Avanzado,,,,,,,,228,,,Conjunto Demográfico,Anuncio Conversión,36622.0,29416.0,1533.0,323.63,4.19,0.21,8.84,1.42
+2025-03-30 14:43:02.765531064,Facebook Ads,Master Data Science 2024,,,,,,,,133,,,Conjunto Intereses,Anuncio Conversión,36386.0,23685.0,1298.0,726.58,3.57,0.56,19.97,5.46
+2025-03-30 14:43:02.765531064,Google Analytics,Curso SQL Profesional,direct,cpc,1649.0,1473.0,6691.0,54.37,469.46,75,4.55,197448.41,,,,,,,,,,
+2025-03-30 14:43:02.765531064,Facebook Ads,Master Data Science 2024,,,,,,,,137,,,Conjunto Lookalike,Anuncio Carousel,41172.0,27357.0,1639.0,1743.85,3.98,1.06,42.36,12.73
+2025-03-31 19:46:03.126252504,Facebook Ads,Master Data Science 2024,,,,,,,,31,,,Conjunto Retargeting,Anuncio Imagen Simple,7539.0,5527.0,288.0,1336.05,3.82,4.64,177.22,43.1
+2025-04-01 10:17:33.306613228,Google Analytics,Master IA y ML,email,organic,727.0,644.0,1581.0,53.79,506.0,20,2.75,72517.69,,,,,,,,,,
+2025-04-01 10:17:33.306613228,Google Analytics,Bootcamp Marketing Digital,organic,email,1048.0,937.0,4155.0,50.77,590.99,87,8.3,78102.71,,,,,,,,,,
+2025-04-05 15:58:04.569138276,Facebook Ads,Curso SQL Profesional,,,,,,,,21,,,Conjunto Audiencia Personalizada,Anuncio Conversión,17544.0,12801.0,778.0,954.78,4.43,1.23,54.42,45.47
+2025-04-05 15:58:04.569138276,Facebook Ads,Curso SQL Profesional,,,,,,,,49,,,Conjunto Retargeting,Anuncio Brand Awareness,26183.0,17621.0,837.0,126.01,3.2,0.15,4.81,2.57
+2025-04-06 06:29:34.749499000,Google Analytics,Master Data Science 2024,email,display,1772.0,1468.0,6571.0,49.64,420.06,145,8.18,623778.55,,,,,,,,,,
+2025-04-06 06:29:34.749499000,Google Analytics,Curso Python Avanzado,referral,referral,1841.0,1733.0,7327.0,70.64,564.13,90,4.89,371699.35,,,,,,,,,,
+2025-04-06 06:29:34.749499000,Google Analytics,Bootcamp Marketing Digital,direct,social,1748.0,1473.0,4216.0,44.31,579.03,148,8.47,595969.68,,,,,,,,,,
+2025-04-06 06:29:34.749499000,Google Analytics,Curso Python Avanzado,direct,display,215.0,151.0,913.0,61.78,226.84,14,6.51,39233.05,,,,,,,,,,
+2025-04-06 06:29:34.749499000,Facebook Ads,Curso Python Avanzado,,,,,,,,28,,,Conjunto Intereses,Anuncio Carousel,33596.0,24212.0,348.0,1182.85,1.04,3.4,35.21,42.24
+2025-04-08 16:35:35.470941884,Google Analytics,Master Ciberseguridad,organic,display,123.0,90.0,398.0,55.63,528.94,10,8.13,46811.28,,,,,,,,,,
+2025-04-09 07:07:05.651302608,Google Analytics,Curso SQL Profesional,google,social,1264.0,951.0,5671.0,74.15,410.73,112,8.86,288428.12,,,,,,,,,,
+2025-04-09 21:38:35.831663328,Facebook Ads,Curso SQL Profesional,,,,,,,,22,,,Conjunto Lookalike,Anuncio Imagen Simple,15026.0,13294.0,198.0,1365.83,1.32,6.9,90.9,62.08
+2025-04-10 12:10:06.012024048,Google Analytics,Curso Python Avanzado,google,email,326.0,279.0,542.0,58.99,586.09,21,6.44,36514.74,,,,,,,,,,
+2025-04-10 12:10:06.012024048,Google Analytics,Master IA y ML,facebook,cpc,242.0,180.0,874.0,50.48,420.59,13,5.37,16429.11,,,,,,,,,,
+2025-04-10 12:10:06.012024048,Facebook Ads,Master IA y ML,,,,,,,,21,,,Conjunto Intereses,Anuncio Lead Gen,9566.0,6231.0,216.0,1684.4,2.26,7.8,176.08,80.21
+2025-04-11 17:13:06.372745492,Facebook Ads,Master Data Science 2024,,,,,,,,0,,,Conjunto Lookalike,Anuncio Lead Gen,4255.0,3770.0,22.0,349.7,0.52,15.9,82.19,0.0
+2025-04-12 22:16:06.733466936,Facebook Ads,Bootcamp UX/UI,,,,,,,,7,,,Conjunto Lookalike,Anuncio Brand Awareness,24989.0,19365.0,885.0,742.1,3.54,0.84,29.7,106.01
+2025-04-13 12:47:36.913827656,Facebook Ads,Master Ciberseguridad,,,,,,,,45,,,Conjunto Audiencia Personalizada,Anuncio Imagen Simple,33464.0,26170.0,637.0,530.26,1.9,0.83,15.85,11.78
+2025-04-14 03:19:07.094188376,Google Analytics,Master IA y ML,referral,organic,1312.0,1142.0,3445.0,66.0,537.67,72,5.49,359105.08,,,,,,,,,,
+2025-04-14 03:19:07.094188376,Google Analytics,Master Ciberseguridad,referral,email,514.0,439.0,2271.0,50.93,517.59,29,5.64,31195.77,,,,,,,,,,
+2025-04-14 17:50:37.274549100,Facebook Ads,Bootcamp Full Stack,,,,,,,,45,,,Conjunto Lookalike,Anuncio Lead Gen,14232.0,11396.0,359.0,646.8,2.52,1.8,45.45,14.37
+2025-04-15 08:22:07.454909820,Google Analytics,Master IA y ML,direct,display,619.0,468.0,1799.0,42.09,114.53,51,8.24,126125.82,,,,,,,,,,
+2025-04-16 13:25:07.815631264,Google Analytics,Bootcamp UX/UI,referral,social,1711.0,1268.0,3153.0,30.39,144.01,138,8.07,271603.68,,,,,,,,,,
+2025-04-17 18:28:08.176352708,Google Analytics,Curso SQL Profesional,organic,organic,617.0,451.0,1400.0,45.99,423.96,31,5.02,151564.57,,,,,,,,,,
+2025-04-18 08:59:38.356713428,Google Analytics,Bootcamp Marketing Digital,email,organic,215.0,196.0,422.0,33.72,321.65,10,4.65,30353.38,,,,,,,,,,
+2025-04-18 08:59:38.356713428,Google Analytics,Master Ciberseguridad,facebook,cpc,1497.0,1161.0,3645.0,30.14,154.09,86,5.74,74839.39,,,,,,,,,,
+2025-04-18 08:59:38.356713428,Google Analytics,Bootcamp UX/UI,google,organic,1512.0,1079.0,4166.0,50.63,451.5,17,1.12,59541.74,,,,,,,,,,
+2025-04-20 19:05:39.078156312,Google Analytics,Bootcamp Marketing Digital,facebook,display,1344.0,955.0,2525.0,55.31,473.19,39,2.9,84692.5,,,,,,,,,,
+2025-04-20 19:05:39.078156312,Google Analytics,Master Ciberseguridad,organic,referral,1793.0,1549.0,5699.0,60.92,415.36,47,2.62,109539.22,,,,,,,,,,
+2025-04-21 09:37:09.258517036,Facebook Ads,Curso SQL Profesional,,,,,,,,228,,,Conjunto Intereses,Anuncio Conversión,48448.0,36537.0,1942.0,1785.27,4.01,0.92,36.85,7.83
+2025-04-21 09:37:09.258517036,Facebook Ads,Bootcamp UX/UI,,,,,,,,38,,,Conjunto Retargeting,Anuncio Conversión,15523.0,11593.0,616.0,835.41,3.97,1.36,53.82,21.98
+2025-04-21 09:37:09.258517036,Facebook Ads,Curso Python Avanzado,,,,,,,,4,,,Conjunto Demográfico,Anuncio Imagen Simple,2695.0,1842.0,72.0,1163.21,2.67,16.16,431.62,290.8
+2025-04-22 00:08:39.438877756,Facebook Ads,Bootcamp UX/UI,,,,,,,,37,,,Conjunto Retargeting,Anuncio Brand Awareness,30932.0,22331.0,729.0,607.13,2.36,0.83,19.63,16.41
+2025-04-22 00:08:39.438877756,Google Analytics,Bootcamp Marketing Digital,email,email,1279.0,976.0,5521.0,70.23,242.24,58,4.53,249576.54,,,,,,,,,,
+2025-04-22 00:08:39.438877756,Google Analytics,Bootcamp Full Stack,google,email,1418.0,1001.0,3201.0,53.4,341.85,126,8.89,212261.25,,,,,,,,,,
+2025-04-22 14:40:09.619238476,Facebook Ads,Master Data Science 2024,,,,,,,,128,,,Conjunto Lookalike,Anuncio Carousel,19931.0,16444.0,959.0,567.47,4.81,0.59,28.47,4.43
+2025-04-23 05:11:39.799599200,Facebook Ads,Master Ciberseguridad,,,,,,,,26,,,Conjunto Audiencia Personalizada,Anuncio Video Master,6850.0,4192.0,183.0,1239.39,2.67,6.77,180.93,47.67
+2025-04-23 05:11:39.799599200,Facebook Ads,Master Ciberseguridad,,,,,,,,29,,,Conjunto Audiencia Personalizada,Anuncio Carousel,42115.0,34878.0,896.0,1000.17,2.13,1.12,23.75,34.49
+2025-04-23 05:11:39.799599200,Google Analytics,Bootcamp UX/UI,direct,email,1806.0,1583.0,5286.0,60.35,471.96,111,6.15,225535.57,,,,,,,,,,
+2025-04-24 10:14:40.160320644,Google Analytics,Curso Cloud Computing,email,cpc,192.0,178.0,581.0,52.56,87.13,0,0.0,0.0,,,,,,,,,,
+2025-04-25 15:17:40.521042084,Google Analytics,Curso Cloud Computing,google,referral,1117.0,788.0,3180.0,40.69,86.79,96,8.59,382100.61,,,,,,,,,,
+2025-04-25 15:17:40.521042084,Google Analytics,Master Data Science 2024,google,organic,1263.0,1103.0,4208.0,38.99,89.98,102,8.08,108598.21,,,,,,,,,,
+2025-04-26 05:49:10.701402808,Facebook Ads,Curso SQL Profesional,,,,,,,,5,,,Conjunto Lookalike,Anuncio Brand Awareness,42692.0,36584.0,433.0,1861.83,1.01,4.3,43.61,372.37
+2025-04-27 10:52:11.062124248,Facebook Ads,Curso Python Avanzado,,,,,,,,48,,,Conjunto Intereses,Anuncio Imagen Simple,25484.0,21019.0,508.0,1073.23,1.99,2.11,42.11,22.36
+2025-04-29 06:26:41.603206412,Google Analytics,Curso SQL Profesional,direct,social,905.0,640.0,3967.0,60.05,563.93,27,2.98,86071.03,,,,,,,,,,
+2025-04-29 06:26:41.603206412,Facebook Ads,Curso SQL Profesional,,,,,,,,3,,,Conjunto Lookalike,Anuncio Video Master,2051.0,1752.0,46.0,1775.47,2.24,38.6,865.66,591.82
+2025-05-01 02:01:12.144288580,Facebook Ads,Curso Cloud Computing,,,,,,,,16,,,Conjunto Demográfico,Anuncio Lead Gen,12939.0,11502.0,317.0,1372.32,2.45,4.33,106.06,85.77
+2025-05-01 02:01:12.144288580,Google Analytics,Bootcamp Full Stack,google,email,1567.0,1408.0,3657.0,36.4,229.11,27,1.72,45217.4,,,,,,,,,,
+2025-05-01 16:32:42.324649300,Google Analytics,Bootcamp UX/UI,email,display,1017.0,950.0,2907.0,38.93,149.04,15,1.47,55433.95,,,,,,,,,,
+2025-05-01 16:32:42.324649300,Google Analytics,Bootcamp UX/UI,facebook,referral,586.0,543.0,1211.0,30.23,92.45,8,1.37,31042.38,,,,,,,,,,
+2025-05-02 07:04:12.505010020,Google Analytics,Bootcamp Marketing Digital,organic,organic,1908.0,1475.0,3519.0,72.37,483.47,162,8.49,235874.07,,,,,,,,,,
+2025-05-02 07:04:12.505010020,Google Analytics,Master Data Science 2024,email,cpc,1760.0,1409.0,7310.0,70.3,550.95,86,4.89,158657.71,,,,,,,,,,
+2025-05-02 21:35:42.685370744,Google Analytics,Master IA y ML,email,cpc,1651.0,1231.0,4170.0,49.35,508.71,115,6.97,206511.71,,,,,,,,,,
+2025-05-02 21:35:42.685370744,Google Analytics,Bootcamp Full Stack,referral,email,838.0,708.0,2237.0,45.98,84.43,46,5.49,26141.61,,,,,,,,,,
+2025-05-04 17:10:13.226452908,Google Analytics,Master Ciberseguridad,direct,display,788.0,663.0,2735.0,70.43,275.74,51,6.47,27981.14,,,,,,,,,,
+2025-05-04 17:10:13.226452908,Facebook Ads,Curso SQL Profesional,,,,,,,,44,,,Conjunto Audiencia Personalizada,Anuncio Conversión,21671.0,13681.0,320.0,755.01,1.48,2.36,34.84,17.16
+2025-05-05 07:41:43.406813628,Google Analytics,Master Ciberseguridad,facebook,display,634.0,585.0,2441.0,61.49,393.15,10,1.58,28953.13,,,,,,,,,,
+2025-05-06 12:44:43.767535072,Facebook Ads,Curso Cloud Computing,,,,,,,,219,,,Conjunto Lookalike,Anuncio Conversión,31663.0,21812.0,1478.0,530.18,4.67,0.36,16.74,2.42
+2025-05-07 03:16:13.947895792,Google Analytics,Master Data Science 2024,google,cpc,1769.0,1391.0,2920.0,32.37,433.69,21,1.19,31906.29,,,,,,,,,,
+2025-05-08 22:50:44.488977956,Facebook Ads,Curso SQL Profesional,,,,,,,,208,,,Conjunto Intereses,Anuncio Conversión,45222.0,36477.0,1459.0,1655.93,3.23,1.13,36.62,7.96
+2025-05-09 13:22:14.669338680,Google Analytics,Curso SQL Profesional,direct,social,1281.0,1012.0,5017.0,44.77,172.89,16,1.25,68090.55,,,,,,,,,,
+2025-05-10 03:53:44.849699400,Google Analytics,Curso Python Avanzado,organic,social,1599.0,1271.0,6276.0,67.06,267.69,158,9.88,294636.27,,,,,,,,,,
+2025-05-10 03:53:44.849699400,Facebook Ads,Bootcamp Marketing Digital,,,,,,,,25,,,Conjunto Lookalike,Anuncio Lead Gen,14269.0,8889.0,416.0,1086.57,2.92,2.61,76.15,43.46
+2025-05-10 18:25:15.030060120,Facebook Ads,Curso Cloud Computing,,,,,,,,16,,,Conjunto Audiencia Personalizada,Anuncio Lead Gen,5485.0,3556.0,251.0,1943.74,4.58,7.74,354.37,121.48
+2025-05-11 08:56:45.210420844,Facebook Ads,Master Data Science 2024,,,,,,,,34,,,Conjunto Intereses,Anuncio Imagen Simple,44894.0,33836.0,584.0,1880.04,1.3,3.22,41.88,55.3
+2025-05-11 23:28:15.390781564,Google Analytics,Master Ciberseguridad,direct,organic,1989.0,1666.0,5389.0,67.51,499.92,60,3.02,148307.71,,,,,,,,,,
+2025-05-12 13:59:45.571142284,Google Analytics,Master IA y ML,direct,email,1138.0,922.0,4267.0,53.92,350.4,36,3.16,29357.52,,,,,,,,,,
+2025-05-12 13:59:45.571142284,Facebook Ads,Curso Python Avanzado,,,,,,,,30,,,Conjunto Intereses,Anuncio Video Master,31607.0,19361.0,438.0,479.17,1.39,1.09,15.16,15.97
+2025-05-12 13:59:45.571142284,Facebook Ads,Curso Python Avanzado,,,,,,,,1,,,Conjunto Lookalike,Anuncio Conversión,4558.0,3036.0,17.0,147.92,0.37,8.7,32.45,147.92
+2025-05-13 19:02:45.931863728,Facebook Ads,Bootcamp Marketing Digital,,,,,,,,113,,,Conjunto Audiencia Personalizada,Anuncio Conversión,40887.0,29478.0,1491.0,663.91,3.65,0.45,16.24,5.88
+2025-05-15 00:05:46.292585172,Facebook Ads,Bootcamp Marketing Digital,,,,,,,,22,,,Conjunto Lookalike,Anuncio Conversión,17806.0,14591.0,180.0,1792.51,1.01,9.96,100.67,81.48
+2025-05-17 10:11:47.014028056,Google Analytics,Curso Cloud Computing,referral,organic,543.0,394.0,2065.0,52.52,294.24,14,2.58,37493.3,,,,,,,,,,
+2025-05-19 05:46:17.555110220,Facebook Ads,Master Data Science 2024,,,,,,,,10,,,Conjunto Demográfico,Anuncio Lead Gen,42989.0,29987.0,456.0,580.4,1.06,1.27,13.5,58.04
+2025-05-19 05:46:17.555110220,Google Analytics,Curso SQL Profesional,direct,display,898.0,792.0,2278.0,60.2,494.93,21,2.34,23012.24,,,,,,,,,,
+2025-05-19 05:46:17.555110220,Google Analytics,Curso Cloud Computing,google,organic,812.0,726.0,3648.0,38.6,308.21,17,2.09,17709.65,,,,,,,,,,
+2025-05-21 01:20:48.096192384,Google Analytics,Bootcamp UX/UI,google,organic,1156.0,1065.0,3190.0,52.36,555.15,24,2.08,29304.36,,,,,,,,,,
+2025-05-22 06:23:48.456913828,Facebook Ads,Curso Cloud Computing,,,,,,,,8,,,Conjunto Intereses,Anuncio Lead Gen,1717.0,1403.0,67.0,714.06,3.9,10.66,415.88,89.26
+2025-05-23 11:26:48.817635272,Google Analytics,Bootcamp Full Stack,organic,cpc,97.0,71.0,213.0,31.07,510.87,6,6.19,6657.41,,,,,,,,,,
+2025-05-24 01:58:18.997995992,Google Analytics,Curso SQL Profesional,google,email,859.0,800.0,1839.0,48.9,65.23,58,6.75,181228.87,,,,,,,,,,
+2025-05-24 16:29:49.178356716,Facebook Ads,Master Ciberseguridad,,,,,,,,3,,,Conjunto Lookalike,Anuncio Carousel,5586.0,3865.0,85.0,760.02,1.52,8.94,136.06,253.34
+2025-05-25 07:01:19.358717436,Google Analytics,Master Data Science 2024,referral,cpc,876.0,730.0,2801.0,63.82,131.26,45,5.14,61875.65,,,,,,,,,,
+2025-05-25 07:01:19.358717436,Facebook Ads,Curso SQL Profesional,,,,,,,,35,,,Conjunto Audiencia Personalizada,Anuncio Lead Gen,21855.0,14813.0,529.0,1864.28,2.42,3.52,85.3,53.27
+2025-05-25 21:32:49.539078156,Google Analytics,Curso Python Avanzado,organic,social,1686.0,1215.0,3596.0,63.86,87.7,123,7.3,481654.62,,,,,,,,,,
+2025-05-26 12:04:19.719438880,Google Analytics,Curso SQL Profesional,organic,organic,1509.0,1117.0,4852.0,66.24,470.49,28,1.86,32805.43,,,,,,,,,,
+2025-05-26 12:04:19.719438880,Facebook Ads,Curso Python Avanzado,,,,,,,,99,,,Conjunto Lookalike,Anuncio Conversión,36733.0,23423.0,1179.0,160.53,3.21,0.14,4.37,1.62
+2025-05-27 02:35:49.899799600,Google Analytics,Curso Python Avanzado,email,social,1500.0,1290.0,3419.0,69.87,543.67,72,4.8,110517.98,,,,,,,,,,
+2025-05-27 02:35:49.899799600,Google Analytics,Master Ciberseguridad,email,referral,1189.0,1032.0,4730.0,60.29,505.15,81,6.81,57009.9,,,,,,,,,,
+2025-05-27 17:07:20.080160320,Google Analytics,Master Ciberseguridad,organic,referral,1750.0,1260.0,2808.0,74.54,76.21,136,7.77,163595.32,,,,,,,,,,
+2025-05-28 07:38:50.260521044,Google Analytics,Bootcamp Full Stack,direct,email,539.0,484.0,1874.0,56.0,527.69,18,3.34,88799.14,,,,,,,,,,
+2025-05-28 07:38:50.260521044,Facebook Ads,Bootcamp Marketing Digital,,,,,,,,6,,,Conjunto Intereses,Anuncio Video Master,2161.0,1573.0,69.0,1347.46,3.19,19.53,623.54,224.58
+2025-05-28 07:38:50.260521044,Google Analytics,Master Data Science 2024,organic,display,956.0,802.0,3669.0,30.73,501.93,94,9.83,246211.87,,,,,,,,,,
+2025-05-28 07:38:50.260521044,Facebook Ads,Bootcamp Full Stack,,,,,,,,39,,,Conjunto Intereses,Anuncio Imagen Simple,24238.0,16382.0,1141.0,168.96,4.71,0.15,6.97,4.33
+2025-05-28 07:38:50.260521044,Google Analytics,Curso SQL Profesional,email,email,542.0,397.0,1059.0,70.03,569.72,48,8.86,171427.01,,,,,,,,,,
+2025-05-29 12:41:50.621242488,Facebook Ads,Bootcamp UX/UI,,,,,,,,41,,,Conjunto Retargeting,Anuncio Conversión,37635.0,31258.0,1414.0,954.93,3.76,0.68,25.37,23.29
+2025-05-30 03:13:20.801603208,Facebook Ads,Curso SQL Profesional,,,,,,,,79,,,Conjunto Retargeting,Anuncio Lead Gen,34783.0,28665.0,563.0,539.61,1.62,0.96,15.51,6.83
+2025-05-31 08:16:21.162324652,Facebook Ads,Bootcamp Full Stack,,,,,,,,24,,,Conjunto Demográfico,Anuncio Video Master,30978.0,25409.0,171.0,407.73,0.55,2.38,13.16,16.99
+2025-06-01 13:19:21.523046092,Google Analytics,Master Data Science 2024,direct,email,637.0,450.0,2145.0,66.3,514.69,38,5.97,126965.18,,,,,,,,,,
+2025-06-01 13:19:21.523046092,Google Analytics,Bootcamp Marketing Digital,organic,email,1749.0,1300.0,4176.0,59.87,581.26,28,1.6,115553.34,,,,,,,,,,
+2025-06-02 18:22:21.883767536,Google Analytics,Curso SQL Profesional,email,email,174.0,122.0,450.0,54.6,513.5,13,7.47,53312.07,,,,,,,,,,
+2025-06-03 08:53:52.064128256,Facebook Ads,Curso Cloud Computing,,,,,,,,55,,,Conjunto Retargeting,Anuncio Conversión,14731.0,12050.0,648.0,1410.77,4.4,2.18,95.77,25.65
+2025-06-03 08:53:52.064128256,Facebook Ads,Bootcamp Marketing Digital,,,,,,,,31,,,Conjunto Demográfico,Anuncio Conversión,29835.0,23400.0,303.0,626.86,1.02,2.07,21.01,20.22
+2025-06-03 08:53:52.064128256,Facebook Ads,Master Data Science 2024,,,,,,,,15,,,Conjunto Audiencia Personalizada,Anuncio Brand Awareness,6581.0,4821.0,215.0,1471.12,3.27,6.84,223.54,98.07
+2025-06-05 04:28:22.605210420,Google Analytics,Master IA y ML,direct,social,366.0,287.0,696.0,34.25,509.02,33,9.02,63761.91,,,,,,,,,,
+2025-06-05 18:59:52.785571144,Facebook Ads,Curso Python Avanzado,,,,,,,,16,,,Conjunto Audiencia Personalizada,Anuncio Imagen Simple,38710.0,33575.0,1278.0,1438.67,3.3,1.13,37.17,89.92
+2025-06-05 18:59:52.785571144,Facebook Ads,Curso SQL Profesional,,,,,,,,30,,,Conjunto Lookalike,Anuncio Conversión,44298.0,38523.0,335.0,1633.9,0.76,4.88,36.88,54.46
+2025-06-06 09:31:22.965931864,Google Analytics,Master Ciberseguridad,email,referral,886.0,706.0,1967.0,34.27,230.06,86,9.71,74361.94,,,,,,,,,,
+2025-06-06 09:31:22.965931864,Google Analytics,Master Data Science 2024,google,organic,1998.0,1442.0,3391.0,70.11,310.46,126,6.31,248375.56,,,,,,,,,,
+2025-06-07 00:02:53.146292588,Facebook Ads,Master Data Science 2024,,,,,,,,0,,,Conjunto Intereses,Anuncio Lead Gen,29572.0,25368.0,17.0,664.72,0.06,39.1,22.48,0.0
+2025-06-07 00:02:53.146292588,Facebook Ads,Curso Cloud Computing,,,,,,,,19,,,Conjunto Demográfico,Anuncio Imagen Simple,28332.0,21916.0,1237.0,1166.65,4.37,0.94,41.18,61.4
+2025-06-07 14:34:23.326653308,Facebook Ads,Curso Cloud Computing,,,,,,,,140,,,Conjunto Demográfico,Anuncio Lead Gen,21469.0,19287.0,996.0,1257.39,4.64,1.26,58.57,8.98
+2025-06-08 05:05:53.507014028,Google Analytics,Curso Python Avanzado,facebook,referral,160.0,136.0,647.0,38.83,127.8,9,5.62,25704.32,,,,,,,,,,
+2025-06-08 05:05:53.507014028,Facebook Ads,Curso Python Avanzado,,,,,,,,38,,,Conjunto Demográfico,Anuncio Brand Awareness,34691.0,28843.0,449.0,161.2,1.29,0.36,4.65,4.24
+2025-06-10 00:40:24.048096192,Google Analytics,Curso SQL Profesional,google,organic,1852.0,1591.0,7334.0,31.87,328.99,133,7.18,217508.69,,,,,,,,,,
+2025-06-11 05:43:24.408817636,Google Analytics,Master Ciberseguridad,referral,email,1293.0,1195.0,5081.0,56.24,454.32,119,9.2,99468.88,,,,,,,,,,
+2025-06-11 20:14:54.589178356,Google Analytics,Bootcamp UX/UI,google,display,1994.0,1744.0,7599.0,45.18,568.45,164,8.22,97449.38,,,,,,,,,,
+2025-06-11 20:14:54.589178356,Facebook Ads,Master IA y ML,,,,,,,,5,,,Conjunto Intereses,Anuncio Video Master,9792.0,8322.0,63.0,696.14,0.64,11.05,71.09,139.23
+2025-06-12 10:46:24.769539080,Facebook Ads,Master Ciberseguridad,,,,,,,,44,,,Conjunto Lookalike,Anuncio Lead Gen,15342.0,11295.0,532.0,771.55,3.47,1.45,50.29,17.54
+2025-06-13 01:17:54.949899800,Facebook Ads,Curso Python Avanzado,,,,,,,,28,,,Conjunto Retargeting,Anuncio Lead Gen,18130.0,16150.0,547.0,1640.75,3.02,3.0,90.5,58.6
+2025-06-13 01:17:54.949899800,Google Analytics,Bootcamp UX/UI,google,referral,831.0,615.0,2887.0,74.9,303.94,29,3.49,137306.8,,,,,,,,,,
+2025-06-13 15:49:25.130260524,Facebook Ads,Master Ciberseguridad,,,,,,,,37,,,Conjunto Retargeting,Anuncio Carousel,15693.0,11239.0,568.0,1252.03,3.62,2.2,79.78,33.84
+2025-06-13 15:49:25.130260524,Google Analytics,Bootcamp Full Stack,email,referral,1592.0,1372.0,6947.0,36.81,317.8,134,8.42,383730.83,,,,,,,,,,
+2025-06-13 15:49:25.130260524,Facebook Ads,Master Data Science 2024,,,,,,,,3,,,Conjunto Demográfico,Anuncio Imagen Simple,46875.0,32306.0,1781.0,813.9,3.8,0.46,17.36,271.3
+2025-06-14 20:52:25.490981964,Google Analytics,Bootcamp UX/UI,direct,email,551.0,393.0,1739.0,56.79,530.83,34,6.17,34821.11,,,,,,,,,,
+2025-06-14 20:52:25.490981964,Google Analytics,Master IA y ML,referral,cpc,805.0,579.0,2574.0,70.86,274.01,28,3.48,32077.15,,,,,,,,,,
+2025-06-15 11:23:55.671342688,Google Analytics,Bootcamp Full Stack,organic,email,1624.0,1518.0,6115.0,56.4,507.36,157,9.67,301054.83,,,,,,,,,,
+2025-06-15 11:23:55.671342688,Google Analytics,Curso SQL Profesional,email,email,271.0,214.0,656.0,38.78,426.39,25,9.23,123621.82,,,,,,,,,,
+2025-06-16 01:55:25.851703408,Facebook Ads,Bootcamp Marketing Digital,,,,,,,,2,,,Conjunto Retargeting,Anuncio Carousel,10927.0,9184.0,28.0,1056.75,0.26,37.74,96.71,528.38
+2025-06-16 01:55:25.851703408,Facebook Ads,Master Ciberseguridad,,,,,,,,2,,,Conjunto Retargeting,Anuncio Brand Awareness,3080.0,1985.0,21.0,1903.54,0.68,90.64,618.03,951.77
+2025-06-16 16:26:56.032064128,Google Analytics,Bootcamp Marketing Digital,organic,social,454.0,319.0,989.0,55.51,249.83,1,0.22,3397.8,,,,,,,,,,
+2025-06-18 12:01:26.573146292,Facebook Ads,Master IA y ML,,,,,,,,32,,,Conjunto Intereses,Anuncio Carousel,25849.0,20158.0,431.0,471.85,1.67,1.09,18.25,14.75
+2025-06-18 12:01:26.573146292,Google Analytics,Master Ciberseguridad,google,display,1269.0,1000.0,4948.0,54.96,506.0,5,0.39,12987.62,,,,,,,,,,
+2025-06-20 07:35:57.114228460,Facebook Ads,Master Ciberseguridad,,,,,,,,50,,,Conjunto Retargeting,Anuncio Video Master,10782.0,7269.0,421.0,859.49,3.9,2.04,79.72,17.19
+2025-06-20 07:35:57.114228460,Facebook Ads,Master Ciberseguridad,,,,,,,,186,,,Conjunto Lookalike,Anuncio Conversión,42913.0,28127.0,1587.0,602.56,3.7,0.38,14.04,3.24
+2025-06-20 22:07:27.294589180,Facebook Ads,Curso Python Avanzado,,,,,,,,78,,,Conjunto Demográfico,Anuncio Brand Awareness,27478.0,17665.0,787.0,444.47,2.86,0.56,16.18,5.7
+2025-06-20 22:07:27.294589180,Google Analytics,Bootcamp Marketing Digital,direct,display,638.0,598.0,2648.0,42.18,164.85,46,7.21,127679.23,,,,,,,,,,
+2025-06-20 22:07:27.294589180,Facebook Ads,Bootcamp Marketing Digital,,,,,,,,8,,,Conjunto Retargeting,Anuncio Brand Awareness,30831.0,23806.0,1366.0,1989.43,4.43,1.46,64.53,248.68
+2025-06-23 08:13:28.016032064,Facebook Ads,Bootcamp UX/UI,,,,,,,,0,,,Conjunto Retargeting,Anuncio Video Master,20880.0,18182.0,122.0,1308.87,0.58,10.73,62.69,0.0
+2025-06-23 22:44:58.196392788,Google Analytics,Bootcamp Marketing Digital,direct,cpc,355.0,263.0,667.0,35.55,340.02,22,6.2,108961.03,,,,,,,,,,
+2025-06-23 22:44:58.196392788,Google Analytics,Curso Python Avanzado,direct,cpc,1603.0,1494.0,2842.0,42.87,423.09,62,3.87,218051.18,,,,,,,,,,
+2025-06-25 03:47:58.557114228,Facebook Ads,Curso Cloud Computing,,,,,,,,45,,,Conjunto Lookalike,Anuncio Imagen Simple,31951.0,25429.0,741.0,703.97,2.32,0.95,22.03,15.64
+2025-06-25 03:47:58.557114228,Facebook Ads,Bootcamp Marketing Digital,,,,,,,,93,,,Conjunto Retargeting,Anuncio Lead Gen,42863.0,32788.0,1825.0,664.96,4.26,0.36,15.51,7.15
+2025-06-25 18:19:28.737474952,Facebook Ads,Bootcamp Full Stack,,,,,,,,6,,,Conjunto Demográfico,Anuncio Conversión,2141.0,1681.0,91.0,1371.21,4.25,15.07,640.46,228.54
+2025-06-28 04:25:29.458917836,Facebook Ads,Master Ciberseguridad,,,,,,,,34,,,Conjunto Audiencia Personalizada,Anuncio Carousel,30809.0,24287.0,1472.0,1575.73,4.78,1.07,51.15,46.35
+2025-06-28 04:25:29.458917836,Facebook Ads,Curso Python Avanzado,,,,,,,,64,,,Conjunto Intereses,Anuncio Brand Awareness,40661.0,36126.0,566.0,488.08,1.39,0.86,12.0,7.63
+2025-06-29 09:28:29.819639280,Google Analytics,Master IA y ML,referral,social,1736.0,1222.0,3618.0,66.47,207.23,32,1.84,135896.1,,,,,,,,,,
+2025-06-30 00:00:00.000000000,Google Analytics,Master Ciberseguridad,organic,social,1250.0,1174.0,5213.0,59.35,308.21,37,2.96,85556.12,,,,,,,,,,

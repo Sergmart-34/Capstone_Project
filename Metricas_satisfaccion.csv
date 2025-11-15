@@ -1,0 +1,501 @@
+﻿fecha,preparado_clases,dominio_materia,mantiene_atencion,relaciona_con_ejemplos,ejemplos_mundo_profesional,accesible_y_atiende_consultas,fomenta_colaboracion,puntualidad,referencias_en_redes,recomendaria_profesor,organiza_actividades,contenidos_adecuados,grado_dificultad,conocimientos_utiles_futuro,clase_duracion,clase_horario,clase_conveniencia_dia,clase_calidad_conexion,clase_visibilidad_pantalla,clase_calidad_audio,velocidad_respuesta,utilidad_anuncios,tipo_programa,satisfaccion_general,comentarios
+2024-09-01 00:00:00.000000000,5,4,2,3,4,3,4,2,4,3,4,5,4,3,Regular,Regular,Regular,Mal,Genial,Bien,4,4,Online,4,A veces las clases se hacen un poco largas
+2024-09-01 19:53:08.571428571,4,3,3,4,5,1,4,4,4,5,1,3,5,4,Bien,Bien,Bien,Genial,Genial,Genial,3,5,Online,3,Buen curso en general
+2024-09-02 15:46:17.142857142,2,2,1,5,1,3,4,4,5,1,4,4,5,4,Genial,Mal,Bien,Regular,Genial,Regular,3,3,Online,4,"Excelente profesor, muy claro en las explicaciones"
+2024-09-03 11:39:25.714285714,4,2,3,3,4,4,1,4,5,5,5,5,3,5,Mal,Bien,Bien,Pésimo,Genial,Genial,3,5,Online,3,Muy recomendable
+2024-09-04 07:32:34.285714285,5,5,3,5,5,5,2,4,5,4,3,4,4,4,Mal,Regular,Genial,Genial,Mal,Genial,3,4,Presencial,5,El contenido está muy actualizado
+2024-09-05 03:25:42.857142857,5,4,2,4,4,4,3,5,5,3,2,3,5,4,Bien,Bien,Bien,Regular,Bien,Genial,5,5,Presencial,3,
+2024-09-05 23:18:51.428571428,5,4,4,4,5,5,2,4,5,1,5,4,4,3,Regular,Genial,Regular,Bien,Bien,Mal,1,4,Presencial,3,
+2024-09-06 19:11:59.999999999,3,4,1,2,4,2,4,4,3,5,4,4,3,5,Genial,Genial,Bien,Mal,Regular,Pésimo,5,4,Presencial,3,Las conexiones a veces fallan
+2024-09-07 15:05:08.571428571,5,4,5,3,2,3,4,3,1,5,5,5,2,2,Mal,Genial,Genial,Regular,Mal,Bien,3,3,Online,4,
+2024-09-08 10:58:17.142857142,5,2,3,5,3,4,2,4,4,4,5,5,4,4,Pésimo,Bien,Pésimo,Genial,Regular,Bien,3,4,Presencial,4,Las conexiones a veces fallan
+2024-09-09 06:51:25.714285714,5,2,5,3,1,4,3,5,3,5,1,3,2,3,Mal,Regular,Bien,Regular,Bien,Bien,5,5,Online,3,Muy recomendable
+2024-09-10 02:44:34.285714285,5,5,3,4,5,5,5,3,3,1,5,1,5,2,Regular,Bien,Genial,Mal,Bien,Bien,3,2,Presencial,3,Muy satisfecho con el curso
+2024-09-10 22:37:42.857142857,1,5,5,4,4,5,5,5,3,4,5,3,3,5,Bien,Bien,Bien,Mal,Bien,Genial,3,2,Presencial,4,
+2024-09-11 18:30:51.428571428,1,3,4,5,2,5,2,5,3,5,3,4,2,2,Genial,Genial,Genial,Bien,Genial,Mal,3,3,Online,3,Las clases son muy prácticas y útiles
+2024-09-12 14:23:59.999999999,4,5,4,4,3,4,5,4,4,5,4,4,4,5,Regular,Bien,Bien,Regular,Bien,Bien,3,3,Online,5,
+2024-09-13 10:17:08.571428571,4,2,3,4,3,4,3,5,3,3,5,3,2,4,Bien,Genial,Regular,Regular,Regular,Mal,5,4,Online,4,"Genial, aprendí mucho"
+2024-09-14 06:10:17.142857142,3,4,5,3,5,5,4,5,1,3,4,3,4,5,Bien,Regular,Genial,Regular,Bien,Bien,5,4,Presencial,4,Muy satisfecho con el curso
+2024-09-15 02:03:25.714285714,5,5,5,5,4,3,4,1,4,4,1,2,3,4,Bien,Bien,Bien,Bien,Regular,Mal,4,3,Online,4,El horario me viene perfecto
+2024-09-15 21:56:34.285714285,3,5,5,5,4,4,5,4,4,3,4,2,2,1,Pésimo,Genial,Regular,Bien,Genial,Bien,3,4,Online,4,
+2024-09-16 17:49:42.857142857,4,3,5,4,4,3,2,5,4,3,3,4,4,3,Genial,Mal,Bien,Bien,Regular,Genial,5,4,Online,4,
+2024-09-17 13:42:51.428571428,3,3,1,3,4,5,4,4,5,5,5,4,3,2,Genial,Mal,Regular,Bien,Bien,Bien,3,3,Online,3,
+2024-09-18 09:35:59.999999999,3,3,4,1,3,4,3,2,4,5,3,5,3,4,Genial,Genial,Genial,Mal,Mal,Genial,4,3,Presencial,4,"Excelente profesor, muy claro en las explicaciones"
+2024-09-19 05:29:08.571428571,1,4,3,5,1,4,5,4,1,5,4,4,2,4,Bien,Mal,Mal,Genial,Regular,Regular,4,4,Online,3,
+2024-09-20 01:22:17.142857142,4,4,4,5,4,5,3,2,3,4,5,3,4,4,Bien,Genial,Regular,Regular,Genial,Genial,4,4,Online,4,
+2024-09-20 21:15:25.714285714,5,4,3,3,3,3,2,4,2,3,4,3,1,3,Regular,Bien,Mal,Bien,Genial,Genial,4,5,Online,3,Me gustaría más tiempo para practicar
+2024-09-21 17:08:34.285714285,5,5,3,4,3,5,3,3,5,4,4,4,3,4,Regular,Bien,Regular,Bien,Genial,Genial,4,3,Online,5,Las clases son muy prácticas y útiles
+2024-09-22 13:01:42.857142857,3,2,3,5,4,4,1,1,3,5,5,2,4,5,Bien,Genial,Mal,Genial,Genial,Genial,4,3,Presencial,3,El contenido está muy actualizado
+2024-09-23 08:54:51.428571428,5,5,3,5,5,2,4,3,3,5,4,5,5,4,Genial,Bien,Genial,Mal,Genial,Regular,3,4,Online,4,El contenido está muy actualizado
+2024-09-24 04:47:59.999999999,2,3,3,5,3,3,4,4,2,5,5,4,4,1,Regular,Genial,Mal,Regular,Bien,Regular,5,2,Presencial,4,Muy recomendable
+2024-09-25 00:41:08.571428571,4,4,5,5,4,5,5,4,3,4,5,4,1,5,Bien,Mal,Bien,Regular,Genial,Regular,5,4,Online,5,Muy recomendable
+2024-09-25 20:34:17.142857142,4,3,4,5,3,3,2,3,4,4,3,3,3,5,Regular,Genial,Bien,Mal,Genial,Bien,5,5,Online,4,Las clases son muy prácticas y útiles
+2024-09-26 16:27:25.714285714,4,5,2,1,1,3,4,5,3,3,4,2,4,4,Genial,Genial,Regular,Bien,Genial,Genial,4,5,Online,3,Buen curso en general
+2024-09-27 12:20:34.285714285,4,4,3,5,2,4,3,3,3,5,2,4,1,3,Bien,Bien,Regular,Regular,Mal,Regular,5,5,Online,4,Las conexiones a veces fallan
+2024-09-28 08:13:42.857142857,4,5,4,4,4,5,5,1,4,4,5,3,5,5,Regular,Genial,Mal,Pésimo,Mal,Mal,5,1,Online,4,Buen curso en general
+2024-09-29 04:06:51.428571428,3,2,4,2,5,5,1,5,1,3,1,3,4,5,Regular,Genial,Regular,Bien,Regular,Mal,3,2,Online,4,Las conexiones a veces fallan
+2024-09-30 00:00:00.000000000,4,5,4,5,4,2,4,4,5,3,5,5,2,3,Genial,Genial,Bien,Regular,Bien,Bien,3,4,Online,5,
+2024-10-01 00:00:00.000000000,5,2,5,1,5,5,1,5,4,5,4,4,4,4,Pésimo,Genial,Bien,Regular,Pésimo,Bien,5,3,Online,4,
+2024-10-01 14:24:00.000000000,4,3,2,5,2,3,3,4,4,2,3,3,2,4,Genial,Regular,Bien,Regular,Genial,Genial,5,2,Online,4,
+2024-10-02 04:48:00.000000000,3,4,5,5,5,4,4,3,1,5,1,4,3,4,Genial,Regular,Genial,Regular,Bien,Genial,4,5,Online,4,A veces las clases se hacen un poco largas
+2024-10-02 19:12:00.000000000,3,5,4,3,4,3,4,5,4,4,4,2,2,4,Regular,Regular,Bien,Regular,Regular,Bien,2,5,Presencial,4,Buen curso en general
+2024-10-03 09:36:00.000000000,5,5,5,2,4,5,4,4,3,4,1,4,1,4,Regular,Bien,Mal,Bien,Genial,Regular,2,2,Presencial,3,
+2024-10-04 00:00:00.000000000,4,5,5,4,2,2,1,3,2,3,4,5,4,5,Genial,Mal,Genial,Regular,Bien,Regular,5,3,Online,5,El horario me viene perfecto
+2024-10-04 14:24:00.000000000,4,5,2,3,4,3,1,2,4,5,4,4,3,5,Genial,Bien,Regular,Pésimo,Mal,Bien,5,5,Online,4,Muy buen dominio de la materia por parte del profesor
+2024-10-05 04:48:00.000000000,2,5,4,4,4,4,4,5,3,3,2,4,1,4,Genial,Genial,Bien,Regular,Mal,Bien,5,2,Online,3,Buen curso en general
+2024-10-05 19:12:00.000000000,5,4,4,4,3,3,4,1,4,4,4,4,4,4,Bien,Genial,Genial,Genial,Regular,Bien,5,3,Online,4,Buen curso en general
+2024-10-06 09:36:00.000000000,5,4,3,5,5,4,3,5,4,4,5,4,3,4,Regular,Genial,Bien,Pésimo,Bien,Regular,3,4,Online,4,Muy buen dominio de la materia por parte del profesor
+2024-10-07 00:00:00.000000000,5,5,5,2,5,5,3,4,3,5,1,4,2,5,Regular,Regular,Bien,Genial,Regular,Mal,5,4,Presencial,4,Podría mejorar la organización de las actividades
+2024-10-07 14:24:00.000000000,3,4,4,5,3,4,4,5,3,3,4,4,3,5,Regular,Genial,Mal,Bien,Genial,Regular,5,3,Presencial,4,"Genial, aprendí mucho"
+2024-10-08 04:48:00.000000000,3,3,3,2,2,2,4,5,2,2,4,3,1,3,Genial,Genial,Bien,Bien,Bien,Bien,4,4,Online,3,Muy recomendable
+2024-10-08 19:12:00.000000000,4,2,4,3,3,1,4,4,2,2,5,3,2,5,Genial,Bien,Bien,Mal,Mal,Bien,2,3,Presencial,3,
+2024-10-09 09:36:00.000000000,5,5,3,2,3,5,4,5,3,5,1,4,4,2,Genial,Regular,Bien,Regular,Bien,Mal,1,5,Online,3,Buen curso en general
+2024-10-10 00:00:00.000000000,4,3,2,5,4,5,3,2,4,4,3,5,2,3,Mal,Bien,Bien,Bien,Genial,Genial,2,1,Online,3,El contenido está muy actualizado
+2024-10-10 14:24:00.000000000,4,5,5,3,3,4,2,4,5,4,5,4,2,4,Regular,Pésimo,Bien,Genial,Regular,Bien,5,5,Presencial,4,Contenido muy útil para mi futuro profesional
+2024-10-11 04:48:00.000000000,2,2,1,5,3,3,5,3,4,3,5,5,5,4,Genial,Mal,Pésimo,Pésimo,Bien,Bien,4,1,Online,3,El contenido está muy actualizado
+2024-10-11 19:12:00.000000000,2,5,3,5,4,3,4,4,1,4,4,5,1,4,Mal,Genial,Mal,Genial,Genial,Bien,4,2,Online,4,Las conexiones a veces fallan
+2024-10-12 09:36:00.000000000,4,3,5,3,5,4,4,4,2,4,2,4,3,5,Regular,Regular,Bien,Genial,Genial,Bien,4,1,Presencial,5,"Excelente profesor, muy claro en las explicaciones"
+2024-10-13 00:00:00.000000000,4,4,5,4,3,5,5,3,3,5,1,4,2,4,Pésimo,Bien,Regular,Bien,Genial,Genial,5,4,Online,4,Excelente calidad de audio y video
+2024-10-13 14:24:00.000000000,3,1,4,5,2,3,5,4,1,4,3,4,4,5,Bien,Genial,Bien,Bien,Bien,Genial,5,1,Presencial,3,El profesor explica muy bien pero va muy rápido
+2024-10-14 04:48:00.000000000,5,3,4,5,2,5,3,4,3,5,3,4,5,4,Bien,Regular,Genial,Pésimo,Pésimo,Bien,3,5,Presencial,5,El horario me viene perfecto
+2024-10-14 19:12:00.000000000,4,4,5,4,2,4,3,5,4,3,5,4,1,4,Regular,Genial,Genial,Genial,Bien,Bien,5,2,Online,4,Muy recomendable
+2024-10-15 09:36:00.000000000,2,4,5,5,2,2,3,5,2,5,2,4,3,5,Regular,Bien,Regular,Bien,Genial,Mal,5,4,Online,3,Contenido muy útil para mi futuro profesional
+2024-10-16 00:00:00.000000000,4,5,4,2,3,4,4,4,4,4,5,3,5,3,Mal,Bien,Bien,Genial,Genial,Genial,5,4,Online,4,
+2024-10-16 14:24:00.000000000,5,5,2,5,3,4,3,4,5,3,2,3,4,3,Regular,Regular,Bien,Regular,Genial,Mal,4,2,Online,4,
+2024-10-17 04:48:00.000000000,3,5,2,5,3,5,4,5,3,5,2,3,3,2,Regular,Genial,Genial,Regular,Genial,Bien,3,4,Online,3,Me gustaría más tiempo para practicar
+2024-10-17 19:12:00.000000000,3,4,2,2,1,5,5,5,4,3,3,3,3,5,Bien,Mal,Pésimo,Mal,Bien,Genial,4,5,Online,3,Muy satisfecho con el curso
+2024-10-18 09:36:00.000000000,5,3,4,4,4,5,4,4,1,2,3,1,4,5,Mal,Genial,Regular,Regular,Regular,Bien,3,3,Online,3,Excelente calidad de audio y video
+2024-10-19 00:00:00.000000000,4,4,3,4,3,4,3,5,1,5,4,3,4,4,Bien,Mal,Bien,Mal,Pésimo,Bien,2,3,Online,4,Me gustaría más tiempo para practicar
+2024-10-19 14:24:00.000000000,5,4,3,3,5,3,2,5,3,5,4,2,5,3,Regular,Bien,Mal,Regular,Mal,Bien,4,4,Presencial,4,Me gustaría más tiempo para practicar
+2024-10-20 04:48:00.000000000,4,4,3,5,5,3,4,2,4,2,5,5,3,4,Genial,Bien,Regular,Regular,Genial,Bien,4,5,Presencial,5,Muy recomendable
+2024-10-20 19:12:00.000000000,4,3,3,1,2,4,5,3,3,2,4,1,5,4,Genial,Genial,Bien,Bien,Regular,Bien,5,1,Presencial,3,Me gustaría más tiempo para practicar
+2024-10-21 09:36:00.000000000,5,5,4,4,4,5,5,5,4,4,5,4,5,4,Mal,Bien,Bien,Mal,Mal,Bien,2,3,Presencial,5,Buen curso en general
+2024-10-22 00:00:00.000000000,5,3,5,4,4,5,4,4,3,4,4,5,3,4,Bien,Regular,Regular,Genial,Genial,Bien,4,1,Online,4,"Genial, aprendí mucho"
+2024-10-22 14:24:00.000000000,4,4,2,3,5,4,4,2,1,5,4,4,2,5,Regular,Regular,Bien,Regular,Regular,Bien,4,5,Online,4,Muy satisfecho con el curso
+2024-10-23 04:48:00.000000000,4,3,5,3,1,2,5,4,3,5,5,3,2,5,Genial,Bien,Bien,Regular,Genial,Bien,4,1,Presencial,4,
+2024-10-23 19:12:00.000000000,3,5,5,3,1,5,5,5,5,4,4,1,2,4,Bien,Bien,Genial,Regular,Bien,Mal,4,4,Online,3,A veces las clases se hacen un poco largas
+2024-10-24 09:36:00.000000000,4,4,5,4,5,4,4,1,3,3,5,3,2,3,Mal,Regular,Genial,Bien,Genial,Genial,3,5,Online,4,
+2024-10-25 00:00:00.000000000,3,4,3,5,5,3,4,5,5,5,4,5,4,4,Mal,Mal,Bien,Regular,Pésimo,Genial,1,4,Online,4,El profesor explica muy bien pero va muy rápido
+2024-10-25 14:24:00.000000000,5,5,4,3,5,3,4,4,1,3,3,4,5,3,Genial,Mal,Bien,Pésimo,Genial,Genial,4,5,Online,4,El contenido está muy actualizado
+2024-10-26 04:48:00.000000000,5,5,4,2,4,2,4,4,4,1,3,4,5,4,Bien,Genial,Bien,Regular,Bien,Regular,5,2,Online,3,
+2024-10-26 19:12:00.000000000,5,5,1,4,3,4,3,3,5,3,5,1,1,5,Bien,Genial,Regular,Bien,Genial,Bien,4,5,Online,4,
+2024-10-27 09:36:00.000000000,5,1,5,4,5,4,5,5,1,2,3,4,5,4,Bien,Regular,Genial,Genial,Regular,Bien,2,4,Online,3,
+2024-10-28 00:00:00.000000000,3,4,3,3,1,3,4,1,3,5,4,4,3,4,Regular,Genial,Mal,Bien,Regular,Genial,4,3,Online,3,Las conexiones a veces fallan
+2024-10-28 14:24:00.000000000,2,5,5,3,4,4,5,5,4,2,4,4,3,1,Regular,Genial,Bien,Regular,Bien,Genial,5,3,Online,3,Las conexiones a veces fallan
+2024-10-29 04:48:00.000000000,4,4,5,3,4,4,3,5,5,5,3,2,4,2,Bien,Bien,Bien,Bien,Bien,Regular,3,4,Online,3,
+2024-10-29 19:12:00.000000000,4,5,3,5,4,4,4,4,2,4,4,4,3,5,Bien,Mal,Bien,Bien,Genial,Bien,5,3,Online,5,Las clases son muy prácticas y útiles
+2024-10-30 09:36:00.000000000,3,4,4,4,4,4,2,2,4,4,4,5,3,5,Regular,Mal,Genial,Regular,Genial,Regular,4,5,Online,4,"Genial, aprendí mucho"
+2024-10-31 00:00:00.000000000,4,4,5,1,3,5,5,1,4,4,4,3,4,3,Genial,Genial,Bien,Regular,Regular,Bien,5,3,Online,3,Las clases son muy prácticas y útiles
+2024-11-01 00:00:00.000000000,1,3,4,5,5,3,3,3,3,4,4,3,2,1,Regular,Genial,Regular,Regular,Bien,Genial,5,4,Online,3,Me gustaría más tiempo para practicar
+2024-11-01 17:24:00.000000000,2,5,5,4,3,5,3,3,4,5,1,3,5,3,Mal,Bien,Genial,Regular,Genial,Bien,2,5,Online,4,El contenido está muy actualizado
+2024-11-02 10:48:00.000000000,4,3,5,3,3,5,4,2,4,4,2,5,4,4,Bien,Bien,Regular,Regular,Bien,Genial,1,4,Presencial,3,"Excelente profesor, muy claro en las explicaciones"
+2024-11-03 04:12:00.000000000,5,4,5,2,4,4,4,3,4,5,5,5,5,4,Genial,Regular,Bien,Regular,Bien,Regular,5,3,Online,4,Muy satisfecho con el curso
+2024-11-03 21:36:00.000000000,4,4,4,5,5,5,5,4,2,2,2,4,5,4,Mal,Bien,Genial,Bien,Genial,Genial,5,4,Presencial,4,Contenido muy útil para mi futuro profesional
+2024-11-04 15:00:00.000000000,5,3,3,4,4,5,2,4,5,5,3,4,4,3,Genial,Genial,Regular,Mal,Mal,Genial,3,3,Online,4,Podría mejorar la organización de las actividades
+2024-11-05 08:24:00.000000000,5,5,5,1,3,4,3,5,4,2,5,5,1,4,Regular,Bien,Regular,Bien,Genial,Bien,2,4,Online,4,Me gustaría más tiempo para practicar
+2024-11-06 01:48:00.000000000,3,4,3,4,5,1,1,2,4,5,1,5,2,5,Bien,Bien,Bien,Regular,Genial,Genial,4,2,Online,4,Excelente calidad de audio y video
+2024-11-06 19:12:00.000000000,5,4,5,5,4,3,5,4,5,2,2,5,4,4,Genial,Bien,Bien,Pésimo,Genial,Genial,3,5,Presencial,5,Muy satisfecho con el curso
+2024-11-07 12:36:00.000000000,1,4,4,4,4,3,2,4,2,5,4,3,4,4,Regular,Genial,Genial,Bien,Pésimo,Bien,5,2,Online,3,Me gustaría más tiempo para practicar
+2024-11-08 06:00:00.000000000,2,4,5,4,4,3,4,4,3,5,5,5,3,4,Genial,Genial,Bien,Mal,Mal,Bien,4,5,Online,5,El horario me viene perfecto
+2024-11-08 23:24:00.000000000,5,1,3,4,5,5,5,3,3,4,3,1,5,3,Regular,Mal,Genial,Bien,Bien,Genial,3,4,Online,3,Las clases son muy prácticas y útiles
+2024-11-09 16:48:00.000000000,4,4,3,5,2,4,3,1,2,4,5,1,1,5,Mal,Genial,Regular,Bien,Regular,Genial,5,3,Online,4,El profesor explica muy bien pero va muy rápido
+2024-11-10 10:12:00.000000000,5,4,3,4,3,4,4,4,5,3,4,4,4,5,Bien,Bien,Regular,Genial,Bien,Genial,1,2,Online,4,
+2024-11-11 03:36:00.000000000,4,3,4,5,4,4,4,4,1,3,4,4,3,3,Bien,Regular,Genial,Bien,Pésimo,Pésimo,5,2,Presencial,4,
+2024-11-11 21:00:00.000000000,4,4,4,5,3,5,4,4,4,1,4,4,3,2,Mal,Genial,Bien,Mal,Bien,Bien,5,1,Online,3,Las clases son muy prácticas y útiles
+2024-11-12 14:24:00.000000000,1,3,5,4,5,5,4,3,4,5,5,2,4,4,Genial,Mal,Bien,Genial,Bien,Bien,2,3,Online,4,Muy satisfecho con el curso
+2024-11-13 07:48:00.000000000,5,5,4,4,5,1,5,3,5,5,5,4,3,4,Pésimo,Bien,Bien,Genial,Bien,Mal,3,4,Online,5,Podría mejorar la organización de las actividades
+2024-11-14 01:12:00.000000000,5,4,4,3,4,5,4,4,4,5,2,5,3,3,Regular,Bien,Genial,Regular,Genial,Mal,4,5,Presencial,4,El profesor explica muy bien pero va muy rápido
+2024-11-14 18:36:00.000000000,4,3,5,2,3,4,4,4,2,2,3,5,2,5,Genial,Genial,Genial,Regular,Regular,Bien,3,4,Online,4,
+2024-11-15 12:00:00.000000000,3,4,4,5,4,3,3,4,2,4,4,5,5,5,Genial,Regular,Mal,Regular,Genial,Genial,5,2,Presencial,4,Contenido muy útil para mi futuro profesional
+2024-11-16 05:24:00.000000000,4,2,5,3,5,4,2,4,2,5,5,5,1,4,Bien,Genial,Mal,Regular,Bien,Regular,3,3,Presencial,4,Las conexiones a veces fallan
+2024-11-16 22:48:00.000000000,2,1,5,4,3,3,4,1,5,2,3,4,3,4,Regular,Genial,Bien,Pésimo,Bien,Genial,3,1,Presencial,3,Podría mejorar la organización de las actividades
+2024-11-17 16:12:00.000000000,4,2,2,5,4,5,5,5,5,4,3,5,4,2,Bien,Bien,Genial,Bien,Regular,Genial,5,4,Online,4,El horario me viene perfecto
+2024-11-18 09:36:00.000000000,3,5,4,4,3,4,5,3,1,4,5,4,2,3,Genial,Regular,Bien,Regular,Regular,Genial,5,4,Online,3,El profesor explica muy bien pero va muy rápido
+2024-11-19 03:00:00.000000000,4,3,5,5,4,4,3,1,3,4,4,5,3,4,Bien,Bien,Regular,Regular,Bien,Genial,5,3,Online,5,
+2024-11-19 20:24:00.000000000,4,3,5,5,3,3,4,4,2,5,3,5,4,2,Bien,Bien,Regular,Regular,Regular,Regular,3,3,Online,4,Las clases son muy prácticas y útiles
+2024-11-20 13:48:00.000000000,2,4,3,5,4,4,3,2,5,3,4,4,1,5,Bien,Regular,Mal,Mal,Genial,Bien,3,1,Online,3,
+2024-11-21 07:12:00.000000000,4,4,4,3,2,2,4,4,4,3,4,5,3,3,Mal,Bien,Bien,Mal,Bien,Mal,4,4,Presencial,4,A veces las clases se hacen un poco largas
+2024-11-22 00:36:00.000000000,4,4,3,4,3,3,1,5,2,3,3,2,4,2,Mal,Bien,Regular,Bien,Bien,Regular,4,2,Online,2,Muy satisfecho con el curso
+2024-11-22 18:00:00.000000000,5,5,4,4,3,3,4,4,5,4,4,4,5,4,Bien,Regular,Genial,Pésimo,Genial,Bien,4,3,Online,4,A veces las clases se hacen un poco largas
+2024-11-23 11:24:00.000000000,4,1,2,2,5,2,5,3,5,5,5,5,5,5,Bien,Regular,Regular,Mal,Bien,Bien,5,5,Online,4,
+2024-11-24 04:48:00.000000000,5,3,4,3,5,4,3,3,3,5,5,4,3,4,Genial,Genial,Regular,Bien,Bien,Genial,5,4,Presencial,4,Contenido muy útil para mi futuro profesional
+2024-11-24 22:12:00.000000000,4,4,3,2,2,3,4,5,4,5,4,4,3,3,Mal,Bien,Genial,Mal,Pésimo,Genial,3,5,Presencial,3,
+2024-11-25 15:36:00.000000000,5,4,3,4,4,3,4,5,1,4,3,3,3,3,Genial,Regular,Genial,Pésimo,Genial,Bien,5,3,Online,4,
+2024-11-26 09:00:00.000000000,4,5,5,5,4,4,1,2,4,4,4,5,4,2,Regular,Genial,Genial,Genial,Mal,Genial,3,1,Presencial,5,Contenido muy útil para mi futuro profesional
+2024-11-27 02:24:00.000000000,5,3,5,5,5,5,5,5,4,3,5,5,3,1,Bien,Mal,Genial,Genial,Regular,Bien,2,4,Online,3,Contenido muy útil para mi futuro profesional
+2024-11-27 19:48:00.000000000,4,2,4,2,4,1,4,5,5,5,5,2,2,4,Genial,Genial,Pésimo,Regular,Regular,Genial,4,2,Online,4,Contenido muy útil para mi futuro profesional
+2024-11-28 13:12:00.000000000,2,2,5,5,5,5,4,4,4,1,4,5,4,4,Regular,Bien,Bien,Genial,Regular,Genial,4,5,Online,4,
+2024-11-29 06:36:00.000000000,4,5,5,2,2,5,4,4,3,2,5,5,3,3,Genial,Mal,Genial,Regular,Bien,Genial,4,3,Online,3,
+2024-11-30 00:00:00.000000000,2,1,4,4,5,3,1,4,1,2,3,4,3,4,Mal,Mal,Bien,Mal,Bien,Mal,4,2,Online,3,Muy recomendable
+2024-12-01 00:00:00.000000000,5,2,2,4,5,4,4,2,1,5,2,4,5,3,Bien,Mal,Bien,Mal,Genial,Regular,4,4,Online,3,
+2024-12-01 15:39:07.826086956,2,4,5,5,4,4,4,5,4,4,1,2,4,5,Genial,Genial,Bien,Bien,Genial,Bien,3,3,Presencial,4,Muy recomendable
+2024-12-02 07:18:15.652173913,5,3,5,4,5,4,5,4,3,4,3,3,3,5,Bien,Bien,Bien,Regular,Genial,Bien,5,2,Online,4,
+2024-12-02 22:57:23.478260869,1,2,5,3,2,2,5,5,3,1,3,2,2,4,Regular,Bien,Regular,Genial,Genial,Bien,4,3,Online,3,A veces las clases se hacen un poco largas
+2024-12-03 14:36:31.304347826,4,5,5,3,4,4,4,2,5,1,4,4,2,5,Genial,Bien,Bien,Mal,Genial,Mal,4,5,Online,3,Me gustaría más tiempo para practicar
+2024-12-04 06:15:39.130434782,4,2,4,4,4,5,4,3,1,4,4,4,2,4,Genial,Regular,Bien,Bien,Genial,Regular,4,5,Online,4,Muy recomendable
+2024-12-04 21:54:46.956521739,4,4,1,2,4,4,5,2,5,3,4,3,3,3,Bien,Genial,Bien,Regular,Genial,Genial,4,3,Presencial,2,"Genial, aprendí mucho"
+2024-12-05 13:33:54.782608695,4,1,3,3,5,2,5,4,4,4,4,4,4,4,Bien,Bien,Mal,Regular,Genial,Pésimo,3,3,Online,3,Contenido muy útil para mi futuro profesional
+2024-12-06 05:13:02.608695652,5,5,3,5,5,4,3,3,2,4,4,4,3,4,Bien,Genial,Regular,Regular,Mal,Bien,5,5,Online,4,
+2024-12-06 20:52:10.434782608,5,5,5,5,3,5,4,3,5,5,2,1,4,4,Genial,Regular,Mal,Regular,Pésimo,Pésimo,5,3,Online,4,El contenido está muy actualizado
+2024-12-07 12:31:18.260869565,5,5,3,3,4,3,4,5,4,4,5,5,4,3,Regular,Regular,Mal,Regular,Regular,Bien,5,2,Presencial,4,El horario me viene perfecto
+2024-12-08 04:10:26.086956521,5,3,4,1,5,4,4,3,4,5,4,4,3,5,Bien,Genial,Genial,Regular,Regular,Bien,5,2,Online,4,"Excelente profesor, muy claro en las explicaciones"
+2024-12-08 19:49:33.913043478,2,4,4,5,5,5,5,3,5,4,2,4,5,5,Mal,Genial,Genial,Regular,Bien,Genial,4,2,Presencial,4,
+2024-12-09 11:28:41.739130434,4,3,4,3,5,2,4,4,5,3,1,3,5,3,Regular,Mal,Genial,Pésimo,Regular,Regular,4,4,Online,3,A veces las clases se hacen un poco largas
+2024-12-10 03:07:49.565217391,4,3,2,3,2,4,4,5,4,2,5,5,3,4,Genial,Bien,Genial,Pésimo,Regular,Bien,4,5,Presencial,3,
+2024-12-10 18:46:57.391304347,5,5,4,3,4,4,2,5,1,4,3,5,3,5,Bien,Genial,Genial,Bien,Genial,Pésimo,3,2,Online,4,
+2024-12-11 10:26:05.217391304,3,5,4,5,4,4,2,4,5,4,3,2,4,4,Bien,Genial,Pésimo,Regular,Genial,Regular,3,4,Presencial,4,A veces las clases se hacen un poco largas
+2024-12-12 02:05:13.043478260,5,2,4,4,4,4,5,5,1,1,5,2,5,4,Bien,Regular,Regular,Bien,Genial,Genial,3,2,Online,4,Podría mejorar la organización de las actividades
+2024-12-12 17:44:20.869565217,1,3,2,5,3,2,3,5,4,4,5,4,3,3,Bien,Regular,Bien,Regular,Bien,Mal,3,3,Presencial,4,Buen curso en general
+2024-12-13 09:23:28.695652174,4,5,4,5,5,5,5,5,4,4,2,4,5,5,Genial,Genial,Regular,Mal,Regular,Regular,4,5,Presencial,4,"Excelente profesor, muy claro en las explicaciones"
+2024-12-14 01:02:36.521739130,1,3,4,3,2,4,3,5,2,1,1,3,4,5,Bien,Bien,Bien,Bien,Pésimo,Bien,5,5,Presencial,2,Muy recomendable
+2024-12-14 16:41:44.347826087,3,5,4,5,2,3,5,1,5,1,4,4,4,4,Regular,Mal,Mal,Bien,Bien,Genial,4,3,Online,3,
+2024-12-15 08:20:52.173913043,3,3,1,5,5,5,2,5,4,5,4,4,4,2,Bien,Genial,Genial,Genial,Bien,Regular,1,3,Online,3,
+2024-12-16 00:00:00.000000000,3,3,3,4,4,4,3,1,4,4,3,5,4,5,Bien,Mal,Bien,Mal,Bien,Mal,5,2,Presencial,4,
+2024-12-16 15:39:07.826086956,5,2,3,4,2,4,4,3,2,3,4,4,2,2,Pésimo,Pésimo,Genial,Pésimo,Genial,Genial,2,3,Presencial,3,Las conexiones a veces fallan
+2024-12-17 07:18:15.652173913,3,3,3,4,2,3,5,2,2,4,4,5,3,5,Bien,Mal,Regular,Regular,Bien,Genial,4,3,Online,4,
+2024-12-17 22:57:23.478260869,3,3,3,4,2,5,4,4,4,3,4,5,4,5,Genial,Regular,Mal,Bien,Bien,Regular,5,3,Online,4,Buen curso en general
+2024-12-18 14:36:31.304347826,4,3,1,3,4,4,4,5,3,4,2,1,4,4,Genial,Mal,Bien,Regular,Regular,Pésimo,2,3,Online,3,
+2024-12-19 06:15:39.130434782,1,5,1,5,1,3,4,4,2,3,5,4,1,5,Mal,Bien,Regular,Bien,Regular,Genial,3,2,Online,4,Excelente calidad de audio y video
+2024-12-19 21:54:46.956521739,4,5,2,4,4,5,3,5,5,3,5,5,3,4,Bien,Regular,Pésimo,Mal,Regular,Bien,3,5,Presencial,5,
+2024-12-20 13:33:54.782608695,5,3,4,4,2,4,3,1,2,5,1,5,1,5,Genial,Genial,Genial,Regular,Regular,Bien,2,1,Presencial,5,Muy recomendable
+2024-12-21 05:13:02.608695652,5,3,5,1,4,5,3,3,4,5,4,3,3,5,Genial,Bien,Genial,Regular,Bien,Regular,4,4,Online,5,El contenido está muy actualizado
+2024-12-21 20:52:10.434782608,4,4,4,5,2,4,4,4,2,3,3,5,4,4,Genial,Mal,Genial,Bien,Regular,Genial,5,5,Online,4,Podría mejorar la organización de las actividades
+2024-12-22 12:31:18.260869565,4,4,2,4,5,5,3,5,4,5,4,4,5,5,Bien,Regular,Bien,Regular,Regular,Regular,5,1,Online,4,Contenido muy útil para mi futuro profesional
+2024-12-23 04:10:26.086956521,4,3,3,3,3,2,1,5,2,5,5,4,3,2,Genial,Bien,Bien,Pésimo,Genial,Mal,4,3,Online,4,A veces las clases se hacen un poco largas
+2024-12-23 19:49:33.913043478,5,4,4,2,4,3,4,3,3,4,5,4,5,5,Bien,Bien,Mal,Genial,Bien,Genial,4,5,Presencial,4,Las clases son muy prácticas y útiles
+2024-12-24 11:28:41.739130434,4,4,3,5,4,5,5,4,5,4,5,4,3,4,Bien,Bien,Bien,Regular,Genial,Bien,4,4,Presencial,4,
+2024-12-25 03:07:49.565217391,4,4,4,3,3,5,4,4,1,4,4,4,4,3,Regular,Genial,Genial,Mal,Bien,Regular,2,3,Online,4,Las conexiones a veces fallan
+2024-12-25 18:46:57.391304348,4,2,1,5,3,4,3,4,3,2,3,3,3,4,Regular,Pésimo,Bien,Bien,Genial,Bien,4,4,Presencial,3,
+2024-12-26 10:26:05.217391304,3,4,5,4,2,5,5,3,4,4,5,5,4,4,Genial,Bien,Regular,Bien,Regular,Bien,5,4,Online,5,El horario me viene perfecto
+2024-12-27 02:05:13.043478261,3,4,4,3,5,4,5,3,3,4,2,4,3,3,Regular,Regular,Genial,Pésimo,Bien,Genial,4,5,Presencial,3,Las conexiones a veces fallan
+2024-12-27 17:44:20.869565217,3,5,5,3,3,3,4,1,4,4,5,3,5,5,Mal,Bien,Regular,Regular,Regular,Bien,4,5,Online,4,
+2024-12-28 09:23:28.695652174,3,5,3,2,5,3,4,4,3,4,5,2,4,5,Mal,Mal,Genial,Regular,Bien,Mal,4,2,Online,3,El profesor explica muy bien pero va muy rápido
+2024-12-29 01:02:36.521739130,2,4,5,3,3,4,3,4,4,2,1,4,3,2,Genial,Regular,Bien,Mal,Bien,Regular,5,4,Online,3,Muy recomendable
+2024-12-29 16:41:44.347826087,4,3,4,3,3,4,5,4,5,1,4,4,5,1,Bien,Genial,Regular,Genial,Pésimo,Genial,5,4,Online,3,El contenido está muy actualizado
+2024-12-30 08:20:52.173913043,5,4,5,4,4,2,4,3,5,5,5,5,5,3,Bien,Bien,Bien,Bien,Regular,Mal,5,4,Online,4,Podría mejorar la organización de las actividades
+2024-12-31 00:00:00.000000000,3,4,3,4,4,1,3,5,4,5,4,3,1,3,Genial,Genial,Bien,Pésimo,Mal,Regular,4,1,Presencial,4,
+2025-01-01 00:00:00.000000000,5,4,4,4,4,4,5,5,4,5,3,2,3,4,Genial,Bien,Bien,Bien,Pésimo,Bien,5,2,Online,4,Buen curso en general
+2025-01-01 13:20:00.000000000,3,2,5,4,3,3,4,4,4,2,5,4,3,4,Bien,Genial,Genial,Regular,Genial,Genial,5,2,Online,4,
+2025-01-02 02:40:00.000000000,4,3,3,4,5,4,5,3,4,4,1,4,4,4,Genial,Bien,Mal,Mal,Bien,Regular,2,3,Online,3,
+2025-01-02 16:00:00.000000000,4,4,4,3,5,5,4,4,3,5,5,4,4,4,Bien,Bien,Bien,Bien,Mal,Genial,5,3,Online,5,Podría mejorar la organización de las actividades
+2025-01-03 05:20:00.000000000,4,3,3,4,4,4,3,4,1,2,3,2,2,5,Pésimo,Bien,Regular,Genial,Bien,Regular,4,3,Online,3,"Excelente profesor, muy claro en las explicaciones"
+2025-01-03 18:40:00.000000000,4,2,1,3,3,4,1,4,3,4,5,4,5,2,Bien,Bien,Bien,Bien,Bien,Bien,4,5,Presencial,3,Buen curso en general
+2025-01-04 08:00:00.000000000,5,3,4,5,5,3,4,5,5,5,5,3,5,3,Genial,Bien,Genial,Regular,Bien,Mal,4,5,Presencial,4,El profesor explica muy bien pero va muy rápido
+2025-01-04 21:20:00.000000000,5,5,3,3,4,3,5,3,2,4,5,3,4,4,Mal,Bien,Genial,Bien,Genial,Regular,2,5,Online,5,
+2025-01-05 10:40:00.000000000,2,3,4,5,5,4,4,3,4,5,3,1,4,4,Bien,Bien,Bien,Regular,Bien,Bien,5,5,Presencial,4,Muy satisfecho con el curso
+2025-01-06 00:00:00.000000000,4,4,5,5,3,5,4,3,4,4,4,3,3,4,Bien,Regular,Genial,Bien,Genial,Bien,4,3,Online,5,El profesor explica muy bien pero va muy rápido
+2025-01-06 13:20:00.000000000,4,5,4,3,4,3,3,3,4,2,5,3,2,4,Regular,Bien,Regular,Mal,Regular,Bien,1,4,Online,5,El horario me viene perfecto
+2025-01-07 02:40:00.000000000,3,3,5,4,1,4,4,2,4,5,5,5,1,5,Genial,Genial,Pésimo,Genial,Genial,Genial,2,4,Presencial,5,Podría mejorar la organización de las actividades
+2025-01-07 16:00:00.000000000,4,4,4,5,2,4,4,5,4,5,5,2,3,1,Regular,Bien,Genial,Genial,Mal,Mal,4,4,Online,5,Muy satisfecho con el curso
+2025-01-08 05:20:00.000000000,5,4,5,4,5,4,2,5,3,5,4,1,2,4,Bien,Regular,Bien,Bien,Genial,Bien,5,3,Online,4,Me gustaría más tiempo para practicar
+2025-01-08 18:40:00.000000000,4,5,5,3,5,5,4,5,3,3,5,4,3,3,Genial,Genial,Bien,Genial,Regular,Regular,4,4,Online,4,Buen curso en general
+2025-01-09 08:00:00.000000000,5,3,3,4,1,2,4,5,4,2,5,5,4,5,Bien,Regular,Bien,Bien,Bien,Bien,5,5,Presencial,4,Muy buen dominio de la materia por parte del profesor
+2025-01-09 21:20:00.000000000,5,4,5,2,3,5,3,4,3,3,5,4,4,2,Genial,Bien,Bien,Bien,Regular,Genial,4,3,Online,4,Las conexiones a veces fallan
+2025-01-10 10:40:00.000000000,5,5,3,5,3,4,5,4,2,4,5,3,4,4,Regular,Bien,Genial,Regular,Bien,Regular,4,5,Online,3,Muy satisfecho con el curso
+2025-01-11 00:00:00.000000000,3,5,3,2,5,5,3,5,4,4,5,4,2,3,Bien,Bien,Genial,Bien,Bien,Genial,3,1,Presencial,3,Me gustaría más tiempo para practicar
+2025-01-11 13:20:00.000000000,4,4,4,5,2,1,3,5,4,4,1,5,5,4,Regular,Mal,Bien,Bien,Mal,Bien,3,4,Online,4,Excelente calidad de audio y video
+2025-01-12 02:40:00.000000000,4,3,4,3,3,4,3,4,2,4,3,4,4,2,Bien,Mal,Bien,Regular,Bien,Bien,5,4,Online,3,Las conexiones a veces fallan
+2025-01-12 16:00:00.000000000,5,1,5,4,4,2,3,5,3,4,5,3,4,4,Regular,Mal,Bien,Regular,Genial,Mal,5,1,Online,3,Buen curso en general
+2025-01-13 05:20:00.000000000,3,4,4,2,3,5,3,4,5,4,3,4,1,5,Bien,Genial,Genial,Genial,Genial,Bien,4,3,Online,4,
+2025-01-13 18:40:00.000000000,3,5,5,5,5,3,2,2,3,4,5,5,4,1,Regular,Mal,Bien,Bien,Pésimo,Regular,3,4,Online,3,Las clases son muy prácticas y útiles
+2025-01-14 08:00:00.000000000,4,4,2,5,5,4,5,3,1,1,4,2,5,2,Regular,Genial,Regular,Mal,Bien,Regular,3,3,Online,3,Podría mejorar la organización de las actividades
+2025-01-14 21:20:00.000000000,5,4,2,4,5,2,5,5,1,5,4,5,3,4,Bien,Genial,Pésimo,Bien,Regular,Regular,3,3,Online,4,Me gustaría más tiempo para practicar
+2025-01-15 10:40:00.000000000,2,5,3,3,5,3,4,3,4,5,5,5,4,3,Bien,Genial,Pésimo,Regular,Genial,Bien,3,5,Online,4,
+2025-01-16 00:00:00.000000000,2,4,3,5,5,2,3,3,4,2,2,5,5,3,Bien,Bien,Genial,Bien,Mal,Genial,4,3,Online,2,Muy satisfecho con el curso
+2025-01-16 13:20:00.000000000,4,1,5,3,1,4,5,5,3,3,5,4,2,5,Mal,Genial,Genial,Bien,Genial,Genial,3,3,Online,4,Muy recomendable
+2025-01-17 02:40:00.000000000,5,4,4,5,4,3,5,5,5,4,3,5,3,5,Genial,Bien,Genial,Bien,Regular,Bien,2,4,Online,5,Las clases son muy prácticas y útiles
+2025-01-17 16:00:00.000000000,3,4,4,5,4,4,5,4,5,5,5,3,3,5,Bien,Bien,Mal,Pésimo,Bien,Bien,4,4,Online,4,Excelente calidad de audio y video
+2025-01-18 05:20:00.000000000,4,3,4,4,5,2,4,3,4,1,3,5,4,4,Regular,Regular,Bien,Genial,Genial,Bien,4,5,Online,3,
+2025-01-18 18:40:00.000000000,2,4,3,3,4,4,5,4,5,5,5,4,2,3,Bien,Bien,Mal,Regular,Pésimo,Genial,2,4,Presencial,4,"Genial, aprendí mucho"
+2025-01-19 08:00:00.000000000,4,5,5,2,5,5,3,3,2,2,5,4,4,5,Bien,Bien,Pésimo,Regular,Bien,Pésimo,1,5,Online,5,Buen curso en general
+2025-01-19 21:20:00.000000000,3,1,5,3,2,4,5,3,3,3,5,3,4,5,Mal,Genial,Genial,Genial,Regular,Bien,5,5,Online,3,Contenido muy útil para mi futuro profesional
+2025-01-20 10:40:00.000000000,5,3,3,4,4,4,3,1,3,2,5,1,3,2,Mal,Bien,Bien,Pésimo,Pésimo,Mal,5,4,Online,4,
+2025-01-21 00:00:00.000000000,5,3,2,3,5,5,4,3,3,3,3,4,1,3,Bien,Pésimo,Mal,Regular,Genial,Genial,1,4,Online,3,Podría mejorar la organización de las actividades
+2025-01-21 13:20:00.000000000,4,5,4,3,4,5,4,4,4,4,4,5,2,5,Mal,Pésimo,Genial,Mal,Genial,Genial,5,5,Online,4,
+2025-01-22 02:40:00.000000000,5,2,4,1,1,5,4,5,5,5,5,4,3,3,Bien,Bien,Bien,Bien,Genial,Genial,4,3,Online,4,"Genial, aprendí mucho"
+2025-01-22 16:00:00.000000000,3,3,4,3,3,4,2,2,3,5,4,4,4,4,Genial,Mal,Bien,Genial,Genial,Regular,3,4,Online,4,Muy recomendable
+2025-01-23 05:20:00.000000000,5,5,4,3,5,5,4,4,3,5,3,5,5,4,Bien,Bien,Pésimo,Mal,Genial,Bien,2,3,Presencial,5,Podría mejorar la organización de las actividades
+2025-01-23 18:40:00.000000000,4,3,5,4,4,4,2,4,5,5,5,5,2,3,Pésimo,Regular,Mal,Regular,Bien,Genial,5,5,Online,4,Muy buen dominio de la materia por parte del profesor
+2025-01-24 08:00:00.000000000,2,5,4,4,5,4,4,5,3,3,5,5,4,5,Genial,Genial,Genial,Pésimo,Bien,Genial,4,2,Online,4,Contenido muy útil para mi futuro profesional
+2025-01-24 21:20:00.000000000,2,5,5,2,4,3,4,5,5,4,4,4,3,5,Genial,Bien,Regular,Regular,Pésimo,Genial,4,3,Online,4,Las conexiones a veces fallan
+2025-01-25 10:40:00.000000000,2,5,4,3,4,5,3,5,4,5,3,5,3,2,Genial,Genial,Bien,Regular,Pésimo,Bien,4,4,Online,4,Buen curso en general
+2025-01-26 00:00:00.000000000,3,3,1,5,1,5,3,5,5,4,4,1,5,5,Genial,Bien,Regular,Genial,Regular,Bien,2,5,Online,4,Me gustaría más tiempo para practicar
+2025-01-26 13:20:00.000000000,4,2,4,1,4,5,5,4,3,4,2,3,2,5,Genial,Bien,Genial,Mal,Bien,Genial,4,2,Presencial,3,El horario me viene perfecto
+2025-01-27 02:40:00.000000000,4,5,5,5,4,3,5,3,2,4,2,5,4,4,Bien,Bien,Pésimo,Bien,Genial,Bien,5,2,Online,4,El contenido está muy actualizado
+2025-01-27 16:00:00.000000000,5,5,4,3,3,3,4,4,3,4,3,4,3,4,Bien,Bien,Bien,Bien,Regular,Pésimo,4,3,Online,3,"Excelente profesor, muy claro en las explicaciones"
+2025-01-28 05:20:00.000000000,5,5,1,5,4,4,1,5,2,5,1,4,3,3,Mal,Bien,Mal,Regular,Bien,Genial,4,1,Online,4,
+2025-01-28 18:40:00.000000000,4,4,5,5,4,5,4,5,2,3,2,5,3,3,Regular,Genial,Genial,Bien,Bien,Bien,4,5,Online,4,El horario me viene perfecto
+2025-01-29 08:00:00.000000000,4,4,5,4,1,3,4,4,5,4,4,4,3,4,Bien,Bien,Regular,Genial,Regular,Mal,2,1,Online,5,El horario me viene perfecto
+2025-01-29 21:20:00.000000000,3,5,5,5,3,3,4,3,3,3,3,3,4,3,Pésimo,Bien,Genial,Regular,Mal,Bien,5,4,Online,4,
+2025-01-30 10:40:00.000000000,3,5,3,3,3,5,5,4,3,4,4,4,3,4,Bien,Bien,Bien,Genial,Mal,Regular,4,1,Online,4,Muy satisfecho con el curso
+2025-01-31 00:00:00.000000000,3,3,5,3,5,5,1,4,3,1,4,5,1,4,Bien,Genial,Mal,Bien,Bien,Bien,5,5,Online,3,
+2025-02-01 00:00:00.000000000,4,3,4,4,4,5,2,5,3,4,5,4,3,4,Bien,Genial,Genial,Mal,Mal,Bien,2,4,Online,4,"Genial, aprendí mucho"
+2025-02-01 12:42:21.176470588,4,4,5,5,4,3,3,5,5,3,4,2,4,1,Pésimo,Pésimo,Bien,Regular,Regular,Genial,3,3,Presencial,3,
+2025-02-02 01:24:42.352941176,4,2,5,4,5,3,4,5,5,2,5,3,4,3,Bien,Bien,Regular,Pésimo,Mal,Genial,5,4,Online,4,El contenido está muy actualizado
+2025-02-02 14:07:03.529411764,2,5,5,4,4,5,4,4,4,4,2,5,3,2,Genial,Bien,Mal,Bien,Genial,Genial,5,5,Online,3,"Excelente profesor, muy claro en las explicaciones"
+2025-02-03 02:49:24.705882352,4,3,3,5,2,5,4,3,2,4,4,2,2,5,Pésimo,Genial,Bien,Regular,Regular,Pésimo,5,2,Online,3,Las clases son muy prácticas y útiles
+2025-02-03 15:31:45.882352941,4,4,4,2,5,4,4,4,3,3,3,3,2,5,Regular,Regular,Bien,Bien,Regular,Genial,5,2,Online,4,
+2025-02-04 04:14:07.058823529,5,4,2,4,4,3,4,4,3,5,5,3,5,2,Genial,Regular,Mal,Bien,Bien,Genial,4,3,Online,3,Muy recomendable
+2025-02-04 16:56:28.235294117,5,4,3,3,3,3,4,5,1,1,4,3,5,3,Regular,Regular,Mal,Bien,Regular,Bien,4,1,Online,3,Me gustaría más tiempo para practicar
+2025-02-05 05:38:49.411764705,3,4,4,4,5,4,4,5,5,2,5,4,3,2,Bien,Bien,Regular,Bien,Genial,Regular,1,5,Online,4,Contenido muy útil para mi futuro profesional
+2025-02-05 18:21:10.588235294,3,1,3,2,4,3,4,4,3,1,1,1,4,3,Genial,Bien,Bien,Bien,Genial,Regular,2,4,Online,2,El contenido está muy actualizado
+2025-02-06 07:03:31.764705882,5,3,3,4,5,3,5,4,5,2,2,5,5,4,Genial,Genial,Pésimo,Bien,Genial,Bien,3,4,Online,4,El profesor explica muy bien pero va muy rápido
+2025-02-06 19:45:52.941176470,4,5,5,5,4,5,5,3,2,4,4,4,4,5,Bien,Mal,Genial,Regular,Genial,Mal,5,1,Online,5,"Genial, aprendí mucho"
+2025-02-07 08:28:14.117647058,5,4,4,4,3,3,3,4,2,3,3,4,4,5,Regular,Regular,Bien,Genial,Pésimo,Bien,4,2,Online,4,"Excelente profesor, muy claro en las explicaciones"
+2025-02-07 21:10:35.294117647,4,4,4,4,1,3,3,4,1,4,3,5,3,3,Genial,Bien,Genial,Pésimo,Regular,Bien,5,3,Presencial,4,
+2025-02-08 09:52:56.470588235,4,4,5,5,2,3,4,3,4,5,5,4,5,4,Regular,Bien,Bien,Bien,Regular,Bien,4,5,Online,5,Podría mejorar la organización de las actividades
+2025-02-08 22:35:17.647058823,3,4,4,3,4,3,4,4,3,5,4,4,3,5,Bien,Bien,Regular,Bien,Regular,Genial,5,4,Presencial,4,Buen curso en general
+2025-02-09 11:17:38.823529411,4,4,2,1,3,5,2,5,2,3,3,1,4,5,Bien,Regular,Regular,Regular,Genial,Regular,5,3,Online,3,Contenido muy útil para mi futuro profesional
+2025-02-10 00:00:00.000000000,3,5,1,2,3,5,5,2,1,5,2,2,1,1,Regular,Mal,Bien,Genial,Regular,Genial,2,4,Online,3,El contenido está muy actualizado
+2025-02-10 12:42:21.176470588,5,5,5,1,3,3,1,3,4,3,4,5,4,4,Bien,Bien,Regular,Bien,Bien,Genial,5,4,Online,4,Muy satisfecho con el curso
+2025-02-11 01:24:42.352941176,2,4,4,4,1,5,2,4,1,5,3,4,3,5,Regular,Genial,Regular,Bien,Pésimo,Regular,4,1,Online,4,Muy buen dominio de la materia por parte del profesor
+2025-02-11 14:07:03.529411764,4,5,3,5,4,4,4,4,4,4,4,4,2,3,Pésimo,Regular,Genial,Bien,Regular,Genial,4,5,Presencial,4,Buen curso en general
+2025-02-12 02:49:24.705882352,3,5,5,4,4,4,5,4,2,4,3,1,4,4,Bien,Bien,Genial,Bien,Bien,Mal,3,3,Online,4,El horario me viene perfecto
+2025-02-12 15:31:45.882352941,4,5,2,5,5,4,5,5,2,4,4,2,5,2,Bien,Bien,Pésimo,Genial,Genial,Bien,3,2,Online,4,Buen curso en general
+2025-02-13 04:14:07.058823529,1,4,4,5,1,4,5,4,4,2,2,4,4,5,Genial,Bien,Genial,Mal,Bien,Regular,2,4,Online,3,Excelente calidad de audio y video
+2025-02-13 16:56:28.235294117,4,5,3,2,4,2,5,1,4,4,4,2,4,4,Regular,Genial,Regular,Regular,Bien,Mal,5,3,Online,4,
+2025-02-14 05:38:49.411764705,4,2,3,5,2,5,2,5,3,4,3,2,2,2,Regular,Bien,Bien,Bien,Bien,Bien,4,3,Online,3,
+2025-02-14 18:21:10.588235294,3,3,4,5,3,3,4,4,1,2,4,4,5,4,Pésimo,Bien,Bien,Mal,Genial,Genial,3,3,Online,4,Las clases son muy prácticas y útiles
+2025-02-15 07:03:31.764705882,2,4,5,4,1,3,3,5,5,5,5,4,5,5,Bien,Regular,Bien,Mal,Pésimo,Genial,5,2,Online,3,
+2025-02-15 19:45:52.941176470,5,3,4,4,4,5,3,2,4,4,3,4,5,3,Bien,Genial,Bien,Genial,Genial,Bien,4,4,Online,4,Me gustaría más tiempo para practicar
+2025-02-16 08:28:14.117647058,5,2,4,3,5,2,4,3,4,5,5,5,4,5,Bien,Genial,Bien,Bien,Regular,Bien,2,5,Online,4,Contenido muy útil para mi futuro profesional
+2025-02-16 21:10:35.294117647,4,4,4,5,3,5,5,4,5,4,5,5,1,5,Bien,Bien,Bien,Mal,Bien,Genial,1,3,Online,5,"Genial, aprendí mucho"
+2025-02-17 09:52:56.470588235,5,4,3,5,5,4,4,5,4,4,5,1,3,4,Regular,Pésimo,Mal,Bien,Genial,Genial,3,4,Presencial,4,
+2025-02-17 22:35:17.647058823,4,2,3,3,5,1,4,3,1,3,3,4,3,5,Genial,Bien,Genial,Pésimo,Bien,Genial,3,1,Online,3,"Genial, aprendí mucho"
+2025-02-18 11:17:38.823529411,5,4,5,4,4,4,5,5,1,3,4,3,4,5,Genial,Genial,Regular,Genial,Genial,Bien,5,2,Presencial,3,
+2025-02-19 00:00:00.000000000,1,5,4,4,5,5,4,3,5,4,5,5,2,5,Bien,Bien,Pésimo,Genial,Bien,Bien,5,4,Online,4,A veces las clases se hacen un poco largas
+2025-02-19 12:42:21.176470588,4,4,3,3,5,4,5,5,5,3,5,1,4,4,Regular,Genial,Genial,Pésimo,Bien,Bien,4,5,Online,4,Muy satisfecho con el curso
+2025-02-20 01:24:42.352941176,5,1,5,2,4,5,1,4,3,4,3,2,4,4,Bien,Regular,Regular,Bien,Bien,Bien,3,3,Online,3,
+2025-02-20 14:07:03.529411764,5,4,4,5,2,4,3,4,4,3,3,4,2,3,Genial,Regular,Bien,Genial,Regular,Bien,4,4,Presencial,4,"Excelente profesor, muy claro en las explicaciones"
+2025-02-21 02:49:24.705882353,5,3,1,4,2,5,4,1,5,3,4,4,3,4,Mal,Bien,Genial,Genial,Bien,Bien,5,5,Online,4,Las conexiones a veces fallan
+2025-02-21 15:31:45.882352941,4,5,4,1,4,4,4,4,1,4,4,3,4,3,Regular,Genial,Regular,Regular,Bien,Genial,5,4,Online,3,Muy buen dominio de la materia por parte del profesor
+2025-02-22 04:14:07.058823529,1,4,5,3,3,3,4,4,4,5,4,3,5,3,Mal,Mal,Bien,Mal,Mal,Regular,3,4,Presencial,3,Excelente calidad de audio y video
+2025-02-22 16:56:28.235294117,4,5,4,3,2,4,1,4,2,5,4,3,5,3,Regular,Genial,Regular,Regular,Regular,Mal,1,4,Online,4,Buen curso en general
+2025-02-23 05:38:49.411764705,2,5,2,5,2,2,4,4,5,5,5,4,3,4,Genial,Bien,Bien,Mal,Pésimo,Genial,3,3,Online,4,
+2025-02-23 18:21:10.588235294,5,3,4,3,3,5,4,4,2,4,5,4,5,5,Mal,Regular,Genial,Regular,Pésimo,Regular,4,4,Online,4,Podría mejorar la organización de las actividades
+2025-02-24 07:03:31.764705882,5,5,3,1,4,1,3,5,5,2,4,3,2,3,Bien,Mal,Bien,Mal,Regular,Regular,5,4,Presencial,2,A veces las clases se hacen un poco largas
+2025-02-24 19:45:52.941176470,4,4,3,4,1,5,5,4,1,3,4,4,4,3,Genial,Bien,Regular,Bien,Mal,Bien,5,3,Presencial,3,
+2025-02-25 08:28:14.117647058,4,4,5,5,3,5,2,5,4,2,4,4,4,3,Regular,Genial,Regular,Regular,Bien,Mal,4,4,Online,4,El horario me viene perfecto
+2025-02-25 21:10:35.294117647,5,2,5,4,5,4,3,5,1,2,3,5,4,4,Genial,Bien,Genial,Regular,Genial,Regular,3,4,Online,3,Buen curso en general
+2025-02-26 09:52:56.470588235,2,4,3,5,5,3,2,4,3,4,1,2,4,3,Genial,Mal,Regular,Genial,Bien,Genial,3,4,Presencial,3,Podría mejorar la organización de las actividades
+2025-02-26 22:35:17.647058823,4,3,2,4,5,4,3,4,5,5,4,5,4,2,Regular,Genial,Bien,Mal,Bien,Bien,5,3,Online,3,Podría mejorar la organización de las actividades
+2025-02-27 11:17:38.823529411,4,5,5,3,3,3,1,4,5,4,5,4,3,2,Genial,Genial,Bien,Pésimo,Regular,Mal,4,4,Online,4,Las conexiones a veces fallan
+2025-02-28 00:00:00.000000000,3,2,2,5,4,3,4,4,4,5,3,4,2,2,Bien,Regular,Bien,Pésimo,Mal,Genial,4,4,Presencial,4,El horario me viene perfecto
+2025-03-01 00:00:00.000000000,4,4,4,5,5,2,5,4,3,5,4,5,3,1,Bien,Mal,Genial,Regular,Bien,Mal,3,4,Online,4,El horario me viene perfecto
+2025-03-01 15:39:07.826086956,3,4,4,1,4,5,4,3,3,5,4,4,5,3,Bien,Genial,Genial,Regular,Regular,Genial,3,5,Online,4,El contenido está muy actualizado
+2025-03-02 07:18:15.652173913,5,5,4,5,4,3,1,4,5,3,3,5,1,5,Regular,Pésimo,Genial,Mal,Bien,Regular,2,1,Online,3,Muy recomendable
+2025-03-02 22:57:23.478260869,4,3,2,2,4,1,5,4,4,5,2,5,4,5,Genial,Pésimo,Bien,Bien,Bien,Regular,3,3,Online,3,Muy recomendable
+2025-03-03 14:36:31.304347826,3,5,4,5,5,4,3,5,5,4,5,5,3,4,Genial,Bien,Pésimo,Regular,Mal,Regular,5,1,Online,5,
+2025-03-04 06:15:39.130434782,4,2,5,3,5,3,5,2,4,2,4,5,2,3,Genial,Genial,Pésimo,Mal,Mal,Regular,5,4,Online,3,Las clases son muy prácticas y útiles
+2025-03-04 21:54:46.956521739,2,3,2,4,5,5,4,4,5,2,4,4,2,4,Mal,Bien,Regular,Regular,Mal,Genial,4,4,Online,3,A veces las clases se hacen un poco largas
+2025-03-05 13:33:54.782608695,3,2,4,4,4,5,5,3,5,5,5,4,4,4,Regular,Genial,Pésimo,Mal,Genial,Mal,5,4,Online,4,
+2025-03-06 05:13:02.608695652,5,4,5,5,3,2,5,4,1,5,5,4,3,4,Genial,Genial,Genial,Bien,Genial,Genial,3,1,Presencial,4,"Genial, aprendí mucho"
+2025-03-06 20:52:10.434782608,4,5,5,4,5,5,4,4,4,5,1,5,2,4,Genial,Regular,Bien,Mal,Bien,Regular,4,3,Presencial,4,
+2025-03-07 12:31:18.260869565,4,4,3,5,5,5,3,5,3,4,5,3,3,5,Bien,Mal,Bien,Bien,Genial,Regular,5,2,Online,4,Contenido muy útil para mi futuro profesional
+2025-03-08 04:10:26.086956521,4,5,5,5,5,4,5,3,1,4,4,4,4,4,Bien,Pésimo,Genial,Genial,Genial,Bien,4,5,Presencial,4,Contenido muy útil para mi futuro profesional
+2025-03-08 19:49:33.913043478,2,4,4,5,5,5,1,5,5,5,2,2,1,4,Bien,Genial,Bien,Regular,Bien,Genial,5,5,Online,4,El contenido está muy actualizado
+2025-03-09 11:28:41.739130434,3,3,1,5,2,3,3,4,3,4,2,2,3,3,Regular,Mal,Genial,Bien,Mal,Mal,5,4,Online,3,Las clases son muy prácticas y útiles
+2025-03-10 03:07:49.565217391,5,5,5,3,2,4,5,5,5,4,2,2,1,4,Regular,Genial,Bien,Regular,Regular,Mal,5,3,Online,4,Contenido muy útil para mi futuro profesional
+2025-03-10 18:46:57.391304347,4,4,2,3,4,3,5,4,1,4,2,2,2,5,Genial,Genial,Regular,Regular,Bien,Genial,5,2,Online,4,
+2025-03-11 10:26:05.217391304,5,5,3,2,5,4,1,3,2,4,5,5,4,4,Bien,Bien,Regular,Bien,Genial,Bien,5,3,Online,4,Me gustaría más tiempo para practicar
+2025-03-12 02:05:13.043478260,2,4,4,4,5,5,4,1,1,4,5,5,3,1,Genial,Genial,Bien,Pésimo,Bien,Genial,4,4,Online,4,Me gustaría más tiempo para practicar
+2025-03-12 17:44:20.869565217,5,4,5,4,5,5,3,5,5,3,4,2,5,3,Mal,Bien,Bien,Genial,Genial,Bien,2,4,Online,3,
+2025-03-13 09:23:28.695652174,3,5,4,5,4,3,5,4,2,4,4,5,3,5,Mal,Bien,Genial,Genial,Regular,Regular,3,4,Presencial,4,El contenido está muy actualizado
+2025-03-14 01:02:36.521739130,4,4,4,3,1,4,3,3,2,3,1,4,3,4,Bien,Genial,Mal,Regular,Regular,Bien,5,4,Online,4,A veces las clases se hacen un poco largas
+2025-03-14 16:41:44.347826087,4,4,3,3,5,2,2,4,3,5,4,5,3,5,Genial,Regular,Regular,Genial,Pésimo,Bien,2,1,Online,4,
+2025-03-15 08:20:52.173913043,3,5,5,3,4,3,2,5,3,5,5,2,3,5,Genial,Genial,Regular,Regular,Bien,Genial,3,5,Online,5,
+2025-03-16 00:00:00.000000000,3,3,5,5,3,1,5,4,2,4,4,5,2,4,Regular,Genial,Genial,Bien,Bien,Bien,5,1,Presencial,3,Me gustaría más tiempo para practicar
+2025-03-16 15:39:07.826086956,3,1,2,4,3,4,4,4,2,3,4,5,4,4,Bien,Bien,Genial,Pésimo,Genial,Bien,4,1,Online,3,
+2025-03-17 07:18:15.652173913,5,4,4,4,5,5,4,5,1,5,3,3,1,5,Genial,Genial,Genial,Regular,Genial,Genial,4,2,Online,4,Muy buen dominio de la materia por parte del profesor
+2025-03-17 22:57:23.478260869,2,1,5,4,4,3,4,4,5,5,4,4,3,4,Mal,Regular,Mal,Pésimo,Regular,Bien,5,3,Online,4,El contenido está muy actualizado
+2025-03-18 14:36:31.304347826,4,5,2,3,4,5,5,5,3,5,2,2,5,5,Mal,Mal,Pésimo,Mal,Regular,Genial,4,4,Presencial,3,"Genial, aprendí mucho"
+2025-03-19 06:15:39.130434782,1,4,3,4,5,3,5,4,2,4,5,4,1,3,Genial,Bien,Bien,Mal,Genial,Genial,1,1,Presencial,4,Muy recomendable
+2025-03-19 21:54:46.956521739,4,5,3,4,3,5,5,3,1,1,4,4,5,4,Regular,Genial,Bien,Bien,Mal,Bien,5,4,Online,4,"Excelente profesor, muy claro en las explicaciones"
+2025-03-20 13:33:54.782608695,5,3,4,5,3,5,4,4,3,3,4,3,3,3,Pésimo,Genial,Bien,Genial,Mal,Bien,3,4,Presencial,4,El horario me viene perfecto
+2025-03-21 05:13:02.608695652,2,2,3,4,5,4,4,3,5,3,5,5,5,2,Bien,Mal,Pésimo,Pésimo,Genial,Genial,3,4,Presencial,3,El horario me viene perfecto
+2025-03-21 20:52:10.434782608,4,4,5,4,5,4,3,3,1,4,2,5,3,5,Genial,Genial,Genial,Bien,Regular,Genial,5,5,Online,4,Podría mejorar la organización de las actividades
+2025-03-22 12:31:18.260869565,4,4,3,5,4,5,3,4,5,4,5,5,3,4,Regular,Bien,Regular,Bien,Bien,Bien,3,5,Online,4,Excelente calidad de audio y video
+2025-03-23 04:10:26.086956521,4,4,2,2,4,3,4,4,2,1,5,5,4,4,Genial,Genial,Bien,Regular,Bien,Bien,4,4,Presencial,3,Muy buen dominio de la materia por parte del profesor
+2025-03-23 19:49:33.913043478,5,4,3,5,4,3,3,3,5,4,5,3,2,1,Bien,Genial,Bien,Regular,Genial,Genial,1,5,Online,4,El horario me viene perfecto
+2025-03-24 11:28:41.739130434,4,2,5,5,5,5,5,4,4,4,4,3,3,5,Bien,Regular,Regular,Genial,Bien,Bien,4,3,Online,5,Las clases son muy prácticas y útiles
+2025-03-25 03:07:49.565217391,5,3,2,5,3,4,2,3,4,5,3,3,2,2,Genial,Bien,Bien,Bien,Genial,Genial,1,2,Online,3,Muy recomendable
+2025-03-25 18:46:57.391304348,5,4,5,3,5,3,5,3,4,5,4,4,5,4,Bien,Mal,Genial,Bien,Bien,Pésimo,4,1,Online,4,
+2025-03-26 10:26:05.217391304,5,3,4,4,4,3,4,5,1,5,4,4,4,3,Bien,Genial,Regular,Regular,Pésimo,Genial,4,4,Online,4,El horario me viene perfecto
+2025-03-27 02:05:13.043478261,4,4,4,4,5,4,5,3,4,5,4,5,4,2,Bien,Mal,Genial,Genial,Mal,Mal,4,3,Online,3,Muy buen dominio de la materia por parte del profesor
+2025-03-27 17:44:20.869565217,3,2,4,5,5,2,4,4,4,4,3,4,3,2,Bien,Bien,Regular,Regular,Genial,Genial,4,3,Online,4,
+2025-03-28 09:23:28.695652174,4,5,4,4,5,5,5,3,1,3,3,5,4,2,Mal,Regular,Bien,Bien,Genial,Genial,3,3,Online,4,El contenido está muy actualizado
+2025-03-29 01:02:36.521739130,2,3,3,4,3,2,3,3,5,3,5,4,5,3,Regular,Mal,Regular,Bien,Mal,Regular,5,4,Online,3,Muy buen dominio de la materia por parte del profesor
+2025-03-29 16:41:44.347826087,4,3,3,5,1,4,5,3,4,4,4,4,3,5,Genial,Regular,Mal,Pésimo,Mal,Bien,2,3,Presencial,5,Muy buen dominio de la materia por parte del profesor
+2025-03-30 08:20:52.173913043,3,3,2,4,5,3,4,5,4,5,3,5,2,5,Bien,Bien,Mal,Regular,Mal,Bien,3,4,Online,3,A veces las clases se hacen un poco largas
+2025-03-31 00:00:00.000000000,5,5,2,5,3,5,4,3,2,3,4,4,2,2,Mal,Genial,Genial,Pésimo,Bien,Mal,5,5,Online,4,
+2025-04-01 00:00:00.000000000,3,4,4,4,5,5,4,5,5,2,1,1,4,5,Bien,Bien,Bien,Pésimo,Regular,Pésimo,2,5,Presencial,4,
+2025-04-01 13:23:04.615384615,2,4,5,4,5,3,3,3,4,4,4,5,4,4,Genial,Regular,Bien,Bien,Bien,Regular,4,3,Online,4,Podría mejorar la organización de las actividades
+2025-04-02 02:46:09.230769230,4,1,1,4,4,4,4,4,4,5,3,4,3,3,Genial,Regular,Bien,Regular,Regular,Bien,4,4,Presencial,4,"Excelente profesor, muy claro en las explicaciones"
+2025-04-02 16:09:13.846153846,2,4,5,4,2,4,4,5,2,5,4,3,3,4,Regular,Regular,Genial,Genial,Regular,Mal,5,4,Online,3,El horario me viene perfecto
+2025-04-03 05:32:18.461538461,4,5,4,3,3,5,4,4,2,4,3,5,5,2,Bien,Regular,Bien,Genial,Bien,Regular,3,5,Online,5,Las conexiones a veces fallan
+2025-04-03 18:55:23.076923076,3,3,5,4,4,4,5,3,2,4,4,5,5,4,Mal,Genial,Bien,Bien,Bien,Bien,3,4,Presencial,4,
+2025-04-04 08:18:27.692307692,2,3,2,5,2,2,4,4,4,4,4,4,5,4,Regular,Regular,Regular,Genial,Mal,Genial,3,5,Presencial,5,Me gustaría más tiempo para practicar
+2025-04-04 21:41:32.307692307,5,4,5,5,2,5,4,4,4,2,4,5,2,4,Genial,Bien,Bien,Regular,Bien,Bien,5,3,Presencial,3,
+2025-04-05 11:04:36.923076923,2,3,3,3,4,1,5,3,3,4,3,5,1,4,Genial,Bien,Regular,Regular,Genial,Genial,5,3,Presencial,3,Muy recomendable
+2025-04-06 00:27:41.538461538,5,1,3,4,2,4,4,5,5,5,2,5,2,4,Genial,Regular,Bien,Pésimo,Regular,Genial,3,1,Online,4,Podría mejorar la organización de las actividades
+2025-04-06 13:50:46.153846153,3,5,4,5,2,5,5,3,1,5,4,4,4,5,Genial,Regular,Regular,Genial,Genial,Bien,5,4,Online,4,
+2025-04-07 03:13:50.769230769,5,3,5,4,5,4,4,5,4,5,5,4,4,1,Pésimo,Regular,Regular,Regular,Regular,Bien,4,1,Online,4,El horario me viene perfecto
+2025-04-07 16:36:55.384615384,5,4,4,4,5,4,3,5,2,5,3,4,2,5,Bien,Regular,Mal,Regular,Genial,Bien,3,4,Online,5,"Genial, aprendí mucho"
+2025-04-08 06:00:00.000000000,3,5,4,4,4,4,5,4,3,5,3,4,5,4,Genial,Bien,Genial,Genial,Regular,Regular,4,4,Online,3,Buen curso en general
+2025-04-08 19:23:04.615384615,5,5,5,2,5,3,5,2,3,4,5,5,3,4,Genial,Pésimo,Genial,Genial,Pésimo,Pésimo,3,1,Online,4,A veces las clases se hacen un poco largas
+2025-04-09 08:46:09.230769230,4,3,4,5,3,4,1,2,4,2,1,3,4,5,Regular,Bien,Regular,Bien,Bien,Bien,5,5,Online,3,Podría mejorar la organización de las actividades
+2025-04-09 22:09:13.846153846,4,4,3,4,4,5,5,3,3,2,2,4,4,3,Bien,Genial,Regular,Bien,Regular,Bien,5,4,Presencial,3,
+2025-04-10 11:32:18.461538461,4,4,4,4,4,5,3,5,4,4,3,4,1,1,Mal,Regular,Bien,Genial,Regular,Genial,5,5,Presencial,3,El profesor explica muy bien pero va muy rápido
+2025-04-11 00:55:23.076923076,5,2,3,5,3,5,4,4,1,3,4,3,4,3,Bien,Genial,Mal,Mal,Genial,Bien,2,3,Online,4,El contenido está muy actualizado
+2025-04-11 14:18:27.692307692,4,5,4,4,5,5,5,4,2,4,5,2,3,1,Bien,Genial,Pésimo,Bien,Genial,Regular,4,5,Presencial,4,Buen curso en general
+2025-04-12 03:41:32.307692307,3,4,3,4,4,2,3,4,3,5,4,5,5,5,Pésimo,Genial,Mal,Pésimo,Bien,Regular,3,3,Online,4,
+2025-04-12 17:04:36.923076923,1,5,5,5,3,3,3,4,4,3,4,4,3,5,Genial,Mal,Bien,Mal,Bien,Genial,5,3,Online,4,Me gustaría más tiempo para practicar
+2025-04-13 06:27:41.538461538,5,4,2,4,5,4,5,3,4,4,4,5,2,3,Genial,Regular,Bien,Pésimo,Mal,Bien,5,2,Online,3,Excelente calidad de audio y video
+2025-04-13 19:50:46.153846153,3,4,5,4,4,3,4,4,4,2,4,3,3,5,Regular,Regular,Bien,Genial,Bien,Genial,5,3,Online,4,"Excelente profesor, muy claro en las explicaciones"
+2025-04-14 09:13:50.769230769,2,5,5,5,4,3,3,4,4,4,5,5,2,2,Bien,Regular,Genial,Bien,Regular,Bien,4,5,Online,4,"Genial, aprendí mucho"
+2025-04-14 22:36:55.384615384,4,5,1,4,4,4,5,4,5,3,5,3,5,5,Regular,Bien,Bien,Pésimo,Bien,Bien,5,5,Presencial,4,Las clases son muy prácticas y útiles
+2025-04-15 12:00:00.000000000,3,5,2,3,4,4,1,1,5,4,4,4,3,3,Bien,Genial,Regular,Genial,Mal,Regular,1,2,Presencial,4,
+2025-04-16 01:23:04.615384615,5,4,5,4,3,3,5,3,4,4,5,2,2,4,Bien,Regular,Genial,Regular,Bien,Regular,4,3,Online,4,Contenido muy útil para mi futuro profesional
+2025-04-16 14:46:09.230769230,5,5,5,3,5,4,4,5,2,5,4,5,2,4,Genial,Pésimo,Mal,Genial,Regular,Genial,3,3,Presencial,5,Podría mejorar la organización de las actividades
+2025-04-17 04:09:13.846153846,3,3,4,2,3,4,4,5,3,4,4,3,5,4,Regular,Genial,Pésimo,Genial,Genial,Bien,2,2,Online,3,El contenido está muy actualizado
+2025-04-17 17:32:18.461538461,5,3,3,4,5,4,5,2,3,5,3,4,2,2,Mal,Genial,Bien,Bien,Regular,Bien,4,5,Presencial,3,Muy buen dominio de la materia por parte del profesor
+2025-04-18 06:55:23.076923076,3,4,2,5,5,5,1,5,5,5,4,5,2,5,Mal,Regular,Genial,Regular,Mal,Genial,5,2,Presencial,3,Las clases son muy prácticas y útiles
+2025-04-18 20:18:27.692307692,3,4,5,2,5,3,4,4,4,5,2,3,4,5,Regular,Genial,Bien,Mal,Genial,Mal,4,1,Online,3,Muy buen dominio de la materia por parte del profesor
+2025-04-19 09:41:32.307692307,4,4,4,3,4,5,5,2,1,5,4,4,4,3,Bien,Genial,Bien,Mal,Mal,Regular,5,3,Online,4,
+2025-04-19 23:04:36.923076923,4,4,4,3,2,5,3,3,3,4,1,2,3,4,Regular,Bien,Bien,Genial,Regular,Mal,4,4,Online,3,Las conexiones a veces fallan
+2025-04-20 12:27:41.538461538,4,3,2,2,5,4,5,5,4,4,1,5,3,4,Pésimo,Genial,Genial,Bien,Bien,Genial,3,2,Online,3,Podría mejorar la organización de las actividades
+2025-04-21 01:50:46.153846153,4,4,4,5,4,4,4,4,2,1,4,4,5,4,Bien,Regular,Mal,Bien,Regular,Bien,4,3,Presencial,3,
+2025-04-21 15:13:50.769230769,3,2,5,5,5,5,5,5,4,2,4,2,5,4,Bien,Mal,Bien,Regular,Regular,Bien,1,3,Online,3,Las conexiones a veces fallan
+2025-04-22 04:36:55.384615384,5,3,4,2,5,3,3,2,5,5,5,4,3,2,Bien,Regular,Genial,Bien,Bien,Regular,5,2,Online,4,"Excelente profesor, muy claro en las explicaciones"
+2025-04-22 18:00:00.000000000,3,3,5,5,2,2,5,4,2,4,4,3,4,4,Mal,Genial,Bien,Regular,Regular,Mal,4,2,Online,4,
+2025-04-23 07:23:04.615384615,4,5,4,4,4,5,2,3,4,4,5,3,2,5,Mal,Mal,Bien,Genial,Genial,Genial,2,3,Online,4,
+2025-04-23 20:46:09.230769230,4,1,5,4,4,5,3,3,3,3,2,4,2,5,Regular,Regular,Regular,Bien,Bien,Genial,5,5,Presencial,4,"Genial, aprendí mucho"
+2025-04-24 10:09:13.846153846,5,4,5,5,5,1,5,4,4,2,4,3,3,2,Genial,Pésimo,Regular,Mal,Bien,Regular,3,3,Online,3,Podría mejorar la organización de las actividades
+2025-04-24 23:32:18.461538461,5,4,4,5,3,2,4,2,2,5,1,5,4,4,Bien,Bien,Mal,Mal,Genial,Regular,1,5,Presencial,4,Las clases son muy prácticas y útiles
+2025-04-25 12:55:23.076923076,2,4,4,4,2,2,4,5,1,3,5,2,5,4,Bien,Regular,Regular,Regular,Genial,Genial,4,4,Online,3,El profesor explica muy bien pero va muy rápido
+2025-04-26 02:18:27.692307692,1,3,4,4,4,4,3,3,5,3,3,4,2,4,Bien,Genial,Genial,Mal,Bien,Pésimo,1,3,Online,4,
+2025-04-26 15:41:32.307692307,4,4,4,2,5,2,3,5,4,5,4,4,5,1,Genial,Regular,Genial,Mal,Bien,Genial,4,4,Presencial,4,Muy buen dominio de la materia por parte del profesor
+2025-04-27 05:04:36.923076923,5,4,3,1,3,2,4,3,1,1,5,4,3,5,Mal,Genial,Bien,Mal,Bien,Genial,4,5,Online,3,"Genial, aprendí mucho"
+2025-04-27 18:27:41.538461538,4,5,1,5,3,3,5,5,1,2,5,2,5,5,Regular,Bien,Bien,Regular,Genial,Genial,4,3,Online,3,Podría mejorar la organización de las actividades
+2025-04-28 07:50:46.153846154,5,5,4,3,4,5,5,5,2,4,3,1,2,2,Genial,Regular,Regular,Genial,Bien,Pésimo,3,2,Online,4,Excelente calidad de audio y video
+2025-04-28 21:13:50.769230769,3,2,4,1,4,3,3,5,4,3,4,3,1,1,Genial,Genial,Genial,Genial,Genial,Genial,4,3,Online,2,Buen curso en general
+2025-04-29 10:36:55.384615384,4,5,4,4,4,3,4,4,3,4,3,4,4,4,Bien,Mal,Regular,Regular,Bien,Bien,5,2,Online,3,El contenido está muy actualizado
+2025-04-30 00:00:00.000000000,3,3,2,3,5,1,4,4,4,4,3,5,3,5,Bien,Genial,Genial,Genial,Bien,Bien,5,5,Presencial,2,El contenido está muy actualizado
+2025-05-01 00:00:00.000000000,4,3,4,3,5,4,1,5,3,3,4,4,3,4,Mal,Genial,Genial,Regular,Genial,Bien,2,2,Online,4,Las clases son muy prácticas y útiles
+2025-05-01 16:00:00.000000000,5,4,5,4,5,4,5,4,4,3,3,5,3,4,Regular,Genial,Mal,Genial,Bien,Regular,4,3,Online,5,A veces las clases se hacen un poco largas
+2025-05-02 08:00:00.000000000,2,5,1,4,4,4,4,4,4,4,2,4,3,1,Bien,Bien,Bien,Bien,Regular,Regular,2,4,Online,4,
+2025-05-03 00:00:00.000000000,4,4,4,4,3,2,3,4,5,4,3,5,5,5,Bien,Genial,Pésimo,Mal,Mal,Genial,2,3,Online,3,Muy satisfecho con el curso
+2025-05-03 16:00:00.000000000,1,3,2,2,5,5,5,5,2,2,4,5,1,5,Bien,Genial,Bien,Regular,Genial,Genial,3,5,Presencial,2,
+2025-05-04 08:00:00.000000000,2,4,4,3,4,3,2,4,5,3,4,3,3,4,Genial,Pésimo,Genial,Pésimo,Genial,Genial,4,2,Online,3,El horario me viene perfecto
+2025-05-05 00:00:00.000000000,3,4,5,5,4,4,4,4,4,1,1,2,2,5,Regular,Genial,Genial,Genial,Genial,Regular,4,2,Presencial,4,Las clases son muy prácticas y útiles
+2025-05-05 16:00:00.000000000,4,4,3,4,4,5,4,4,5,3,3,5,3,5,Mal,Mal,Genial,Bien,Genial,Regular,3,5,Online,4,Las conexiones a veces fallan
+2025-05-06 08:00:00.000000000,3,4,4,3,4,3,3,3,3,5,4,5,4,4,Bien,Bien,Bien,Pésimo,Genial,Genial,3,4,Online,4,A veces las clases se hacen un poco largas
+2025-05-07 00:00:00.000000000,4,4,5,1,4,2,4,4,3,5,5,4,5,4,Genial,Bien,Bien,Bien,Pésimo,Bien,5,4,Online,4,"Genial, aprendí mucho"
+2025-05-07 16:00:00.000000000,2,1,4,4,5,5,4,4,3,3,2,2,2,3,Regular,Genial,Bien,Genial,Bien,Bien,3,2,Online,2,
+2025-05-08 08:00:00.000000000,4,5,5,2,2,5,3,4,3,1,1,5,4,4,Genial,Regular,Regular,Bien,Genial,Bien,5,5,Online,3,
+2025-05-09 00:00:00.000000000,4,5,5,5,4,3,1,5,4,3,2,5,5,5,Bien,Bien,Regular,Pésimo,Genial,Mal,4,4,Online,4,Las conexiones a veces fallan
+2025-05-09 16:00:00.000000000,4,3,3,4,2,2,4,4,4,2,4,4,1,4,Mal,Genial,Bien,Bien,Mal,Regular,4,4,Online,3,El profesor explica muy bien pero va muy rápido
+2025-05-10 08:00:00.000000000,5,1,4,2,5,5,1,5,5,4,5,4,4,3,Regular,Bien,Mal,Genial,Regular,Bien,5,3,Online,4,Podría mejorar la organización de las actividades
+2025-05-11 00:00:00.000000000,4,4,3,2,5,5,5,5,2,1,5,3,3,5,Bien,Regular,Genial,Genial,Mal,Genial,4,4,Presencial,3,Podría mejorar la organización de las actividades
+2025-05-11 16:00:00.000000000,2,4,5,4,4,1,4,5,5,5,2,3,2,4,Regular,Regular,Bien,Regular,Bien,Genial,4,4,Presencial,3,Muy buen dominio de la materia por parte del profesor
+2025-05-12 08:00:00.000000000,4,5,4,5,4,5,5,2,2,4,3,4,3,5,Bien,Genial,Genial,Genial,Regular,Bien,3,3,Online,4,Muy satisfecho con el curso
+2025-05-13 00:00:00.000000000,4,4,5,2,4,5,3,4,2,5,3,3,4,3,Regular,Bien,Bien,Bien,Bien,Bien,4,3,Online,4,A veces las clases se hacen un poco largas
+2025-05-13 16:00:00.000000000,4,4,4,2,4,4,5,5,4,3,3,3,4,3,Bien,Bien,Genial,Genial,Bien,Regular,4,2,Online,4,
+2025-05-14 08:00:00.000000000,2,3,4,1,4,4,5,4,5,3,4,2,4,5,Genial,Bien,Bien,Genial,Genial,Genial,4,5,Online,3,Las conexiones a veces fallan
+2025-05-15 00:00:00.000000000,5,5,5,4,4,5,4,5,4,4,4,5,3,4,Genial,Bien,Genial,Regular,Bien,Genial,4,4,Online,4,Me gustaría más tiempo para practicar
+2025-05-15 16:00:00.000000000,4,3,3,4,4,3,4,3,5,3,3,5,1,3,Bien,Genial,Genial,Bien,Bien,Bien,4,3,Presencial,3,El profesor explica muy bien pero va muy rápido
+2025-05-16 08:00:00.000000000,4,5,4,4,3,5,5,5,3,4,2,4,2,4,Bien,Bien,Bien,Genial,Mal,Genial,3,1,Online,4,
+2025-05-17 00:00:00.000000000,5,2,4,1,4,3,4,5,3,1,4,5,5,3,Bien,Genial,Genial,Bien,Regular,Regular,2,5,Online,4,El contenido está muy actualizado
+2025-05-17 16:00:00.000000000,4,5,4,4,4,3,2,4,1,4,3,4,2,5,Genial,Regular,Regular,Bien,Mal,Bien,3,5,Presencial,5,Buen curso en general
+2025-05-18 08:00:00.000000000,3,2,4,4,2,5,4,3,3,5,4,3,2,4,Regular,Bien,Genial,Mal,Genial,Genial,5,5,Presencial,3,Las conexiones a veces fallan
+2025-05-19 00:00:00.000000000,5,3,3,2,5,5,4,3,4,1,4,4,5,4,Bien,Genial,Bien,Mal,Bien,Genial,4,4,Presencial,4,
+2025-05-19 16:00:00.000000000,1,4,5,5,5,5,4,4,4,5,4,2,5,4,Bien,Bien,Bien,Mal,Genial,Regular,3,3,Presencial,4,A veces las clases se hacen un poco largas
+2025-05-20 08:00:00.000000000,4,2,3,4,2,2,2,5,3,5,3,5,2,4,Genial,Genial,Genial,Genial,Regular,Bien,4,5,Online,3,Las conexiones a veces fallan
+2025-05-21 00:00:00.000000000,4,4,5,4,5,4,4,5,2,3,3,4,2,4,Genial,Genial,Bien,Genial,Bien,Bien,5,4,Presencial,4,
+2025-05-21 16:00:00.000000000,4,4,4,5,3,4,2,4,4,1,4,4,2,4,Regular,Bien,Bien,Bien,Genial,Bien,1,5,Online,3,
+2025-05-22 08:00:00.000000000,5,3,4,4,4,5,4,2,5,5,4,4,1,5,Mal,Mal,Bien,Mal,Pésimo,Bien,2,2,Online,5,
+2025-05-23 00:00:00.000000000,3,4,3,4,2,5,3,5,3,5,3,4,3,4,Bien,Bien,Bien,Pésimo,Regular,Bien,1,3,Online,3,Muy recomendable
+2025-05-23 16:00:00.000000000,4,4,5,4,5,4,5,5,4,4,3,3,5,5,Genial,Genial,Genial,Bien,Bien,Bien,4,1,Online,4,"Excelente profesor, muy claro en las explicaciones"
+2025-05-24 08:00:00.000000000,5,5,5,4,4,4,5,5,2,4,5,4,3,4,Bien,Genial,Bien,Mal,Regular,Pésimo,4,4,Online,5,"Excelente profesor, muy claro en las explicaciones"
+2025-05-25 00:00:00.000000000,2,3,4,4,4,4,5,3,3,5,4,4,3,4,Regular,Bien,Genial,Bien,Pésimo,Genial,4,2,Presencial,5,
+2025-05-25 16:00:00.000000000,3,4,5,5,4,5,3,2,1,5,5,4,5,4,Bien,Regular,Genial,Mal,Bien,Regular,3,4,Online,4,
+2025-05-26 08:00:00.000000000,4,5,1,5,4,5,4,4,5,4,4,1,2,4,Genial,Bien,Mal,Regular,Bien,Bien,5,4,Online,4,Contenido muy útil para mi futuro profesional
+2025-05-27 00:00:00.000000000,1,4,5,3,1,2,4,4,2,5,5,4,3,4,Bien,Bien,Mal,Bien,Bien,Regular,3,2,Presencial,4,El contenido está muy actualizado
+2025-05-27 16:00:00.000000000,4,4,4,4,2,3,2,5,2,4,3,3,4,4,Bien,Bien,Bien,Regular,Bien,Bien,1,3,Online,4,"Genial, aprendí mucho"
+2025-05-28 08:00:00.000000000,3,4,2,4,4,4,2,4,3,3,5,4,5,2,Regular,Regular,Bien,Mal,Bien,Bien,3,4,Presencial,3,Las clases son muy prácticas y útiles
+2025-05-29 00:00:00.000000000,5,3,3,5,5,1,5,2,1,3,3,5,4,5,Genial,Bien,Bien,Genial,Genial,Genial,5,2,Presencial,4,Podría mejorar la organización de las actividades
+2025-05-29 16:00:00.000000000,4,4,4,5,4,3,5,3,2,4,5,4,5,4,Regular,Genial,Bien,Genial,Genial,Genial,2,3,Presencial,3,
+2025-05-30 08:00:00.000000000,4,3,3,4,3,3,2,3,4,5,1,3,4,3,Genial,Genial,Genial,Bien,Bien,Bien,2,1,Online,3,
+2025-05-31 00:00:00.000000000,4,5,5,2,2,5,4,5,1,4,4,5,1,3,Bien,Genial,Genial,Genial,Genial,Pésimo,1,2,Online,4,Excelente calidad de audio y video
+2025-06-01 00:00:00.000000000,4,4,4,4,5,5,5,5,4,5,5,4,4,5,Genial,Bien,Mal,Genial,Genial,Bien,3,3,Online,5,Buen curso en general
+2025-06-01 19:20:00.000000000,5,5,3,5,4,4,5,4,3,4,3,3,4,3,Mal,Pésimo,Bien,Regular,Genial,Bien,4,3,Online,3,El contenido está muy actualizado
+2025-06-02 14:40:00.000000000,5,5,5,5,4,4,5,4,5,5,5,3,5,4,Bien,Regular,Genial,Genial,Regular,Bien,4,5,Online,4,El contenido está muy actualizado
+2025-06-03 10:00:00.000000000,3,4,3,4,3,3,4,3,4,3,3,5,1,4,Bien,Bien,Bien,Regular,Regular,Genial,5,1,Online,3,El profesor explica muy bien pero va muy rápido
+2025-06-04 05:20:00.000000000,5,4,2,5,4,4,4,5,1,3,4,2,4,4,Regular,Pésimo,Genial,Genial,Bien,Bien,3,4,Online,5,El profesor explica muy bien pero va muy rápido
+2025-06-05 00:40:00.000000000,4,5,4,3,4,4,4,4,4,4,5,5,3,5,Regular,Genial,Mal,Regular,Genial,Regular,5,4,Online,4,Excelente calidad de audio y video
+2025-06-05 20:00:00.000000000,5,5,3,5,3,1,5,5,4,3,3,4,5,2,Genial,Regular,Genial,Genial,Bien,Bien,5,4,Online,3,Muy satisfecho con el curso
+2025-06-06 15:20:00.000000000,5,4,3,4,5,3,4,4,2,1,4,1,2,3,Pésimo,Bien,Mal,Regular,Genial,Bien,4,1,Online,3,El profesor explica muy bien pero va muy rápido
+2025-06-07 10:40:00.000000000,2,4,5,4,1,5,2,5,3,4,4,5,5,4,Bien,Bien,Bien,Genial,Pésimo,Regular,5,5,Online,5,
+2025-06-08 06:00:00.000000000,3,4,5,1,4,4,3,5,3,3,5,4,5,4,Genial,Genial,Mal,Bien,Bien,Mal,4,1,Presencial,4,"Genial, aprendí mucho"
+2025-06-09 01:20:00.000000000,3,4,3,4,5,5,5,5,1,3,4,4,2,4,Bien,Bien,Genial,Regular,Pésimo,Mal,5,5,Online,4,A veces las clases se hacen un poco largas
+2025-06-09 20:40:00.000000000,4,4,3,4,5,5,2,4,4,1,4,4,3,5,Regular,Genial,Genial,Bien,Mal,Genial,5,2,Online,4,Podría mejorar la organización de las actividades
+2025-06-10 16:00:00.000000000,4,4,2,4,5,2,3,5,3,4,4,4,3,3,Pésimo,Genial,Genial,Bien,Bien,Regular,1,5,Online,3,
+2025-06-11 11:20:00.000000000,4,5,4,3,5,5,3,3,3,3,5,4,2,3,Genial,Genial,Genial,Pésimo,Genial,Bien,4,5,Online,4,Excelente calidad de audio y video
+2025-06-12 06:40:00.000000000,4,5,5,5,4,3,4,2,3,3,4,2,1,4,Bien,Genial,Bien,Mal,Regular,Mal,5,4,Online,4,A veces las clases se hacen un poco largas
+2025-06-13 02:00:00.000000000,2,1,4,5,2,4,4,5,4,4,4,5,5,4,Bien,Bien,Bien,Bien,Regular,Genial,4,5,Online,4,"Genial, aprendí mucho"
+2025-06-13 21:20:00.000000000,4,5,5,2,4,4,5,4,3,1,4,2,5,5,Bien,Bien,Genial,Regular,Regular,Genial,5,5,Online,4,Podría mejorar la organización de las actividades
+2025-06-14 16:40:00.000000000,3,3,1,5,5,4,4,3,4,5,4,5,4,2,Bien,Bien,Genial,Regular,Bien,Bien,4,3,Presencial,3,Me gustaría más tiempo para practicar
+2025-06-15 12:00:00.000000000,4,5,3,5,1,1,5,5,4,5,2,3,5,3,Bien,Bien,Mal,Regular,Bien,Genial,5,4,Online,3,
+2025-06-16 07:20:00.000000000,5,4,5,2,5,2,4,5,2,1,5,4,4,1,Bien,Regular,Genial,Bien,Genial,Regular,5,4,Presencial,3,Las clases son muy prácticas y útiles
+2025-06-17 02:40:00.000000000,4,5,4,3,5,5,5,4,4,4,3,5,3,4,Bien,Genial,Genial,Bien,Bien,Genial,4,1,Online,4,
+2025-06-17 22:00:00.000000000,4,4,5,3,5,4,4,5,4,3,5,4,4,5,Bien,Bien,Genial,Regular,Mal,Genial,1,4,Presencial,4,El contenido está muy actualizado
+2025-06-18 17:20:00.000000000,2,3,4,5,4,2,4,5,3,5,3,5,3,3,Genial,Bien,Regular,Genial,Bien,Regular,4,5,Online,4,Las conexiones a veces fallan
+2025-06-19 12:40:00.000000000,3,4,4,4,2,2,5,5,2,2,2,4,4,4,Bien,Genial,Genial,Pésimo,Regular,Mal,5,4,Online,3,
+2025-06-20 08:00:00.000000000,5,5,4,5,3,3,5,4,2,4,5,4,3,4,Genial,Mal,Regular,Regular,Bien,Regular,3,1,Online,4,"Genial, aprendí mucho"
+2025-06-21 03:20:00.000000000,3,4,3,5,3,3,5,4,1,4,2,5,4,3,Bien,Mal,Genial,Genial,Genial,Regular,3,1,Online,3,El profesor explica muy bien pero va muy rápido
+2025-06-21 22:40:00.000000000,5,3,1,2,3,1,4,3,2,5,3,4,3,4,Genial,Pésimo,Bien,Genial,Bien,Regular,4,4,Presencial,3,
+2025-06-22 18:00:00.000000000,4,4,2,2,4,3,3,5,3,1,3,4,3,1,Bien,Mal,Bien,Bien,Pésimo,Regular,4,4,Online,2,"Genial, aprendí mucho"
+2025-06-23 13:20:00.000000000,3,5,3,4,1,3,5,1,3,1,4,3,3,5,Bien,Regular,Bien,Mal,Regular,Bien,3,4,Online,3,
+2025-06-24 08:40:00.000000000,3,5,2,3,2,5,5,5,3,3,3,4,4,3,Regular,Bien,Regular,Bien,Bien,Pésimo,4,5,Online,3,
+2025-06-25 04:00:00.000000000,5,3,3,4,5,5,4,4,3,5,3,5,4,4,Bien,Genial,Bien,Genial,Pésimo,Bien,5,4,Presencial,4,Muy buen dominio de la materia por parte del profesor
+2025-06-25 23:20:00.000000000,3,2,5,3,5,4,4,3,3,4,3,5,4,1,Genial,Mal,Bien,Bien,Pésimo,Bien,4,4,Online,3,Muy recomendable
+2025-06-26 18:40:00.000000000,5,4,3,5,4,5,4,4,5,4,4,2,5,1,Genial,Bien,Bien,Genial,Regular,Bien,5,4,Online,4,
+2025-06-27 14:00:00.000000000,5,1,3,5,4,5,4,5,5,4,4,4,5,3,Bien,Regular,Regular,Pésimo,Bien,Genial,4,4,Online,4,Muy satisfecho con el curso
+2025-06-28 09:20:00.000000000,5,4,2,2,5,5,3,2,3,5,4,5,5,5,Bien,Regular,Genial,Regular,Regular,Regular,4,4,Online,4,
+2025-06-29 04:40:00.000000000,5,3,4,5,1,3,4,3,3,5,5,5,5,3,Regular,Regular,Genial,Bien,Regular,Bien,4,4,Presencial,4,
+2025-06-30 00:00:00.000000000,5,4,5,5,5,2,3,4,3,4,5,2,3,3,Genial,Genial,Bien,Mal,Genial,Bien,4,5,Presencial,5,Contenido muy útil para mi futuro profesional
+2025-02-17 00:00:00.000000000,5,3,4,2,4,5,4,4,3,3,1,5,4,3,Bien,Genial,Bien,Regular,Regular,Regular,5,4,Presencial,4,Muy recomendable
+2025-01-13 00:00:00.000000000,4,4,3,5,5,4,3,2,4,3,5,4,4,4,Pésimo,Genial,Bien,Genial,Bien,Genial,2,4,Presencial,4,Podría mejorar la organización de las actividades
+2024-10-20 00:00:00.000000000,2,4,3,4,3,3,4,4,4,3,5,2,1,4,Mal,Bien,Genial,Bien,Bien,Bien,3,3,Online,4,Buen curso en general
+2025-01-12 00:00:00.000000000,2,5,2,5,3,1,5,3,4,4,2,5,3,5,Bien,Bien,Regular,Mal,Bien,Bien,4,4,Online,3,Muy buen dominio de la materia por parte del profesor
+2025-01-15 00:00:00.000000000,2,3,2,5,5,2,1,5,3,5,5,4,2,5,Genial,Bien,Bien,Regular,Bien,Genial,5,4,Presencial,3,
+2025-05-03 00:00:00.000000000,2,4,5,4,4,5,5,4,4,4,5,5,4,5,Mal,Genial,Genial,Bien,Regular,Genial,2,3,Online,4,Contenido muy útil para mi futuro profesional
+2024-12-18 00:00:00.000000000,4,1,3,5,3,2,4,4,4,5,5,3,4,4,Regular,Pésimo,Bien,Pésimo,Genial,Genial,3,3,Presencial,4,"Excelente profesor, muy claro en las explicaciones"
+2025-06-14 00:00:00.000000000,3,1,5,5,3,4,5,5,4,5,3,3,4,4,Pésimo,Genial,Genial,Bien,Regular,Bien,4,1,Online,4,El profesor explica muy bien pero va muy rápido
+2024-09-21 00:00:00.000000000,5,4,3,2,5,5,1,4,4,5,4,5,3,3,Pésimo,Regular,Bien,Genial,Regular,Bien,1,4,Presencial,4,
+2024-11-29 00:00:00.000000000,5,2,4,4,4,5,3,1,4,3,1,3,3,4,Regular,Bien,Bien,Regular,Genial,Pésimo,5,4,Presencial,3,Muy satisfecho con el curso
+2025-06-23 00:00:00.000000000,5,4,4,3,4,3,3,3,4,4,4,4,5,5,Bien,Genial,Genial,Regular,Bien,Mal,5,2,Online,3,Muy satisfecho con el curso
+2024-12-21 00:00:00.000000000,5,4,5,5,4,4,4,5,4,5,3,3,1,4,Genial,Regular,Mal,Pésimo,Bien,Regular,3,5,Online,4,
+2025-06-28 00:00:00.000000000,2,5,4,5,3,4,1,5,2,4,3,2,3,3,Genial,Regular,Regular,Bien,Regular,Bien,5,2,Online,5,Excelente calidad de audio y video
+2024-11-16 00:00:00.000000000,4,4,4,5,1,4,4,4,5,4,5,3,1,3,Bien,Regular,Mal,Regular,Regular,Mal,3,5,Online,4,Buen curso en general
+2025-02-24 00:00:00.000000000,2,5,4,5,4,2,4,4,2,4,4,4,3,4,Regular,Bien,Mal,Pésimo,Regular,Regular,4,5,Online,5,Muy recomendable
+2025-01-26 00:00:00.000000000,4,2,5,5,4,3,3,4,4,4,4,4,5,1,Bien,Genial,Bien,Bien,Bien,Genial,2,3,Online,3,A veces las clases se hacen un poco largas
+2024-12-10 00:00:00.000000000,5,5,3,4,4,5,4,1,4,5,4,5,5,4,Bien,Genial,Regular,Regular,Regular,Genial,5,2,Presencial,4,Buen curso en general
+2025-05-04 00:00:00.000000000,5,3,4,3,5,1,3,4,1,4,4,5,4,4,Genial,Genial,Bien,Bien,Bien,Bien,5,4,Online,3,
+2024-12-26 00:00:00.000000000,3,4,4,5,3,4,3,4,2,1,4,3,2,3,Pésimo,Genial,Bien,Genial,Bien,Genial,4,4,Online,3,Las conexiones a veces fallan
+2024-12-01 00:00:00.000000000,5,3,4,3,4,1,5,4,4,2,5,5,4,5,Regular,Bien,Bien,Bien,Genial,Regular,3,3,Presencial,4,Me gustaría más tiempo para practicar
+2024-09-28 00:00:00.000000000,5,5,4,4,1,3,1,5,2,5,4,3,2,4,Genial,Genial,Regular,Bien,Regular,Genial,5,4,Online,4,"Excelente profesor, muy claro en las explicaciones"
+2024-09-25 00:00:00.000000000,5,5,3,5,4,5,5,2,3,4,5,5,3,4,Bien,Mal,Regular,Regular,Regular,Regular,2,5,Online,4,
+2024-10-28 00:00:00.000000000,2,4,5,2,5,5,4,4,4,3,4,5,5,5,Regular,Regular,Regular,Regular,Regular,Bien,4,4,Presencial,4,
+2025-06-24 00:00:00.000000000,5,4,5,4,4,4,5,3,3,3,3,5,2,5,Bien,Genial,Regular,Pésimo,Mal,Genial,4,1,Presencial,4,"Excelente profesor, muy claro en las explicaciones"
+2025-01-12 00:00:00.000000000,4,3,4,4,4,4,5,4,4,2,5,3,4,5,Regular,Bien,Regular,Bien,Bien,Genial,5,4,Presencial,4,
+2025-05-07 00:00:00.000000000,5,2,2,4,5,4,4,5,2,4,3,4,2,4,Genial,Bien,Bien,Pésimo,Bien,Mal,4,3,Online,3,Contenido muy útil para mi futuro profesional
+2024-10-08 00:00:00.000000000,4,2,4,4,4,5,3,3,4,5,4,5,4,4,Bien,Bien,Bien,Bien,Genial,Bien,2,4,Online,4,
+2024-11-14 00:00:00.000000000,4,2,4,1,2,4,4,1,4,5,5,2,4,4,Pésimo,Genial,Genial,Genial,Genial,Genial,4,4,Presencial,3,Las conexiones a veces fallan
+2025-01-20 00:00:00.000000000,5,1,4,5,5,5,4,1,5,3,4,3,3,4,Bien,Bien,Genial,Regular,Regular,Bien,4,5,Online,4,Muy satisfecho con el curso
+2025-02-15 00:00:00.000000000,4,5,5,3,4,4,5,5,4,4,5,3,3,4,Genial,Genial,Regular,Bien,Genial,Bien,3,4,Online,5,Muy buen dominio de la materia por parte del profesor
+2025-05-17 00:00:00.000000000,5,3,3,4,4,4,5,4,1,5,1,5,4,5,Regular,Pésimo,Bien,Regular,Regular,Genial,5,4,Online,5,
+2025-04-13 00:00:00.000000000,5,4,5,3,3,2,5,4,3,3,1,3,3,3,Regular,Genial,Bien,Bien,Pésimo,Bien,4,2,Online,3,Podría mejorar la organización de las actividades
+2025-01-30 00:00:00.000000000,5,5,5,4,3,5,4,4,1,4,4,4,3,3,Regular,Genial,Regular,Bien,Bien,Genial,2,2,Online,4,"Genial, aprendí mucho"
+2024-09-19 00:00:00.000000000,3,4,3,5,2,4,5,4,5,5,3,1,3,3,Genial,Genial,Mal,Regular,Bien,Mal,4,3,Online,4,Podría mejorar la organización de las actividades
+2025-01-24 00:00:00.000000000,4,4,4,3,1,1,4,4,5,3,5,4,1,5,Bien,Bien,Bien,Regular,Genial,Genial,4,4,Presencial,4,El horario me viene perfecto
