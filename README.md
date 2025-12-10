@@ -8,10 +8,11 @@ Crear un pipeline de ML y análisis que permita introducir métricas de negocio 
 
 ## Estructura del Proyecto
 
-- `generar_datos_sinteticos.py`: Script para generar DataFrames sintéticos
+- `metricas_immune/generar_df_immune_metricas.py`: Script para generar Immune_metricas.csv
+- `metricas_immune/generar_feedbacks_sinteticos.py`: Script para generar Feedbacks.csv
 - `Arquitectura.md`: Documentación completa del proyecto y diccionario de variables
 - `Metricas_campanas.csv`: Métricas de Google Analytics y Facebook Ads
-- `Metricas_satisfaccion.csv`: Respuestas de encuesta de satisfacción
+- `Feedbacks.csv`: Respuestas de encuesta de satisfacción
 
 ## Datos Sintéticos
 
@@ -23,10 +24,12 @@ Los datos sintéticos se generan basándose en las métricas exactas que proporc
 ## Uso
 
 ```bash
-python generar_datos_sinteticos.py
-```
+# Métricas Immune
+python metricas_immune/generar_df_immune_metricas.py
 
-Esto generará los archivos CSV con 500 registros cada uno.
+# Feedbacks
+python metricas_immune/generar_feedbacks_sinteticos.py
+```
 
 
 Enlace para el documento de resumen visual del proyecto : https://excalidraw.com/#room=b2f4fb4c0ce095979505,gzZQ7jnj6MIlwEKvtgGA0g

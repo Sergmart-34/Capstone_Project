@@ -1,0 +1,785 @@
+comentario,polaridad,tema,tono,longitud,satisfaccion_min,satisfaccion_max,aspecto_variable,aspecto_valor_min,aspecto_valor_max
+"El ritmo de clase es aceptable, aunque no siempre perfecto. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,clase,formal,largo,2,4,clase_horario,2,4
+La organización de cada sesión hace que aproveche muy bien el tiempo.,muy_positivo,clase,elogio,corto,4,5,clase_horario,4,5
+La experiencia general ha sido muy positiva para mí.,muy_positivo,general,informal,medio,4,5,ninguno,1,5
+El balance del curso es claramente positivo para mí.,positivo,general,elogio,corto,3,5,ninguno,1,5
+La experiencia global ha sido algo decepcionante.,negativo,general,formal,medio,1,3,ninguno,1,5
+"En conjunto, el curso no ha cumplido del todo mis expectativas. Este punto me genera bastante frustración. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,general,queja,largo,1,3,ninguno,1,5
+El ritmo de clase no siempre se adapta al grupo.,negativo,clase,formal,corto,1,3,clase_duracion,1,3
+Hay partes del contenido que me interesan y otras que no tanto.,neutral,contenido,informal,medio,2,4,contenidos_adecuados,2,4
+Me cuesta mantener la atención durante toda la clase.,negativo,clase,constructivo,corto,1,3,clase_conveniencia_dia,1,3
+La metodología del curso es muy práctica y facilita mucho el aprendizaje.,muy_positivo,metodologia,formal,medio,4,5,organiza_actividades,4,5
+"La experiencia global ha sido buena, con algunos puntos mejorables. Me gustaría que se introdujeran cambios en este sentido.",positivo,general,sugerencia,corto,3,5,ninguno,1,5
+"Mi valoración global es intermedia, ni muy alta ni muy baja.",neutral,general,informal,medio,2,4,ninguno,1,5
+"El ritmo de clase es aceptable, aunque no siempre perfecto. Me gustaría que se introdujeran cambios en este sentido.",neutral,clase,sugerencia,corto,2,4,clase_duracion,2,4
+"En conjunto, el curso no ha cumplido del todo mis expectativas.",negativo,general,formal,corto,1,3,ninguno,1,5
+La experiencia general ha sido peor de lo que esperaba.,muy_negativo,general,formal,corto,1,2,ninguno,1,5
+La atención al alumno en general es buena.,positivo,soporte,informal,medio,3,5,velocidad_respuesta,3,5
+Recomendaría este curso sin dudarlo a otras personas.,muy_positivo,general,informal,corto,4,5,ninguno,1,5
+"Me gustaría que la metodología fuera más interactiva. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,metodologia,formal,largo,1,3,grado_dificultad,1,3
+Repetiría una formación similar con esta escuela. Me gustaría que se introdujeran cambios en este sentido.,positivo,general,sugerencia,medio,3,5,ninguno,1,5
+El profesor responde a las dudas y facilita el seguimiento del temario.,positivo,profesor,formal,corto,3,5,mantiene_atencion,3,5
+"He tenido algunas incidencias técnicas, pero nada grave.",neutral,tecnologia,formal,corto,2,4,clase_visibilidad_pantalla,2,4
+Estoy muy satisfecho con la experiencia global del curso.,muy_positivo,general,formal,corto,4,5,ninguno,1,5
+"El contenido del curso no ha cumplido mis expectativas. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_negativo,contenido,formal,largo,1,2,contenidos_adecuados,1,2
+"El soporte responde de forma correcta, sin destacar demasiado. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,soporte,constructivo,largo,2,4,utilidad_anuncios,2,4
+Las actividades planteadas encajan bien con los objetivos del curso.,positivo,metodologia,elogio,corto,3,5,conocimientos_utiles_futuro,3,5
+"La calidad técnica es muy mala y rompe el flujo de las clases. Este punto me genera bastante frustración. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_negativo,tecnologia,queja,largo,1,2,clase_calidad_conexion,1,2
+El ambiente en clase favorece mucho la participación.,muy_positivo,clase,informal,corto,4,5,clase_conveniencia_dia,4,5
+El contenido es profundo y a la vez fácil de seguir.,muy_positivo,contenido,elogio,corto,4,5,conocimientos_utiles_futuro,4,5
+El soporte suele responder en un tiempo razonable.,positivo,soporte,constructivo,corto,3,5,velocidad_respuesta,3,5
+La mayoría de las sesiones me parecen poco aprovechables. Este punto me genera bastante frustración.,muy_negativo,clase,queja,medio,1,2,clase_horario,1,2
+"El curso ha cumplido, pero no ha destacado demasiado.",neutral,general,informal,medio,2,4,ninguno,1,5
+En general la plataforma responde bien y es estable.,positivo,tecnologia,formal,corto,3,5,clase_visibilidad_pantalla,3,5
+"La metodología del curso me resulta correcta, sin destacar demasiado.",neutral,metodologia,informal,corto,2,4,grado_dificultad,2,4
+"El contenido es correcto, aunque algunos temas me han parecido básicos. Creo que aún se podrían mejorar algunos detalles.",neutral,contenido,constructivo,medio,2,4,contenidos_adecuados,2,4
+El profesor no consigue explicar los contenidos de forma comprensible.,muy_negativo,profesor,formal,medio,1,2,preparado_clases,1,2
+"La calidad técnica es aceptable, pero mejorable.",neutral,tecnologia,sugerencia,corto,2,4,clase_visibilidad_pantalla,2,4
+"En general las clases son agradables y productivas. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,clase,formal,largo,3,5,clase_conveniencia_dia,3,5
+"La conexión y la plataforma fallan tan a menudo que desmotivan. Este punto me genera bastante frustración. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_negativo,tecnologia,queja,largo,1,2,clase_calidad_conexion,1,2
+"Las clases tienen un ritmo muy bueno y mantienen mi atención. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_positivo,clase,informal,largo,4,5,clase_horario,4,5
+Siento que pierdo el tiempo en bastantes sesiones. Este punto me genera bastante frustración.,muy_negativo,clase,queja,medio,1,2,clase_horario,1,2
+"Me cuesta mantener la atención durante toda la clase. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,clase,formal,largo,1,3,clase_conveniencia_dia,1,3
+"Los materiales del curso aportan valor y complementan bien las clases. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,contenido,formal,largo,3,5,conocimientos_utiles_futuro,3,5
+Las clases se me hacen muy pesadas y difíciles de seguir.,muy_negativo,clase,formal,medio,1,2,clase_duracion,1,2
+"El temario cumple, sin aportar nada extraordinario.",neutral,contenido,formal,medio,2,4,contenidos_adecuados,2,4
+No he encontrado utilidad real en la mayoría de los contenidos. Este punto me genera bastante frustración.,muy_negativo,contenido,queja,corto,1,2,conocimientos_utiles_futuro,1,2
+La atención al alumno es excelente y muy cercana.,muy_positivo,soporte,elogio,corto,4,5,velocidad_respuesta,4,5
+No he encontrado utilidad real en la mayoría de los contenidos.,muy_negativo,contenido,formal,medio,1,2,conocimientos_utiles_futuro,1,2
+No siento que el equipo de soporte se preocupe por mis problemas.,muy_negativo,soporte,formal,medio,1,2,velocidad_respuesta,1,2
+No siempre el profesor responde de forma clara a las dudas.,negativo,profesor,formal,medio,1,3,mantiene_atencion,1,3
+Las explicaciones del profesor son correctas pero podrían ser más dinámicas.,neutral,profesor,informal,medio,2,4,accesible_y_atiende_consultas,2,4
+El contenido es profundo y a la vez fácil de seguir. Valoro mucho este aspecto del curso.,muy_positivo,contenido,elogio,medio,4,5,conocimientos_utiles_futuro,4,5
+El curso ha superado mis expectativas en casi todos los aspectos. Valoro mucho este aspecto del curso.,muy_positivo,general,elogio,medio,4,5,ninguno,1,5
+Hay varios aspectos del curso que me han dejado insatisfecho. Este punto me genera bastante frustración.,negativo,general,queja,medio,1,3,ninguno,1,5
+"He tenido algunas incidencias técnicas, pero nada grave. Me gustaría que se introdujeran cambios en este sentido.",neutral,tecnologia,sugerencia,medio,2,4,clase_calidad_audio,2,4
+"Algunos temas del contenido me han resultado poco relevantes. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,contenido,formal,largo,1,3,conocimientos_utiles_futuro,1,3
+Los temas tratados son muy relevantes para mi desarrollo profesional.,muy_positivo,contenido,informal,medio,4,5,conocimientos_utiles_futuro,4,5
+El contenido del curso no ha cumplido mis expectativas. Este punto me genera bastante frustración.,muy_negativo,contenido,queja,medio,1,2,conocimientos_utiles_futuro,1,2
+La conexión y la plataforma fallan tan a menudo que desmotivan.,muy_negativo,tecnologia,formal,corto,1,2,clase_calidad_conexion,1,2
+El contenido del curso está muy bien seleccionado y actualizado.,muy_positivo,contenido,formal,corto,4,5,contenidos_adecuados,4,5
+"La metodología fomenta la participación y me mantiene motivado. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_positivo,metodologia,formal,largo,4,5,organiza_actividades,4,5
+"He tenido varios problemas técnicos que cortan el ritmo de la sesión. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,tecnologia,formal,largo,1,3,clase_calidad_audio,1,3
+"En general estoy contento con el curso. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,general,informal,largo,3,5,ninguno,1,5
+Solo he tenido pequeños problemas técnicos que se han resuelto rápido. Me gustaría que se introdujeran cambios en este sentido.,positivo,tecnologia,sugerencia,corto,3,5,clase_calidad_conexion,3,5
+El programa del curso cubre exactamente lo que esperaba aprender.,muy_positivo,contenido,elogio,corto,4,5,contenidos_adecuados,4,5
+"Recomendaría este curso sin dudarlo a otras personas. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_positivo,general,formal,largo,4,5,ninguno,1,5
+La plataforma funciona de forma muy fluida y sin interrupciones.,muy_positivo,tecnologia,formal,corto,4,5,clase_calidad_audio,4,5
+"Siento que la forma de trabajar es estándar, ni especialmente buena ni mala.",neutral,metodologia,constructivo,corto,2,4,grado_dificultad,2,4
+"No he tenido prácticamente ningún problema técnico durante el curso. Valoro mucho este aspecto del curso. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_positivo,tecnologia,elogio,largo,4,5,clase_calidad_audio,4,5
+"No siempre el profesor responde de forma clara a las dudas. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,profesor,formal,largo,1,3,accesible_y_atiende_consultas,1,3
+"Mi experiencia global con el curso ha sido claramente negativa. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_negativo,general,formal,largo,1,2,ninguno,1,5
+"En ocasiones las clases se hacen demasiado largas. Este punto me genera bastante frustración. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,clase,queja,largo,1,3,clase_conveniencia_dia,1,3
+"La tecnología utilizada es correcta, con algún fallo puntual.",neutral,tecnologia,formal,medio,2,4,clase_calidad_audio,2,4
+"No veo relación clara entre la metodología y los objetivos del curso. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_negativo,metodologia,formal,largo,1,2,grado_dificultad,1,2
+"Solo he tenido pequeños problemas técnicos que se han resuelto rápido. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,tecnologia,constructivo,largo,3,5,clase_calidad_audio,3,5
+El contenido del curso no ha cumplido mis expectativas.,muy_negativo,contenido,formal,corto,1,2,conocimientos_utiles_futuro,1,2
+"La metodología a veces hace que las clases se sientan algo monótonas. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,metodologia,constructivo,largo,1,3,conocimientos_utiles_futuro,1,3
+Me siento perdido en las clases por la falta de claridad del profesor.,muy_negativo,profesor,queja,corto,1,2,recomendaria_profesor,1,2
+En varias ocasiones he sentido que el soporte tardaba demasiado en responder.,negativo,soporte,informal,corto,1,3,utilidad_anuncios,1,3
+"Hay un buen equilibrio entre explicación y ejercicios prácticos. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,metodologia,informal,largo,3,5,organiza_actividades,3,5
+Las respuestas del equipo de soporte son útiles la mayoría de las veces. Creo que aún se podrían mejorar algunos detalles.,positivo,soporte,constructivo,medio,3,5,velocidad_respuesta,3,5
+He tenido varios problemas técnicos que cortan el ritmo de la sesión.,negativo,tecnologia,informal,corto,1,3,clase_calidad_audio,1,3
+"No tengo una opinión muy marcada sobre el profesor, es aceptable. Me gustaría que se introdujeran cambios en este sentido.",neutral,profesor,sugerencia,medio,2,4,mantiene_atencion,2,4
+No disfruto las clases y a menudo desconecto.,muy_negativo,clase,formal,medio,1,2,clase_conveniencia_dia,1,2
+"El profesor cumple con su función, sin destacar especialmente. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,profesor,informal,largo,2,4,recomendaria_profesor,2,4
+La calidad de audio y vídeo en las clases online es excelente.,muy_positivo,tecnologia,informal,medio,4,5,clase_visibilidad_pantalla,4,5
+"Algunos temas del contenido me han resultado poco relevantes. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,contenido,constructivo,largo,1,3,contenidos_adecuados,1,3
+"El contenido es correcto, aunque algunos temas me han parecido básicos. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,contenido,informal,largo,2,4,contenidos_adecuados,2,4
+"La atención al alumno es excelente y muy cercana. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_positivo,soporte,formal,largo,4,5,velocidad_respuesta,4,5
+"El soporte responde de forma correcta, sin destacar demasiado.",neutral,soporte,informal,corto,2,4,utilidad_anuncios,2,4
+La experiencia general ha sido muy positiva para mí. Valoro mucho este aspecto del curso.,muy_positivo,general,elogio,medio,4,5,ninguno,1,5
+A veces las clases son más interesantes y otras más densas.,neutral,clase,formal,medio,2,4,clase_conveniencia_dia,2,4
+"El programa del curso cubre exactamente lo que esperaba aprender. Valoro mucho este aspecto del curso. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_positivo,contenido,elogio,largo,4,5,conocimientos_utiles_futuro,4,5
+"No tengo una opinión muy fuerte sobre el soporte, es razonable.",neutral,soporte,constructivo,corto,2,4,utilidad_anuncios,2,4
+"Las soluciones que me han dado no siempre han sido claras. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,soporte,constructivo,largo,1,3,velocidad_respuesta,1,3
+"La atención es aceptable pero podría ser más proactiva. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,soporte,informal,largo,2,4,utilidad_anuncios,2,4
+"La estructura de las sesiones es razonable, pero algo predecible.",neutral,metodologia,constructivo,corto,2,4,conocimientos_utiles_futuro,2,4
+En general estoy contento con el curso. Me gustaría que se introdujeran cambios en este sentido.,positivo,general,sugerencia,medio,3,5,ninguno,1,5
+"No tengo una opinión muy marcada sobre el profesor, es aceptable.",neutral,profesor,informal,medio,2,4,accesible_y_atiende_consultas,2,4
+La metodología a veces hace que las clases se sientan algo monótonas.,negativo,metodologia,formal,corto,1,3,grado_dificultad,1,3
+"Echo en falta más actividades prácticas en esta metodología. Este punto me genera bastante frustración. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,metodologia,queja,largo,1,3,contenidos_adecuados,1,3
+Estoy muy decepcionado con el resultado final del curso.,muy_negativo,general,formal,medio,1,2,ninguno,1,5
+"Estoy muy insatisfecho con la atención recibida por parte del soporte. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_negativo,soporte,formal,largo,1,2,utilidad_anuncios,1,2
+"El contenido es correcto, aunque algunos temas me han parecido básicos. Me gustaría que se introdujeran cambios en este sentido.",neutral,contenido,sugerencia,medio,2,4,conocimientos_utiles_futuro,2,4
+"La experiencia tecnológica es satisfactoria en la mayoría de las clases. Valoro mucho este aspecto del curso. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,tecnologia,elogio,largo,3,5,clase_calidad_conexion,3,5
+Los materiales del curso aportan valor y complementan bien las clases.,positivo,contenido,elogio,corto,3,5,contenidos_adecuados,3,5
+"Me siento cómodo participando en las clases. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,clase,informal,largo,3,5,clase_conveniencia_dia,3,5
+"Las clases se me pasan rápido porque son dinámicas y entretenidas. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_positivo,clase,formal,largo,4,5,clase_horario,4,5
+"El balance del curso es claramente positivo para mí. Valoro mucho este aspecto del curso. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,general,elogio,largo,3,5,ninguno,1,5
+Me encanta la combinación de teoría y práctica que se utiliza en el curso.,muy_positivo,metodologia,formal,corto,4,5,grado_dificultad,4,5
+"El contenido es correcto, aunque algunos temas me han parecido básicos.",neutral,contenido,constructivo,corto,2,4,conocimientos_utiles_futuro,2,4
+El balance del curso es claramente positivo para mí. Creo que aún se podrían mejorar algunos detalles.,positivo,general,constructivo,medio,3,5,ninguno,1,5
+Me siento muy acompañado por el soporte académico y técnico.,muy_positivo,soporte,elogio,corto,4,5,velocidad_respuesta,4,5
+"Me siento perdido en las clases por la falta de claridad del profesor. Este punto me genera bastante frustración. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_negativo,profesor,queja,largo,1,2,accesible_y_atiende_consultas,1,2
+"La calidad técnica es aceptable, pero mejorable. Creo que aún se podrían mejorar algunos detalles.",neutral,tecnologia,constructivo,medio,2,4,clase_visibilidad_pantalla,2,4
+La calidad de la conexión suele ser buena.,positivo,tecnologia,informal,corto,3,5,clase_calidad_conexion,3,5
+"A veces el profesor no consigue que los conceptos queden claros. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,profesor,informal,largo,1,3,mantiene_atencion,1,3
+Siento que la forma de trabajo dificulta mi aprendizaje en lugar de ayudar.,muy_negativo,metodologia,queja,corto,1,2,grado_dificultad,1,2
+"El profesor no consigue explicar los contenidos de forma comprensible. Este punto me genera bastante frustración. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_negativo,profesor,queja,largo,1,2,preparado_clases,1,2
+Las explicaciones del profesor son buenas y ayudan a entender la materia. Valoro mucho este aspecto del curso.,positivo,profesor,elogio,corto,3,5,recomendaria_profesor,3,5
+El profesor explica los conceptos de forma muy clara y estructurada. Valoro mucho este aspecto del curso.,muy_positivo,profesor,elogio,medio,4,5,accesible_y_atiende_consultas,4,5
+El ambiente en clase favorece mucho la participación. Valoro mucho este aspecto del curso.,muy_positivo,clase,elogio,corto,4,5,clase_conveniencia_dia,4,5
+"La experiencia general ha sido muy positiva para mí. Valoro mucho este aspecto del curso. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_positivo,general,elogio,largo,4,5,ninguno,1,5
+"Mi valoración global es intermedia, ni muy alta ni muy baja. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,general,formal,largo,2,4,ninguno,1,5
+Me siento perdido en las clases por la falta de claridad del profesor. Este punto me genera bastante frustración.,muy_negativo,profesor,queja,medio,1,2,mantiene_atencion,1,2
+La metodología del curso no se adapta nada a mis necesidades. Este punto me genera bastante frustración.,muy_negativo,metodologia,queja,medio,1,2,grado_dificultad,1,2
+Las respuestas del equipo de soporte son útiles la mayoría de las veces.,positivo,soporte,formal,corto,3,5,utilidad_anuncios,3,5
+"El ritmo de clase es aceptable, aunque no siempre perfecto.",neutral,clase,sugerencia,corto,2,4,clase_horario,2,4
+"Echo en falta más ejemplos o aclaraciones por parte del profesor. Este punto me genera bastante frustración. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,profesor,queja,largo,1,3,accesible_y_atiende_consultas,1,3
+La calidad técnica es muy mala y rompe el flujo de las clases.,muy_negativo,tecnologia,queja,corto,1,2,clase_calidad_audio,1,2
+"La experiencia en clase es razonable y estable. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,clase,constructivo,largo,2,4,clase_conveniencia_dia,2,4
+Las explicaciones del profesor son correctas pero podrían ser más dinámicas. Creo que aún se podrían mejorar algunos detalles.,neutral,profesor,constructivo,medio,2,4,dominio_materia,2,4
+Me gustaría que la metodología fuera más interactiva.,negativo,metodologia,formal,corto,1,3,grado_dificultad,1,3
+Las incidencias se acumulan sin una solución clara.,muy_negativo,soporte,formal,medio,1,2,velocidad_respuesta,1,2
+Las explicaciones del profesor me resultan confusas y poco útiles.,muy_negativo,profesor,formal,medio,1,2,mantiene_atencion,1,2
+Echo en falta más actividades prácticas en esta metodología.,negativo,metodologia,formal,medio,1,3,contenidos_adecuados,1,3
+"En general estoy contento con el curso. Me gustaría que se introdujeran cambios en este sentido. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,general,sugerencia,largo,3,5,ninguno,1,5
+"La plataforma cumple su función, sin destacar demasiado. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,tecnologia,formal,largo,2,4,clase_visibilidad_pantalla,2,4
+"Me encanta la combinación de teoría y práctica que se utiliza en el curso. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_positivo,metodologia,formal,largo,4,5,contenidos_adecuados,4,5
+"El contenido del curso está muy bien seleccionado y actualizado. Valoro mucho este aspecto del curso. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_positivo,contenido,elogio,largo,4,5,contenidos_adecuados,4,5
+No tengo una percepción especialmente buena del curso en general.,negativo,general,informal,medio,1,3,ninguno,1,5
+"Estoy muy decepcionado con el enfoque y selección del temario. Este punto me genera bastante frustración. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_negativo,contenido,queja,largo,1,2,contenidos_adecuados,1,2
+"Las respuestas del equipo de soporte son útiles la mayoría de las veces. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,soporte,constructivo,largo,3,5,utilidad_anuncios,3,5
+"El profesor responde a las dudas y facilita el seguimiento del temario. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,profesor,formal,largo,3,5,accesible_y_atiende_consultas,3,5
+"El profesor suele explicar bien, aunque a veces va un poco rápido. Me gustaría que se introdujeran cambios en este sentido.",positivo,profesor,sugerencia,corto,3,5,dominio_materia,3,5
+El soporte suele responder en un tiempo razonable. Creo que aún se podrían mejorar algunos detalles.,positivo,soporte,constructivo,medio,3,5,utilidad_anuncios,3,5
+He tenido varios problemas técnicos que cortan el ritmo de la sesión. Este punto me genera bastante frustración.,negativo,tecnologia,queja,medio,1,3,clase_calidad_audio,1,3
+"El profesor cumple con su función, sin destacar especialmente.",neutral,profesor,informal,corto,2,4,mantiene_atencion,2,4
+He echado en falta mayor profundidad en ciertos apartados. Creo que aún se podrían mejorar algunos detalles.,negativo,contenido,constructivo,medio,1,3,conocimientos_utiles_futuro,1,3
+Hay varios aspectos del curso que me han dejado insatisfecho.,negativo,general,informal,corto,1,3,ninguno,1,5
+"Las explicaciones del profesor me resultan confusas y poco útiles. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_negativo,profesor,formal,largo,1,2,recomendaria_profesor,1,2
+Las conexiones fallan con bastante frecuencia.,negativo,tecnologia,informal,medio,1,3,clase_calidad_conexion,1,3
+"En general la metodología me parece bastante acertada. Me gustaría que se introdujeran cambios en este sentido. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,metodologia,sugerencia,largo,3,5,contenidos_adecuados,3,5
+"Las actividades son aceptables, aunque podrían ser más variadas. Creo que aún se podrían mejorar algunos detalles.",neutral,metodologia,constructivo,medio,2,4,organiza_actividades,2,4
+La experiencia global ha sido algo decepcionante. Este punto me genera bastante frustración.,negativo,general,queja,medio,1,3,ninguno,1,5
+"La plataforma funciona de forma muy fluida y sin interrupciones. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_positivo,tecnologia,formal,largo,4,5,clase_calidad_conexion,4,5
+"No tengo una percepción especialmente buena del curso en general. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,general,formal,largo,1,3,ninguno,1,5
+"El profesor domina el contenido y sabe transmitirlo de manera excelente. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_positivo,profesor,formal,largo,4,5,recomendaria_profesor,4,5
+"Parte del contenido me ha parecido desactualizado o repetitivo. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,contenido,informal,largo,1,3,contenidos_adecuados,1,3
+Los problemas técnicos son constantes y afectan mucho a mi aprendizaje. Este punto me genera bastante frustración.,muy_negativo,tecnologia,queja,medio,1,2,clase_visibilidad_pantalla,1,2
+La tecnología utilizada facilita mucho el seguimiento de las sesiones. Valoro mucho este aspecto del curso.,muy_positivo,tecnologia,elogio,medio,4,5,clase_calidad_audio,4,5
+"El contenido es profundo y a la vez fácil de seguir. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_positivo,contenido,informal,largo,4,5,contenidos_adecuados,4,5
+No estoy nada satisfecho con la forma de enseñar del profesor.,muy_negativo,profesor,formal,corto,1,2,preparado_clases,1,2
+"El profesor no consigue explicar los contenidos de forma comprensible. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_negativo,profesor,formal,largo,1,2,recomendaria_profesor,1,2
+"Estoy muy decepcionado con el resultado final del curso. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_negativo,general,formal,largo,1,2,ninguno,1,5
+"A veces las clases son más interesantes y otras más densas. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,clase,informal,largo,2,4,clase_duracion,2,4
+Solo he tenido pequeños problemas técnicos que se han resuelto rápido. Valoro mucho este aspecto del curso.,positivo,tecnologia,elogio,corto,3,5,clase_calidad_conexion,3,5
+"No tengo una opinión muy fuerte sobre el soporte, es razonable. Me gustaría que se introdujeran cambios en este sentido. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,soporte,sugerencia,largo,2,4,velocidad_respuesta,2,4
+Repetiría una formación similar con esta escuela.,positivo,general,formal,medio,3,5,ninguno,1,5
+"La experiencia global ha sido buena, con algunos puntos mejorables.",positivo,general,formal,corto,3,5,ninguno,1,5
+"Las dinámicas de clase me resultan poco útiles y repetitivas. Este punto me genera bastante frustración. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_negativo,metodologia,queja,largo,1,2,conocimientos_utiles_futuro,1,2
+El profesor explica los conceptos de forma muy clara y estructurada.,muy_positivo,profesor,formal,corto,4,5,mantiene_atencion,4,5
+"Las clases son correctas, sin algo especialmente destacable. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,clase,informal,largo,2,4,clase_conveniencia_dia,2,4
+La conexión y la plataforma fallan tan a menudo que desmotivan. Este punto me genera bastante frustración.,muy_negativo,tecnologia,queja,medio,1,2,clase_calidad_conexion,1,2
+Algunos temas del contenido me han resultado poco relevantes. Este punto me genera bastante frustración.,negativo,contenido,queja,medio,1,3,conocimientos_utiles_futuro,1,3
+"He tenido algunas incidencias técnicas, pero nada grave. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,tecnologia,formal,largo,2,4,clase_visibilidad_pantalla,2,4
+Muchos temas me parecen irrelevantes para mis objetivos.,muy_negativo,contenido,formal,corto,1,2,conocimientos_utiles_futuro,1,2
+Las clases suelen tener un ritmo adecuado en la mayoría de los días.,positivo,clase,informal,corto,3,5,clase_conveniencia_dia,3,5
+No recomendaría este curso a otras personas.,muy_negativo,general,queja,corto,1,2,ninguno,1,5
+"Hay varios aspectos del curso que me han dejado insatisfecho. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,general,constructivo,largo,1,3,ninguno,1,5
+"El ritmo de clase no siempre se adapta al grupo. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,clase,formal,largo,1,3,clase_conveniencia_dia,1,3
+Me siento muy acompañado por el profesor durante todo el curso. Valoro mucho este aspecto del curso.,muy_positivo,profesor,elogio,corto,4,5,recomendaria_profesor,4,5
+"La experiencia global ha sido algo decepcionante. Este punto me genera bastante frustración. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,general,queja,largo,1,3,ninguno,1,5
+En general la plataforma responde bien y es estable. Me gustaría que se introdujeran cambios en este sentido.,positivo,tecnologia,sugerencia,medio,3,5,clase_visibilidad_pantalla,3,5
+"He tenido algunas incidencias técnicas, pero nada grave. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,tecnologia,constructivo,largo,2,4,clase_visibilidad_pantalla,2,4
+El temario no siempre se ajusta a lo que esperaba aprender. Este punto me genera bastante frustración.,negativo,contenido,queja,medio,1,3,contenidos_adecuados,1,3
+La plataforma a veces se bloquea o responde lenta. Este punto me genera bastante frustración.,negativo,tecnologia,queja,medio,1,3,clase_visibilidad_pantalla,1,3
+"Me gustaría que la metodología fuera más interactiva. Este punto me genera bastante frustración. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,metodologia,queja,largo,1,3,organiza_actividades,1,3
+"En general estoy contento con el curso. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,general,constructivo,largo,3,5,ninguno,1,5
+"La mayor parte del contenido me resulta aplicable a mi trabajo. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,contenido,informal,largo,3,5,conocimientos_utiles_futuro,3,5
+Hay un buen equilibrio entre explicación y ejercicios prácticos. Me gustaría que se introdujeran cambios en este sentido.,positivo,metodologia,sugerencia,medio,3,5,grado_dificultad,3,5
+La mayoría de las sesiones me parecen poco aprovechables.,muy_negativo,clase,queja,corto,1,2,clase_horario,1,2
+"No tengo una opinión muy marcada sobre el profesor, es aceptable. Creo que aún se podrían mejorar algunos detalles.",neutral,profesor,constructivo,medio,2,4,dominio_materia,2,4
+Me siento cómodo participando en las clases.,positivo,clase,sugerencia,corto,3,5,clase_conveniencia_dia,3,5
+Echo en falta más actividades prácticas en esta metodología. Creo que aún se podrían mejorar algunos detalles.,negativo,metodologia,constructivo,corto,1,3,grado_dificultad,1,3
+Los temas tratados son muy relevantes para mi desarrollo profesional. Valoro mucho este aspecto del curso.,muy_positivo,contenido,elogio,medio,4,5,conocimientos_utiles_futuro,4,5
+Las conexiones fallan con bastante frecuencia. Creo que aún se podrían mejorar algunos detalles.,negativo,tecnologia,constructivo,medio,1,3,clase_calidad_audio,1,3
+Las dinámicas de clase me resultan poco útiles y repetitivas.,muy_negativo,metodologia,queja,corto,1,2,contenidos_adecuados,1,2
+"La metodología del curso no se adapta nada a mis necesidades. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_negativo,metodologia,formal,largo,1,2,organiza_actividades,1,2
+"A veces tardan un poco en contestar, pero termina resolviéndose.",neutral,soporte,informal,corto,2,4,velocidad_respuesta,2,4
+"Las clases son correctas, sin algo especialmente destacable.",neutral,clase,formal,medio,2,4,clase_duracion,2,4
+La mayor parte del contenido me resulta aplicable a mi trabajo.,positivo,contenido,constructivo,corto,3,5,conocimientos_utiles_futuro,3,5
+"La plataforma cumple su función, sin destacar demasiado. Me gustaría que se introdujeran cambios en este sentido. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,tecnologia,sugerencia,largo,2,4,clase_calidad_conexion,2,4
+"Me encanta la combinación de teoría y práctica que se utiliza en el curso. Valoro mucho este aspecto del curso. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_positivo,metodologia,elogio,largo,4,5,conocimientos_utiles_futuro,4,5
+"La experiencia tecnológica es satisfactoria en la mayoría de las clases. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,tecnologia,constructivo,largo,3,5,clase_calidad_conexion,3,5
+"La estructura de las sesiones es razonable, pero algo predecible. Me gustaría que se introdujeran cambios en este sentido. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,metodologia,sugerencia,largo,2,4,organiza_actividades,2,4
+En general estoy contento con el curso.,positivo,general,sugerencia,corto,3,5,ninguno,1,5
+"Las clases suelen tener un ritmo adecuado en la mayoría de los días. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,clase,informal,largo,3,5,clase_conveniencia_dia,3,5
+"En general estoy satisfecho con cómo el profesor lleva las clases. Me gustaría que se introdujeran cambios en este sentido. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,profesor,sugerencia,largo,3,5,accesible_y_atiende_consultas,3,5
+Las incidencias se acumulan sin una solución clara. Este punto me genera bastante frustración.,muy_negativo,soporte,queja,medio,1,2,utilidad_anuncios,1,2
+"Siento que la forma de trabajo dificulta mi aprendizaje en lugar de ayudar. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_negativo,metodologia,formal,largo,1,2,conocimientos_utiles_futuro,1,2
+"Las clases tienen un ritmo muy bueno y mantienen mi atención. Valoro mucho este aspecto del curso. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_positivo,clase,elogio,largo,4,5,clase_duracion,4,5
+Mi experiencia global con el curso ha sido claramente negativa.,muy_negativo,general,formal,corto,1,2,ninguno,1,5
+El balance del curso es claramente positivo para mí. Valoro mucho este aspecto del curso.,positivo,general,elogio,medio,3,5,ninguno,1,5
+"El temario cumple, sin aportar nada extraordinario. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,contenido,constructivo,largo,2,4,conocimientos_utiles_futuro,2,4
+"Los problemas técnicos son constantes y afectan mucho a mi aprendizaje. Este punto me genera bastante frustración. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_negativo,tecnologia,queja,largo,1,2,clase_visibilidad_pantalla,1,2
+El soporte casi nunca responde a tiempo a mis consultas.,muy_negativo,soporte,formal,corto,1,2,velocidad_respuesta,1,2
+Algunas sesiones se sienten poco productivas. Creo que aún se podrían mejorar algunos detalles.,negativo,clase,constructivo,medio,1,3,clase_horario,1,3
+El profesor domina el contenido y sabe transmitirlo de manera excelente.,muy_positivo,profesor,formal,corto,4,5,preparado_clases,4,5
+"A veces las clases son más interesantes y otras más densas. Me gustaría que se introdujeran cambios en este sentido. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,clase,sugerencia,largo,2,4,clase_duracion,2,4
+La atención al alumno en general es buena. Valoro mucho este aspecto del curso.,positivo,soporte,elogio,medio,3,5,utilidad_anuncios,3,5
+He tenido que insistir más de una vez para resolver algunos problemas. Este punto me genera bastante frustración.,negativo,soporte,queja,corto,1,3,utilidad_anuncios,1,3
+Mi experiencia global con el curso ha sido claramente negativa. Este punto me genera bastante frustración.,muy_negativo,general,queja,corto,1,2,ninguno,1,5
+"La estructura de las sesiones es razonable, pero algo predecible. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,metodologia,informal,largo,2,4,grado_dificultad,2,4
+La experiencia en clase es razonable y estable. Me gustaría que se introdujeran cambios en este sentido.,neutral,clase,sugerencia,medio,2,4,clase_conveniencia_dia,2,4
+Hay un buen equilibrio entre explicación y ejercicios prácticos.,positivo,metodologia,informal,corto,3,5,conocimientos_utiles_futuro,3,5
+"La experiencia en clase es razonable y estable. Me gustaría que se introdujeran cambios en este sentido. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,clase,sugerencia,largo,2,4,clase_duracion,2,4
+"El temario no siempre se ajusta a lo que esperaba aprender. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,contenido,informal,largo,1,3,contenidos_adecuados,1,3
+El curso ha superado mis expectativas en casi todos los aspectos.,muy_positivo,general,formal,medio,4,5,ninguno,1,5
+"La plataforma a veces se bloquea o responde lenta. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,tecnologia,formal,largo,1,3,clase_visibilidad_pantalla,1,3
+Solo he tenido pequeños problemas técnicos que se han resuelto rápido.,positivo,tecnologia,informal,medio,3,5,clase_calidad_audio,3,5
+"Siento que pierdo el tiempo en bastantes sesiones. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_negativo,clase,formal,largo,1,2,clase_horario,1,2
+El formato de las sesiones me ayuda a seguir el hilo del curso.,positivo,clase,informal,medio,3,5,clase_horario,3,5
+La atención al alumno podría ser bastante más ágil.,negativo,soporte,formal,corto,1,3,velocidad_respuesta,1,3
+El profesor responde a las dudas y facilita el seguimiento del temario. Me gustaría que se introdujeran cambios en este sentido.,positivo,profesor,sugerencia,medio,3,5,preparado_clases,3,5
+Estoy muy insatisfecho con la atención recibida por parte del soporte. Este punto me genera bastante frustración.,muy_negativo,soporte,queja,medio,1,2,utilidad_anuncios,1,2
+"La calidad del audio o vídeo a veces dificulta seguir la clase. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,tecnologia,constructivo,largo,1,3,clase_calidad_conexion,1,3
+"Las incidencias se acumulan sin una solución clara. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_negativo,soporte,formal,largo,1,2,utilidad_anuncios,1,2
+Hay partes del contenido que me interesan y otras que no tanto. Creo que aún se podrían mejorar algunos detalles.,neutral,contenido,constructivo,medio,2,4,conocimientos_utiles_futuro,2,4
+"Hay partes del contenido que me interesan y otras que no tanto. Me gustaría que se introdujeran cambios en este sentido. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,contenido,sugerencia,largo,2,4,conocimientos_utiles_futuro,2,4
+No he tenido prácticamente ningún problema técnico durante el curso.,muy_positivo,tecnologia,informal,medio,4,5,clase_visibilidad_pantalla,4,5
+En ocasiones las clases se hacen demasiado largas.,negativo,clase,informal,corto,1,3,clase_duracion,1,3
+La metodología es adecuada y me ayuda a entender mejor los temas.,positivo,metodologia,elogio,corto,3,5,conocimientos_utiles_futuro,3,5
+La experiencia en clase es razonable y estable.,neutral,clase,informal,medio,2,4,clase_duracion,2,4
+"En general estoy satisfecho con el contenido que se ha impartido. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,contenido,formal,largo,3,5,contenidos_adecuados,3,5
+Siento que la forma de trabajo dificulta mi aprendizaje en lugar de ayudar. Este punto me genera bastante frustración.,muy_negativo,metodologia,queja,medio,1,2,contenidos_adecuados,1,2
+"He echado en falta mayor profundidad en ciertos apartados. Este punto me genera bastante frustración. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,contenido,queja,largo,1,3,conocimientos_utiles_futuro,1,3
+"La forma de plantear las tareas no siempre ayuda a consolidar lo aprendido. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,metodologia,formal,largo,1,3,grado_dificultad,1,3
+Estoy muy insatisfecho con la parte tecnológica del curso.,muy_negativo,tecnologia,formal,medio,1,2,clase_calidad_audio,1,2
+No estoy nada satisfecho con la forma de enseñar del profesor. Este punto me genera bastante frustración.,muy_negativo,profesor,queja,medio,1,2,accesible_y_atiende_consultas,1,2
+"Hay varios aspectos del curso que me han dejado insatisfecho. Este punto me genera bastante frustración. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,general,queja,largo,1,3,ninguno,1,5
+El ritmo de clase no siempre se adapta al grupo. Este punto me genera bastante frustración.,negativo,clase,queja,medio,1,3,clase_horario,1,3
+Las soluciones que me han dado no siempre han sido claras.,negativo,soporte,informal,medio,1,3,utilidad_anuncios,1,3
+Me cuesta seguir las explicaciones del profesor en algunas sesiones. Este punto me genera bastante frustración.,negativo,profesor,queja,corto,1,3,mantiene_atencion,1,3
+Estoy muy insatisfecho con la atención recibida por parte del soporte.,muy_negativo,soporte,formal,corto,1,2,velocidad_respuesta,1,2
+"El profesor mantiene un nivel adecuado, sin puntos muy fuertes ni muy débiles.",neutral,profesor,formal,corto,2,4,preparado_clases,2,4
+He tenido que insistir más de una vez para resolver algunos problemas.,negativo,soporte,informal,corto,1,3,utilidad_anuncios,1,3
+Las clases tienen un ritmo muy bueno y mantienen mi atención.,muy_positivo,clase,informal,corto,4,5,clase_duracion,4,5
+"Las explicaciones del profesor son buenas y ayudan a entender la materia. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,profesor,formal,largo,3,5,preparado_clases,3,5
+"El ambiente en clase favorece mucho la participación. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_positivo,clase,formal,largo,4,5,clase_horario,4,5
+"No estoy nada satisfecho con la forma de enseñar del profesor. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_negativo,profesor,formal,largo,1,2,mantiene_atencion,1,2
+"Las actividades son aceptables, aunque podrían ser más variadas. Me gustaría que se introdujeran cambios en este sentido. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,metodologia,sugerencia,largo,2,4,organiza_actividades,2,4
+"En general estoy satisfecho con el contenido que se ha impartido. Me gustaría que se introdujeran cambios en este sentido. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,contenido,sugerencia,largo,3,5,conocimientos_utiles_futuro,3,5
+"El formato de las sesiones me ayuda a seguir el hilo del curso. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,clase,formal,largo,3,5,clase_horario,3,5
+"Me gustaría que la metodología fuera más interactiva. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,metodologia,constructivo,largo,1,3,conocimientos_utiles_futuro,1,3
+"La metodología del curso me resulta correcta, sin destacar demasiado. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,metodologia,informal,largo,2,4,grado_dificultad,2,4
+"El programa del curso cubre exactamente lo que esperaba aprender. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_positivo,contenido,informal,largo,4,5,conocimientos_utiles_futuro,4,5
+Parte del contenido me ha parecido desactualizado o repetitivo.,negativo,contenido,informal,medio,1,3,conocimientos_utiles_futuro,1,3
+La experiencia general ha sido peor de lo que esperaba. Este punto me genera bastante frustración.,muy_negativo,general,queja,medio,1,2,ninguno,1,5
+"Cuando he tenido incidencias, se han resuelto adecuadamente. Valoro mucho este aspecto del curso. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,soporte,elogio,largo,3,5,utilidad_anuncios,3,5
+"Las clases se me hacen muy pesadas y difíciles de seguir. Este punto me genera bastante frustración. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_negativo,clase,queja,largo,1,2,clase_conveniencia_dia,1,2
+"La plataforma a veces se bloquea o responde lenta. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,tecnologia,constructivo,largo,1,3,clase_calidad_conexion,1,3
+"La metodología a veces hace que las clases se sientan algo monótonas. Este punto me genera bastante frustración. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,metodologia,queja,largo,1,3,contenidos_adecuados,1,3
+El contenido es interesante y útil en la mayoría de los temas.,positivo,contenido,formal,corto,3,5,contenidos_adecuados,3,5
+"El contenido del curso está muy bien seleccionado y actualizado. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_positivo,contenido,informal,largo,4,5,contenidos_adecuados,4,5
+"Siento que la forma de trabajar es estándar, ni especialmente buena ni mala. Creo que aún se podrían mejorar algunos detalles.",neutral,metodologia,constructivo,medio,2,4,organiza_actividades,2,4
+Parte del contenido me ha parecido desactualizado o repetitivo. Este punto me genera bastante frustración.,negativo,contenido,queja,medio,1,3,conocimientos_utiles_futuro,1,3
+"El soporte responde de forma correcta, sin destacar demasiado. Creo que aún se podrían mejorar algunos detalles.",neutral,soporte,constructivo,medio,2,4,utilidad_anuncios,2,4
+"Solo he tenido pequeños problemas técnicos que se han resuelto rápido. Valoro mucho este aspecto del curso. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,tecnologia,elogio,largo,3,5,clase_visibilidad_pantalla,3,5
+La calidad de audio y vídeo en las clases online es excelente. Valoro mucho este aspecto del curso.,muy_positivo,tecnologia,elogio,medio,4,5,clase_calidad_conexion,4,5
+"El profesor domina el contenido y sabe transmitirlo de manera excelente. Valoro mucho este aspecto del curso. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_positivo,profesor,elogio,largo,4,5,accesible_y_atiende_consultas,4,5
+"En ocasiones las clases se hacen demasiado largas. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,clase,constructivo,largo,1,3,clase_horario,1,3
+Estoy muy decepcionado con el enfoque y selección del temario. Este punto me genera bastante frustración.,muy_negativo,contenido,queja,medio,1,2,conocimientos_utiles_futuro,1,2
+"Las explicaciones del profesor son buenas y ayudan a entender la materia. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,profesor,constructivo,largo,3,5,mantiene_atencion,3,5
+"No recomendaría este curso a otras personas. Este punto me genera bastante frustración. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_negativo,general,queja,largo,1,2,ninguno,1,5
+"No recomendaría este curso a otras personas. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_negativo,general,formal,largo,1,2,ninguno,1,5
+"El contenido es interesante y útil en la mayoría de los temas. Me gustaría que se introdujeran cambios en este sentido. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,contenido,sugerencia,largo,3,5,conocimientos_utiles_futuro,3,5
+"No tengo una opinión muy marcada sobre el profesor, es aceptable. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,profesor,constructivo,largo,2,4,dominio_materia,2,4
+"Las actividades son aceptables, aunque podrían ser más variadas. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,metodologia,informal,largo,2,4,contenidos_adecuados,2,4
+"El temario no siempre se ajusta a lo que esperaba aprender. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,contenido,constructivo,largo,1,3,contenidos_adecuados,1,3
+"Cuando he tenido incidencias, se han resuelto adecuadamente. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,soporte,formal,largo,3,5,utilidad_anuncios,3,5
+"El soporte responde de forma correcta, sin destacar demasiado. Me gustaría que se introdujeran cambios en este sentido.",neutral,soporte,sugerencia,medio,2,4,utilidad_anuncios,2,4
+"Las clases se me pasan rápido porque son dinámicas y entretenidas. Valoro mucho este aspecto del curso. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_positivo,clase,elogio,largo,4,5,clase_duracion,4,5
+Echo en falta más ejemplos o aclaraciones por parte del profesor.,negativo,profesor,formal,medio,1,3,mantiene_atencion,1,3
+"El balance del curso es claramente positivo para mí. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,general,formal,largo,3,5,ninguno,1,5
+"El profesor cumple con su función, sin destacar especialmente. Me gustaría que se introdujeran cambios en este sentido.",neutral,profesor,sugerencia,medio,2,4,dominio_materia,2,4
+Los materiales del curso aportan valor y complementan bien las clases. Me gustaría que se introdujeran cambios en este sentido.,positivo,contenido,sugerencia,medio,3,5,contenidos_adecuados,3,5
+"Las explicaciones del profesor me resultan confusas y poco útiles. Este punto me genera bastante frustración. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_negativo,profesor,queja,largo,1,2,recomendaria_profesor,1,2
+Las explicaciones del profesor son buenas y ayudan a entender la materia.,positivo,profesor,formal,medio,3,5,mantiene_atencion,3,5
+La plataforma a veces se bloquea o responde lenta.,negativo,tecnologia,informal,medio,1,3,clase_visibilidad_pantalla,1,3
+"Me siento muy acompañado por el soporte académico y técnico. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_positivo,soporte,formal,largo,4,5,velocidad_respuesta,4,5
+La organización de cada sesión hace que aproveche muy bien el tiempo. Valoro mucho este aspecto del curso.,muy_positivo,clase,elogio,medio,4,5,clase_horario,4,5
+"La atención es aceptable pero podría ser más proactiva. Me gustaría que se introdujeran cambios en este sentido. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,soporte,sugerencia,largo,2,4,velocidad_respuesta,2,4
+La plataforma funciona de forma muy fluida y sin interrupciones. Valoro mucho este aspecto del curso.,muy_positivo,tecnologia,elogio,corto,4,5,clase_visibilidad_pantalla,4,5
+En general las clases son agradables y productivas.,positivo,clase,formal,corto,3,5,clase_horario,3,5
+"No siento que el equipo de soporte se preocupe por mis problemas. Este punto me genera bastante frustración. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_negativo,soporte,queja,largo,1,2,utilidad_anuncios,1,2
+"Me cuesta mantener la atención durante toda la clase. Este punto me genera bastante frustración. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,clase,queja,largo,1,3,clase_duracion,1,3
+"Cuando he tenido incidencias, se han resuelto adecuadamente.",positivo,soporte,elogio,corto,3,5,velocidad_respuesta,3,5
+"Las dinámicas de clase me resultan poco útiles y repetitivas. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_negativo,metodologia,formal,largo,1,2,grado_dificultad,1,2
+"La tecnología utilizada facilita mucho el seguimiento de las sesiones. Valoro mucho este aspecto del curso. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_positivo,tecnologia,elogio,largo,4,5,clase_calidad_audio,4,5
+"La experiencia general ha sido peor de lo que esperaba. Este punto me genera bastante frustración. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_negativo,general,queja,largo,1,2,ninguno,1,5
+"La experiencia en clase es razonable y estable. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,clase,formal,largo,2,4,clase_duracion,2,4
+Me gustaría que la metodología fuera más interactiva. Este punto me genera bastante frustración.,negativo,metodologia,queja,medio,1,3,contenidos_adecuados,1,3
+La dedicación del profesor marca una diferencia enorme en mi aprendizaje. Valoro mucho este aspecto del curso.,muy_positivo,profesor,elogio,corto,4,5,accesible_y_atiende_consultas,4,5
+La experiencia tecnológica es satisfactoria en la mayoría de las clases. Valoro mucho este aspecto del curso.,positivo,tecnologia,elogio,medio,3,5,clase_calidad_audio,3,5
+La calidad de la conexión suele ser buena. Valoro mucho este aspecto del curso.,positivo,tecnologia,elogio,corto,3,5,clase_calidad_conexion,3,5
+Las respuestas del equipo de soporte son útiles la mayoría de las veces. Valoro mucho este aspecto del curso.,positivo,soporte,elogio,medio,3,5,utilidad_anuncios,3,5
+"He echado en falta mayor profundidad en ciertos apartados. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,contenido,constructivo,largo,1,3,contenidos_adecuados,1,3
+Me gustaría que la metodología fuera más interactiva. Creo que aún se podrían mejorar algunos detalles.,negativo,metodologia,constructivo,medio,1,3,organiza_actividades,1,3
+En general la plataforma responde bien y es estable. Valoro mucho este aspecto del curso.,positivo,tecnologia,elogio,medio,3,5,clase_calidad_audio,3,5
+"El profesor suele explicar bien, aunque a veces va un poco rápido. Creo que aún se podrían mejorar algunos detalles.",positivo,profesor,constructivo,medio,3,5,dominio_materia,3,5
+"La organización de cada sesión hace que aproveche muy bien el tiempo. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_positivo,clase,informal,largo,4,5,clase_duracion,4,5
+Las clases se me pasan rápido porque son dinámicas y entretenidas.,muy_positivo,clase,informal,corto,4,5,clase_horario,4,5
+"Me cuesta seguir las explicaciones del profesor en algunas sesiones. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,profesor,formal,largo,1,3,mantiene_atencion,1,3
+La forma de plantear las tareas no siempre ayuda a consolidar lo aprendido. Creo que aún se podrían mejorar algunos detalles.,negativo,metodologia,constructivo,medio,1,3,grado_dificultad,1,3
+Me cuesta seguir las explicaciones del profesor en algunas sesiones.,negativo,profesor,informal,corto,1,3,dominio_materia,1,3
+Algunas sesiones se sienten poco productivas.,negativo,clase,constructivo,corto,1,3,clase_conveniencia_dia,1,3
+No veo relación clara entre la metodología y los objetivos del curso. Este punto me genera bastante frustración.,muy_negativo,metodologia,queja,medio,1,2,conocimientos_utiles_futuro,1,2
+Me siento cómodo participando en las clases. Valoro mucho este aspecto del curso.,positivo,clase,elogio,medio,3,5,clase_conveniencia_dia,3,5
+La plataforma a veces se bloquea o responde lenta. Creo que aún se podrían mejorar algunos detalles.,negativo,tecnologia,constructivo,corto,1,3,clase_calidad_audio,1,3
+"La experiencia general ha sido muy positiva para mí. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_positivo,general,formal,largo,4,5,ninguno,1,5
+"Los temas tratados son muy relevantes para mi desarrollo profesional. Valoro mucho este aspecto del curso. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_positivo,contenido,elogio,largo,4,5,conocimientos_utiles_futuro,4,5
+"En general la plataforma responde bien y es estable. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,tecnologia,constructivo,largo,3,5,clase_calidad_conexion,3,5
+"El formato de las sesiones me ayuda a seguir el hilo del curso. Me gustaría que se introdujeran cambios en este sentido. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,clase,sugerencia,largo,3,5,clase_conveniencia_dia,3,5
+La metodología fomenta la participación y me mantiene motivado. Valoro mucho este aspecto del curso.,muy_positivo,metodologia,elogio,medio,4,5,conocimientos_utiles_futuro,4,5
+"Recomendaría este curso sin dudarlo a otras personas. Valoro mucho este aspecto del curso. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_positivo,general,elogio,largo,4,5,ninguno,1,5
+"La metodología del curso es muy práctica y facilita mucho el aprendizaje. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_positivo,metodologia,formal,largo,4,5,grado_dificultad,4,5
+"Estoy muy insatisfecho con la atención recibida por parte del soporte. Este punto me genera bastante frustración. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_negativo,soporte,queja,largo,1,2,utilidad_anuncios,1,2
+"El ambiente en clase favorece mucho la participación. Valoro mucho este aspecto del curso. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_positivo,clase,elogio,largo,4,5,clase_horario,4,5
+"La experiencia global ha sido buena, con algunos puntos mejorables. Creo que aún se podrían mejorar algunos detalles.",positivo,general,constructivo,medio,3,5,ninguno,1,5
+"Las actividades planteadas encajan bien con los objetivos del curso. Valoro mucho este aspecto del curso. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,metodologia,elogio,largo,3,5,organiza_actividades,3,5
+Repetiría una formación similar con esta escuela. Valoro mucho este aspecto del curso.,positivo,general,elogio,medio,3,5,ninguno,1,5
+"Siempre que he tenido una duda, el soporte me ha ayudado de inmediato. Valoro mucho este aspecto del curso.",muy_positivo,soporte,elogio,corto,4,5,utilidad_anuncios,4,5
+"La plataforma cumple su función, sin destacar demasiado. Me gustaría que se introdujeran cambios en este sentido.",neutral,tecnologia,sugerencia,medio,2,4,clase_visibilidad_pantalla,2,4
+El soporte suele responder en un tiempo razonable. Valoro mucho este aspecto del curso.,positivo,soporte,elogio,medio,3,5,utilidad_anuncios,3,5
+"La calidad de la conexión suele ser buena. Valoro mucho este aspecto del curso. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,tecnologia,elogio,largo,3,5,clase_visibilidad_pantalla,3,5
+"En conjunto, el curso no ha cumplido del todo mis expectativas. Creo que aún se podrían mejorar algunos detalles.",negativo,general,constructivo,medio,1,3,ninguno,1,5
+"La plataforma funciona de forma muy fluida y sin interrupciones. Valoro mucho este aspecto del curso. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_positivo,tecnologia,elogio,largo,4,5,clase_calidad_audio,4,5
+"El ritmo de clase no siempre se adapta al grupo. Este punto me genera bastante frustración. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,clase,queja,largo,1,3,clase_horario,1,3
+"La conexión y la plataforma fallan tan a menudo que desmotivan. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_negativo,tecnologia,formal,largo,1,2,clase_calidad_audio,1,2
+La tecnología utilizada facilita mucho el seguimiento de las sesiones.,muy_positivo,tecnologia,formal,corto,4,5,clase_calidad_conexion,4,5
+Las clases se me pasan rápido porque son dinámicas y entretenidas. Valoro mucho este aspecto del curso.,muy_positivo,clase,elogio,corto,4,5,clase_horario,4,5
+"En general las clases son agradables y productivas. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,clase,constructivo,largo,3,5,clase_horario,3,5
+"La tecnología utilizada facilita mucho el seguimiento de las sesiones. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_positivo,tecnologia,informal,largo,4,5,clase_visibilidad_pantalla,4,5
+La calidad del audio o vídeo a veces dificulta seguir la clase.,negativo,tecnologia,informal,corto,1,3,clase_visibilidad_pantalla,1,3
+"En general estoy satisfecho con el contenido que se ha impartido. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,contenido,constructivo,largo,3,5,contenidos_adecuados,3,5
+Algunos temas del contenido me han resultado poco relevantes.,negativo,contenido,formal,medio,1,3,contenidos_adecuados,1,3
+"Las clases se me hacen muy pesadas y difíciles de seguir. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_negativo,clase,formal,largo,1,2,clase_horario,1,2
+La metodología es adecuada y me ayuda a entender mejor los temas. Creo que aún se podrían mejorar algunos detalles.,positivo,metodologia,constructivo,medio,3,5,organiza_actividades,3,5
+La metodología del curso no se adapta nada a mis necesidades.,muy_negativo,metodologia,formal,corto,1,2,contenidos_adecuados,1,2
+Hay un buen equilibrio entre explicación y ejercicios prácticos. Valoro mucho este aspecto del curso.,positivo,metodologia,elogio,medio,3,5,conocimientos_utiles_futuro,3,5
+"El equipo de soporte responde rápido y soluciona los problemas eficazmente. Valoro mucho este aspecto del curso. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_positivo,soporte,elogio,largo,4,5,velocidad_respuesta,4,5
+"Ha habido cosas buenas y cosas mejorables, en equilibrio. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,general,informal,largo,2,4,ninguno,1,5
+"Los problemas técnicos son constantes y afectan mucho a mi aprendizaje. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_negativo,tecnologia,formal,largo,1,2,clase_calidad_audio,1,2
+"Las actividades planteadas encajan bien con los objetivos del curso. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,metodologia,constructivo,largo,3,5,grado_dificultad,3,5
+"Las actividades son aceptables, aunque podrían ser más variadas.",neutral,metodologia,informal,medio,2,4,organiza_actividades,2,4
+He echado en falta mayor profundidad en ciertos apartados.,negativo,contenido,informal,corto,1,3,contenidos_adecuados,1,3
+"He tenido algunas incidencias técnicas, pero nada grave. Me gustaría que se introdujeran cambios en este sentido. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,tecnologia,sugerencia,largo,2,4,clase_calidad_conexion,2,4
+"Las conexiones fallan con bastante frecuencia. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,tecnologia,informal,largo,1,3,clase_calidad_conexion,1,3
+El ritmo de clase no siempre se adapta al grupo. Creo que aún se podrían mejorar algunos detalles.,negativo,clase,constructivo,medio,1,3,clase_conveniencia_dia,1,3
+La dedicación del profesor marca una diferencia enorme en mi aprendizaje.,muy_positivo,profesor,informal,medio,4,5,accesible_y_atiende_consultas,4,5
+La mayor parte del contenido me resulta aplicable a mi trabajo. Creo que aún se podrían mejorar algunos detalles.,positivo,contenido,constructivo,corto,3,5,conocimientos_utiles_futuro,3,5
+El profesor no consigue explicar los contenidos de forma comprensible. Este punto me genera bastante frustración.,muy_negativo,profesor,queja,corto,1,2,mantiene_atencion,1,2
+Estoy muy satisfecho con la experiencia global del curso. Valoro mucho este aspecto del curso.,muy_positivo,general,elogio,medio,4,5,ninguno,1,5
+La atención al alumno es excelente y muy cercana. Valoro mucho este aspecto del curso.,muy_positivo,soporte,elogio,medio,4,5,velocidad_respuesta,4,5
+No tengo una percepción especialmente buena del curso en general. Creo que aún se podrían mejorar algunos detalles.,negativo,general,constructivo,medio,1,3,ninguno,1,5
+"En general estoy satisfecho con cómo el profesor lleva las clases. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,profesor,informal,largo,3,5,recomendaria_profesor,3,5
+Las dinámicas de clase me resultan poco útiles y repetitivas. Este punto me genera bastante frustración.,muy_negativo,metodologia,queja,medio,1,2,conocimientos_utiles_futuro,1,2
+Las clases suelen tener un ritmo adecuado en la mayoría de los días. Valoro mucho este aspecto del curso.,positivo,clase,elogio,medio,3,5,clase_horario,3,5
+"No tengo una opinión muy marcada sobre el profesor, es aceptable. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,profesor,informal,largo,2,4,preparado_clases,2,4
+"La metodología es adecuada y me ayuda a entender mejor los temas. Valoro mucho este aspecto del curso. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,metodologia,elogio,largo,3,5,grado_dificultad,3,5
+"Parte del contenido me ha parecido desactualizado o repetitivo. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,contenido,constructivo,largo,1,3,contenidos_adecuados,1,3
+Estoy muy decepcionado con el resultado final del curso. Este punto me genera bastante frustración.,muy_negativo,general,queja,corto,1,2,ninguno,1,5
+"La atención al alumno en general es buena. Me gustaría que se introdujeran cambios en este sentido. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,soporte,sugerencia,largo,3,5,velocidad_respuesta,3,5
+"Las respuestas del equipo de soporte son útiles la mayoría de las veces. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,soporte,formal,largo,3,5,velocidad_respuesta,3,5
+"Las clases son correctas, sin algo especialmente destacable. Creo que aún se podrían mejorar algunos detalles.",neutral,clase,constructivo,corto,2,4,clase_conveniencia_dia,2,4
+El contenido del curso está muy bien seleccionado y actualizado. Valoro mucho este aspecto del curso.,muy_positivo,contenido,elogio,medio,4,5,contenidos_adecuados,4,5
+"Ha habido cosas buenas y cosas mejorables, en equilibrio.",neutral,general,constructivo,corto,2,4,ninguno,1,5
+"La atención al alumno podría ser bastante más ágil. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,soporte,informal,largo,1,3,velocidad_respuesta,1,3
+"Siempre que he tenido una duda, el soporte me ha ayudado de inmediato.",muy_positivo,soporte,informal,corto,4,5,utilidad_anuncios,4,5
+La calidad del audio o vídeo a veces dificulta seguir la clase. Creo que aún se podrían mejorar algunos detalles.,negativo,tecnologia,constructivo,corto,1,3,clase_visibilidad_pantalla,1,3
+El nivel del contenido me parece adecuado pero no especialmente diferencial.,neutral,contenido,informal,medio,2,4,contenidos_adecuados,2,4
+"Mi experiencia general con el curso es correcta, sin ser espectacular.",neutral,general,informal,medio,2,4,ninguno,1,5
+"He tenido algunas incidencias técnicas, pero nada grave. Creo que aún se podrían mejorar algunos detalles.",neutral,tecnologia,constructivo,medio,2,4,clase_visibilidad_pantalla,2,4
+"El ritmo de clase es aceptable, aunque no siempre perfecto. Creo que aún se podrían mejorar algunos detalles.",neutral,clase,constructivo,medio,2,4,clase_horario,2,4
+En ocasiones las clases se hacen demasiado largas. Este punto me genera bastante frustración.,negativo,clase,queja,medio,1,3,clase_duracion,1,3
+No siento que el equipo de soporte se preocupe por mis problemas. Este punto me genera bastante frustración.,muy_negativo,soporte,queja,medio,1,2,utilidad_anuncios,1,2
+"La metodología a veces hace que las clases se sientan algo monótonas. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,metodologia,formal,largo,1,3,grado_dificultad,1,3
+La atención al alumno podría ser bastante más ágil. Creo que aún se podrían mejorar algunos detalles.,negativo,soporte,constructivo,corto,1,3,utilidad_anuncios,1,3
+"Siempre que he tenido una duda, el soporte me ha ayudado de inmediato. Valoro mucho este aspecto del curso. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_positivo,soporte,elogio,largo,4,5,velocidad_respuesta,4,5
+El contenido es interesante y útil en la mayoría de los temas. Me gustaría que se introdujeran cambios en este sentido.,positivo,contenido,sugerencia,medio,3,5,contenidos_adecuados,3,5
+El temario no siempre se ajusta a lo que esperaba aprender.,negativo,contenido,informal,medio,1,3,contenidos_adecuados,1,3
+"Cuando he tenido incidencias, se han resuelto adecuadamente. Me gustaría que se introdujeran cambios en este sentido. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,soporte,sugerencia,largo,3,5,utilidad_anuncios,3,5
+"La metodología del curso me resulta correcta, sin destacar demasiado. Me gustaría que se introdujeran cambios en este sentido.",neutral,metodologia,sugerencia,corto,2,4,contenidos_adecuados,2,4
+"Hay partes del contenido que me interesan y otras que no tanto. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,contenido,constructivo,largo,2,4,contenidos_adecuados,2,4
+La forma de estructurar las actividades hace que todo sea muy fluido.,muy_positivo,metodologia,formal,medio,4,5,grado_dificultad,4,5
+No recomendaría este curso a otras personas. Este punto me genera bastante frustración.,muy_negativo,general,queja,medio,1,2,ninguno,1,5
+"El profesor explica los conceptos de forma muy clara y estructurada. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_positivo,profesor,formal,largo,4,5,accesible_y_atiende_consultas,4,5
+Estoy muy insatisfecho con la parte tecnológica del curso. Este punto me genera bastante frustración.,muy_negativo,tecnologia,queja,medio,1,2,clase_visibilidad_pantalla,1,2
+La metodología del curso es muy práctica y facilita mucho el aprendizaje. Valoro mucho este aspecto del curso.,muy_positivo,metodologia,elogio,medio,4,5,organiza_actividades,4,5
+"El profesor suele explicar bien, aunque a veces va un poco rápido. Valoro mucho este aspecto del curso.",positivo,profesor,elogio,medio,3,5,dominio_materia,3,5
+"El curso ha superado mis expectativas en casi todos los aspectos. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_positivo,general,formal,largo,4,5,ninguno,1,5
+Los materiales del curso aportan valor y complementan bien las clases. Valoro mucho este aspecto del curso.,positivo,contenido,elogio,medio,3,5,contenidos_adecuados,3,5
+El equipo de soporte responde rápido y soluciona los problemas eficazmente. Valoro mucho este aspecto del curso.,muy_positivo,soporte,elogio,medio,4,5,velocidad_respuesta,4,5
+"El nivel del contenido me parece adecuado pero no especialmente diferencial. Me gustaría que se introdujeran cambios en este sentido. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,contenido,sugerencia,largo,2,4,contenidos_adecuados,2,4
+"La plataforma cumple su función, sin destacar demasiado. Creo que aún se podrían mejorar algunos detalles.",neutral,tecnologia,constructivo,medio,2,4,clase_visibilidad_pantalla,2,4
+"No he encontrado utilidad real en la mayoría de los contenidos. Este punto me genera bastante frustración. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_negativo,contenido,queja,largo,1,2,contenidos_adecuados,1,2
+En varias ocasiones he sentido que el soporte tardaba demasiado en responder. Este punto me genera bastante frustración.,negativo,soporte,queja,corto,1,3,velocidad_respuesta,1,3
+"He tenido varios problemas técnicos que cortan el ritmo de la sesión. Este punto me genera bastante frustración. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,tecnologia,queja,largo,1,3,clase_calidad_conexion,1,3
+Me siento muy acompañado por el profesor durante todo el curso.,muy_positivo,profesor,formal,corto,4,5,dominio_materia,4,5
+"La forma de estructurar las actividades hace que todo sea muy fluido. Valoro mucho este aspecto del curso. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_positivo,metodologia,elogio,largo,4,5,organiza_actividades,4,5
+"Las actividades son aceptables, aunque podrían ser más variadas. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,metodologia,constructivo,largo,2,4,organiza_actividades,2,4
+"La tecnología utilizada es correcta, con algún fallo puntual. Me gustaría que se introdujeran cambios en este sentido.",neutral,tecnologia,sugerencia,medio,2,4,clase_calidad_conexion,2,4
+"Mi experiencia general con el curso es correcta, sin ser espectacular. Me gustaría que se introdujeran cambios en este sentido. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,general,sugerencia,largo,2,4,ninguno,1,5
+En general estoy satisfecho con cómo el profesor lleva las clases.,positivo,profesor,sugerencia,corto,3,5,accesible_y_atiende_consultas,3,5
+"Ha habido cosas buenas y cosas mejorables, en equilibrio. Me gustaría que se introdujeran cambios en este sentido. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,general,sugerencia,largo,2,4,ninguno,1,5
+En general la metodología me parece bastante acertada. Me gustaría que se introdujeran cambios en este sentido.,positivo,metodologia,sugerencia,medio,3,5,conocimientos_utiles_futuro,3,5
+"La mayor parte del contenido me resulta aplicable a mi trabajo. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,contenido,constructivo,largo,3,5,contenidos_adecuados,3,5
+Los problemas técnicos son constantes y afectan mucho a mi aprendizaje.,muy_negativo,tecnologia,formal,corto,1,2,clase_calidad_audio,1,2
+"La experiencia global ha sido buena, con algunos puntos mejorables. Valoro mucho este aspecto del curso.",positivo,general,elogio,medio,3,5,ninguno,1,5
+La experiencia tecnológica es satisfactoria en la mayoría de las clases.,positivo,tecnologia,formal,corto,3,5,clase_visibilidad_pantalla,3,5
+No veo relación clara entre la metodología y los objetivos del curso.,muy_negativo,metodologia,formal,medio,1,2,organiza_actividades,1,2
+"El formato de las sesiones me ayuda a seguir el hilo del curso. Valoro mucho este aspecto del curso. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,clase,elogio,largo,3,5,clase_horario,3,5
+"No he tenido prácticamente ningún problema técnico durante el curso. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_positivo,tecnologia,formal,largo,4,5,clase_calidad_conexion,4,5
+"En conjunto, el curso no ha cumplido del todo mis expectativas. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,general,constructivo,largo,1,3,ninguno,1,5
+"He echado en falta mayor profundidad en ciertos apartados. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,contenido,formal,largo,1,3,conocimientos_utiles_futuro,1,3
+La metodología fomenta la participación y me mantiene motivado.,muy_positivo,metodologia,informal,corto,4,5,conocimientos_utiles_futuro,4,5
+A veces las clases son más interesantes y otras más densas. Me gustaría que se introdujeran cambios en este sentido.,neutral,clase,sugerencia,medio,2,4,clase_duracion,2,4
+La atención al alumno en general es buena. Creo que aún se podrían mejorar algunos detalles.,positivo,soporte,constructivo,medio,3,5,velocidad_respuesta,3,5
+A veces el profesor no consigue que los conceptos queden claros.,negativo,profesor,formal,medio,1,3,recomendaria_profesor,1,3
+"La mayor parte del contenido me resulta aplicable a mi trabajo. Me gustaría que se introdujeran cambios en este sentido. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,contenido,sugerencia,largo,3,5,contenidos_adecuados,3,5
+El programa del curso cubre exactamente lo que esperaba aprender. Valoro mucho este aspecto del curso.,muy_positivo,contenido,elogio,medio,4,5,conocimientos_utiles_futuro,4,5
+"Las respuestas del equipo de soporte son útiles la mayoría de las veces. Me gustaría que se introdujeran cambios en este sentido. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,soporte,sugerencia,largo,3,5,utilidad_anuncios,3,5
+"No siento que el equipo de soporte se preocupe por mis problemas. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_negativo,soporte,formal,largo,1,2,utilidad_anuncios,1,2
+"El contenido es correcto, aunque algunos temas me han parecido básicos. Me gustaría que se introdujeran cambios en este sentido. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,contenido,sugerencia,largo,2,4,conocimientos_utiles_futuro,2,4
+"La forma de estructurar las actividades hace que todo sea muy fluido. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_positivo,metodologia,informal,largo,4,5,contenidos_adecuados,4,5
+"Cuando he tenido incidencias, se han resuelto adecuadamente. Valoro mucho este aspecto del curso.",positivo,soporte,elogio,medio,3,5,velocidad_respuesta,3,5
+"El curso ha cumplido, pero no ha destacado demasiado. Me gustaría que se introdujeran cambios en este sentido.",neutral,general,sugerencia,medio,2,4,ninguno,1,5
+"El nivel del contenido me parece adecuado pero no especialmente diferencial. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,contenido,formal,largo,2,4,contenidos_adecuados,2,4
+"Mi experiencia general con el curso es correcta, sin ser espectacular. Creo que aún se podrían mejorar algunos detalles.",neutral,general,constructivo,medio,2,4,ninguno,1,5
+"Hay partes del contenido que me interesan y otras que no tanto. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,contenido,informal,largo,2,4,conocimientos_utiles_futuro,2,4
+"Siento que la forma de trabajar es estándar, ni especialmente buena ni mala. Me gustaría que se introdujeran cambios en este sentido.",neutral,metodologia,sugerencia,medio,2,4,conocimientos_utiles_futuro,2,4
+"Estoy muy insatisfecho con la parte tecnológica del curso. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_negativo,tecnologia,formal,largo,1,2,clase_calidad_conexion,1,2
+En general la metodología me parece bastante acertada.,positivo,metodologia,informal,corto,3,5,grado_dificultad,3,5
+"La experiencia global ha sido buena, con algunos puntos mejorables. Valoro mucho este aspecto del curso. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,general,elogio,largo,3,5,ninguno,1,5
+"La atención es aceptable pero podría ser más proactiva. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,soporte,constructivo,largo,2,4,velocidad_respuesta,2,4
+"En general las clases son agradables y productivas. Me gustaría que se introdujeran cambios en este sentido. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,clase,sugerencia,largo,3,5,clase_duracion,3,5
+"Me siento muy acompañado por el soporte académico y técnico. Valoro mucho este aspecto del curso. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_positivo,soporte,elogio,largo,4,5,velocidad_respuesta,4,5
+"Siento que la forma de trabajar es estándar, ni especialmente buena ni mala. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,metodologia,constructivo,largo,2,4,organiza_actividades,2,4
+"La metodología fomenta la participación y me mantiene motivado. Valoro mucho este aspecto del curso. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_positivo,metodologia,elogio,largo,4,5,organiza_actividades,4,5
+Repetiría una formación similar con esta escuela. Creo que aún se podrían mejorar algunos detalles.,positivo,general,constructivo,medio,3,5,ninguno,1,5
+"Estoy muy satisfecho con la experiencia global del curso. Valoro mucho este aspecto del curso. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_positivo,general,elogio,largo,4,5,ninguno,1,5
+La calidad del audio o vídeo a veces dificulta seguir la clase. Este punto me genera bastante frustración.,negativo,tecnologia,queja,medio,1,3,clase_calidad_conexion,1,3
+"Siento que pierdo el tiempo en bastantes sesiones. Este punto me genera bastante frustración. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_negativo,clase,queja,largo,1,2,clase_conveniencia_dia,1,2
+La forma de estructurar las actividades hace que todo sea muy fluido. Valoro mucho este aspecto del curso.,muy_positivo,metodologia,elogio,corto,4,5,contenidos_adecuados,4,5
+En general estoy satisfecho con el contenido que se ha impartido. Creo que aún se podrían mejorar algunos detalles.,positivo,contenido,constructivo,medio,3,5,contenidos_adecuados,3,5
+Las conexiones fallan con bastante frecuencia. Este punto me genera bastante frustración.,negativo,tecnologia,queja,medio,1,3,clase_visibilidad_pantalla,1,3
+"Las soluciones que me han dado no siempre han sido claras. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,soporte,formal,largo,1,3,velocidad_respuesta,1,3
+"El soporte responde de forma correcta, sin destacar demasiado. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,soporte,informal,largo,2,4,velocidad_respuesta,2,4
+El equipo de soporte responde rápido y soluciona los problemas eficazmente.,muy_positivo,soporte,elogio,corto,4,5,utilidad_anuncios,4,5
+"No he encontrado utilidad real en la mayoría de los contenidos. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_negativo,contenido,formal,largo,1,2,contenidos_adecuados,1,2
+Los materiales del curso aportan valor y complementan bien las clases. Creo que aún se podrían mejorar algunos detalles.,positivo,contenido,constructivo,medio,3,5,contenidos_adecuados,3,5
+"No tengo una opinión muy fuerte sobre el soporte, es razonable. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,soporte,informal,largo,2,4,utilidad_anuncios,2,4
+"Me siento perdido en las clases por la falta de claridad del profesor. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_negativo,profesor,formal,largo,1,2,mantiene_atencion,1,2
+He tenido varios problemas técnicos que cortan el ritmo de la sesión. Creo que aún se podrían mejorar algunos detalles.,negativo,tecnologia,constructivo,medio,1,3,clase_visibilidad_pantalla,1,3
+"La experiencia global ha sido buena, con algunos puntos mejorables. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,general,constructivo,largo,3,5,ninguno,1,5
+"Siento que la forma de trabajar es estándar, ni especialmente buena ni mala. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,metodologia,formal,largo,2,4,grado_dificultad,2,4
+"En ocasiones las clases se hacen demasiado largas. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,clase,formal,largo,1,3,clase_horario,1,3
+"El curso ha cumplido, pero no ha destacado demasiado. Me gustaría que se introdujeran cambios en este sentido. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,general,sugerencia,largo,2,4,ninguno,1,5
+Estoy muy decepcionado con el enfoque y selección del temario.,muy_negativo,contenido,formal,medio,1,2,conocimientos_utiles_futuro,1,2
+El profesor domina el contenido y sabe transmitirlo de manera excelente. Valoro mucho este aspecto del curso.,muy_positivo,profesor,elogio,medio,4,5,dominio_materia,4,5
+"Estoy muy decepcionado con el enfoque y selección del temario. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_negativo,contenido,formal,largo,1,2,conocimientos_utiles_futuro,1,2
+"En general la metodología me parece bastante acertada. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,metodologia,constructivo,largo,3,5,contenidos_adecuados,3,5
+En general estoy satisfecho con el contenido que se ha impartido. Me gustaría que se introdujeran cambios en este sentido.,positivo,contenido,sugerencia,medio,3,5,conocimientos_utiles_futuro,3,5
+"La atención al alumno en general es buena. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,soporte,informal,largo,3,5,velocidad_respuesta,3,5
+"La tecnología utilizada es correcta, con algún fallo puntual. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,tecnologia,constructivo,largo,2,4,clase_calidad_audio,2,4
+"Echo en falta más ejemplos o aclaraciones por parte del profesor. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,profesor,informal,largo,1,3,preparado_clases,1,3
+No disfruto las clases y a menudo desconecto. Este punto me genera bastante frustración.,muy_negativo,clase,queja,medio,1,2,clase_horario,1,2
+"La organización de cada sesión hace que aproveche muy bien el tiempo. Valoro mucho este aspecto del curso. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_positivo,clase,elogio,largo,4,5,clase_horario,4,5
+"El profesor mantiene un nivel adecuado, sin puntos muy fuertes ni muy débiles. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,profesor,constructivo,largo,2,4,mantiene_atencion,2,4
+Parte del contenido me ha parecido desactualizado o repetitivo. Creo que aún se podrían mejorar algunos detalles.,negativo,contenido,constructivo,medio,1,3,contenidos_adecuados,1,3
+"El profesor mantiene un nivel adecuado, sin puntos muy fuertes ni muy débiles. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,profesor,informal,largo,2,4,preparado_clases,2,4
+La experiencia en clase es razonable y estable. Creo que aún se podrían mejorar algunos detalles.,neutral,clase,constructivo,medio,2,4,clase_duracion,2,4
+"Las explicaciones del profesor son correctas pero podrían ser más dinámicas. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,profesor,formal,largo,2,4,dominio_materia,2,4
+"El profesor suele explicar bien, aunque a veces va un poco rápido. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,profesor,formal,largo,3,5,accesible_y_atiende_consultas,3,5
+"He tenido que insistir más de una vez para resolver algunos problemas. Este punto me genera bastante frustración. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,soporte,queja,largo,1,3,utilidad_anuncios,1,3
+El temario no siempre se ajusta a lo que esperaba aprender. Creo que aún se podrían mejorar algunos detalles.,negativo,contenido,constructivo,corto,1,3,contenidos_adecuados,1,3
+La experiencia tecnológica es satisfactoria en la mayoría de las clases. Me gustaría que se introdujeran cambios en este sentido.,positivo,tecnologia,sugerencia,corto,3,5,clase_visibilidad_pantalla,3,5
+"Ha habido cosas buenas y cosas mejorables, en equilibrio. Me gustaría que se introdujeran cambios en este sentido.",neutral,general,sugerencia,medio,2,4,ninguno,1,5
+Las clases suelen tener un ritmo adecuado en la mayoría de los días. Creo que aún se podrían mejorar algunos detalles.,positivo,clase,constructivo,medio,3,5,clase_duracion,3,5
+"Los materiales del curso aportan valor y complementan bien las clases. Me gustaría que se introdujeran cambios en este sentido. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,contenido,sugerencia,largo,3,5,conocimientos_utiles_futuro,3,5
+"El profesor mantiene un nivel adecuado, sin puntos muy fuertes ni muy débiles. Me gustaría que se introdujeran cambios en este sentido.",neutral,profesor,sugerencia,corto,2,4,recomendaria_profesor,2,4
+Algunas sesiones se sienten poco productivas. Este punto me genera bastante frustración.,negativo,clase,queja,medio,1,3,clase_conveniencia_dia,1,3
+"El nivel del contenido me parece adecuado pero no especialmente diferencial. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,contenido,constructivo,largo,2,4,contenidos_adecuados,2,4
+"A veces las clases son más interesantes y otras más densas. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,clase,constructivo,largo,2,4,clase_horario,2,4
+"Ha habido cosas buenas y cosas mejorables, en equilibrio. Creo que aún se podrían mejorar algunos detalles.",neutral,general,constructivo,corto,2,4,ninguno,1,5
+La atención es aceptable pero podría ser más proactiva.,neutral,soporte,formal,medio,2,4,utilidad_anuncios,2,4
+"El contenido del curso no ha cumplido mis expectativas. Este punto me genera bastante frustración. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_negativo,contenido,queja,largo,1,2,contenidos_adecuados,1,2
+"Solo he tenido pequeños problemas técnicos que se han resuelto rápido. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,tecnologia,formal,largo,3,5,clase_calidad_audio,3,5
+Hay varios aspectos del curso que me han dejado insatisfecho. Creo que aún se podrían mejorar algunos detalles.,negativo,general,constructivo,medio,1,3,ninguno,1,5
+En varias ocasiones he sentido que el soporte tardaba demasiado en responder. Creo que aún se podrían mejorar algunos detalles.,negativo,soporte,constructivo,corto,1,3,velocidad_respuesta,1,3
+Recomendaría este curso sin dudarlo a otras personas. Valoro mucho este aspecto del curso.,muy_positivo,general,elogio,corto,4,5,ninguno,1,5
+"Estoy muy insatisfecho con la parte tecnológica del curso. Este punto me genera bastante frustración. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_negativo,tecnologia,queja,largo,1,2,clase_visibilidad_pantalla,1,2
+Muchos temas me parecen irrelevantes para mis objetivos. Este punto me genera bastante frustración.,muy_negativo,contenido,queja,corto,1,2,contenidos_adecuados,1,2
+"Cuando he tenido incidencias, se han resuelto adecuadamente. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,soporte,constructivo,largo,3,5,velocidad_respuesta,3,5
+La metodología es adecuada y me ayuda a entender mejor los temas. Me gustaría que se introdujeran cambios en este sentido.,positivo,metodologia,sugerencia,medio,3,5,contenidos_adecuados,3,5
+En general estoy satisfecho con cómo el profesor lleva las clases. Me gustaría que se introdujeran cambios en este sentido.,positivo,profesor,sugerencia,medio,3,5,preparado_clases,3,5
+Las clases tienen un ritmo muy bueno y mantienen mi atención. Valoro mucho este aspecto del curso.,muy_positivo,clase,elogio,medio,4,5,clase_duracion,4,5
+"La metodología del curso me resulta correcta, sin destacar demasiado. Me gustaría que se introdujeran cambios en este sentido. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,metodologia,sugerencia,largo,2,4,organiza_actividades,2,4
+"El curso ha cumplido, pero no ha destacado demasiado. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,general,constructivo,largo,2,4,ninguno,1,5
+"La estructura de las sesiones es razonable, pero algo predecible. Creo que aún se podrían mejorar algunos detalles.",neutral,metodologia,constructivo,medio,2,4,conocimientos_utiles_futuro,2,4
+"El soporte casi nunca responde a tiempo a mis consultas. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_negativo,soporte,formal,largo,1,2,velocidad_respuesta,1,2
+"He tenido que insistir más de una vez para resolver algunos problemas. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,soporte,formal,largo,1,3,velocidad_respuesta,1,3
+No siempre el profesor responde de forma clara a las dudas. Este punto me genera bastante frustración.,negativo,profesor,queja,medio,1,3,dominio_materia,1,3
+Siento que pierdo el tiempo en bastantes sesiones.,muy_negativo,clase,formal,corto,1,2,clase_conveniencia_dia,1,2
+En general la metodología me parece bastante acertada. Valoro mucho este aspecto del curso.,positivo,metodologia,elogio,medio,3,5,conocimientos_utiles_futuro,3,5
+"La calidad de la conexión suele ser buena. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,tecnologia,constructivo,largo,3,5,clase_visibilidad_pantalla,3,5
+"Las incidencias se acumulan sin una solución clara. Este punto me genera bastante frustración. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_negativo,soporte,queja,largo,1,2,utilidad_anuncios,1,2
+"A veces tardan un poco en contestar, pero termina resolviéndose. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,soporte,informal,largo,2,4,utilidad_anuncios,2,4
+"Los temas tratados son muy relevantes para mi desarrollo profesional. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_positivo,contenido,informal,largo,4,5,conocimientos_utiles_futuro,4,5
+Las respuestas del equipo de soporte son útiles la mayoría de las veces. Me gustaría que se introdujeran cambios en este sentido.,positivo,soporte,sugerencia,medio,3,5,utilidad_anuncios,3,5
+Me encanta la combinación de teoría y práctica que se utiliza en el curso. Valoro mucho este aspecto del curso.,muy_positivo,metodologia,elogio,corto,4,5,conocimientos_utiles_futuro,4,5
+"El contenido es profundo y a la vez fácil de seguir. Valoro mucho este aspecto del curso. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_positivo,contenido,elogio,largo,4,5,contenidos_adecuados,4,5
+"La tecnología utilizada es correcta, con algún fallo puntual. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,tecnologia,formal,largo,2,4,clase_visibilidad_pantalla,2,4
+El soporte suele responder en un tiempo razonable. Me gustaría que se introdujeran cambios en este sentido.,positivo,soporte,sugerencia,corto,3,5,velocidad_respuesta,3,5
+"El soporte casi nunca responde a tiempo a mis consultas. Este punto me genera bastante frustración. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_negativo,soporte,queja,largo,1,2,velocidad_respuesta,1,2
+"A veces el profesor no consigue que los conceptos queden claros. Este punto me genera bastante frustración. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,profesor,queja,largo,1,3,recomendaria_profesor,1,3
+Las clases se me hacen muy pesadas y difíciles de seguir. Este punto me genera bastante frustración.,muy_negativo,clase,queja,medio,1,2,clase_duracion,1,2
+"En general la metodología me parece bastante acertada. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,metodologia,formal,largo,3,5,grado_dificultad,3,5
+"A veces tardan un poco en contestar, pero termina resolviéndose. Me gustaría que se introdujeran cambios en este sentido.",neutral,soporte,sugerencia,medio,2,4,utilidad_anuncios,2,4
+"La estructura de las sesiones es razonable, pero algo predecible. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,metodologia,constructivo,largo,2,4,grado_dificultad,2,4
+El balance del curso es claramente positivo para mí. Me gustaría que se introdujeran cambios en este sentido.,positivo,general,sugerencia,medio,3,5,ninguno,1,5
+"La metodología del curso me resulta correcta, sin destacar demasiado. Creo que aún se podrían mejorar algunos detalles.",neutral,metodologia,constructivo,medio,2,4,grado_dificultad,2,4
+"La calidad de la conexión suele ser buena. Me gustaría que se introdujeran cambios en este sentido. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,tecnologia,sugerencia,largo,3,5,clase_visibilidad_pantalla,3,5
+"El profesor responde a las dudas y facilita el seguimiento del temario. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,profesor,constructivo,largo,3,5,recomendaria_profesor,3,5
+"El profesor mantiene un nivel adecuado, sin puntos muy fuertes ni muy débiles. Creo que aún se podrían mejorar algunos detalles.",neutral,profesor,constructivo,medio,2,4,dominio_materia,2,4
+"Siempre que he tenido una duda, el soporte me ha ayudado de inmediato. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_positivo,soporte,informal,largo,4,5,velocidad_respuesta,4,5
+"El profesor mantiene un nivel adecuado, sin puntos muy fuertes ni muy débiles. Me gustaría que se introdujeran cambios en este sentido. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,profesor,sugerencia,largo,2,4,accesible_y_atiende_consultas,2,4
+"No tengo una opinión muy fuerte sobre el soporte, es razonable. Me gustaría que se introdujeran cambios en este sentido.",neutral,soporte,sugerencia,medio,2,4,utilidad_anuncios,2,4
+"El contenido es interesante y útil en la mayoría de los temas. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,contenido,constructivo,largo,3,5,conocimientos_utiles_futuro,3,5
+Las actividades planteadas encajan bien con los objetivos del curso. Creo que aún se podrían mejorar algunos detalles.,positivo,metodologia,constructivo,medio,3,5,contenidos_adecuados,3,5
+Las actividades planteadas encajan bien con los objetivos del curso. Valoro mucho este aspecto del curso.,positivo,metodologia,elogio,medio,3,5,grado_dificultad,3,5
+"La calidad del audio o vídeo a veces dificulta seguir la clase. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,tecnologia,formal,largo,1,3,clase_calidad_conexion,1,3
+"Repetiría una formación similar con esta escuela. Valoro mucho este aspecto del curso. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,general,elogio,largo,3,5,ninguno,1,5
+Hay partes del contenido que me interesan y otras que no tanto. Me gustaría que se introdujeran cambios en este sentido.,neutral,contenido,sugerencia,medio,2,4,conocimientos_utiles_futuro,2,4
+"Siento que la forma de trabajo dificulta mi aprendizaje en lugar de ayudar. Este punto me genera bastante frustración. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_negativo,metodologia,queja,largo,1,2,organiza_actividades,1,2
+"La calidad técnica es aceptable, pero mejorable. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,tecnologia,informal,largo,2,4,clase_visibilidad_pantalla,2,4
+"La metodología del curso me resulta correcta, sin destacar demasiado. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,metodologia,constructivo,largo,2,4,contenidos_adecuados,2,4
+"Me siento cómodo participando en las clases. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,clase,constructivo,largo,3,5,clase_duracion,3,5
+A veces el profesor no consigue que los conceptos queden claros. Este punto me genera bastante frustración.,negativo,profesor,queja,corto,1,3,dominio_materia,1,3
+"La metodología es adecuada y me ayuda a entender mejor los temas. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,metodologia,constructivo,largo,3,5,conocimientos_utiles_futuro,3,5
+"Me cuesta seguir las explicaciones del profesor en algunas sesiones. Este punto me genera bastante frustración. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,profesor,queja,largo,1,3,preparado_clases,1,3
+La atención es aceptable pero podría ser más proactiva. Me gustaría que se introdujeran cambios en este sentido.,neutral,soporte,sugerencia,corto,2,4,velocidad_respuesta,2,4
+"La tecnología utilizada es correcta, con algún fallo puntual. Me gustaría que se introdujeran cambios en este sentido. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,tecnologia,sugerencia,largo,2,4,clase_visibilidad_pantalla,2,4
+"La experiencia general ha sido peor de lo que esperaba. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_negativo,general,formal,largo,1,2,ninguno,1,5
+"El curso ha cumplido, pero no ha destacado demasiado. Creo que aún se podrían mejorar algunos detalles.",neutral,general,constructivo,medio,2,4,ninguno,1,5
+"No disfruto las clases y a menudo desconecto. Este punto me genera bastante frustración. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_negativo,clase,queja,largo,1,2,clase_duracion,1,2
+"La calidad de audio y vídeo en las clases online es excelente. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_positivo,tecnologia,informal,largo,4,5,clase_visibilidad_pantalla,4,5
+"El temario cumple, sin aportar nada extraordinario. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,contenido,informal,largo,2,4,conocimientos_utiles_futuro,2,4
+La atención al alumno podría ser bastante más ágil. Este punto me genera bastante frustración.,negativo,soporte,queja,medio,1,3,velocidad_respuesta,1,3
+"El curso ha cumplido, pero no ha destacado demasiado. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,general,formal,largo,2,4,ninguno,1,5
+"Las conexiones fallan con bastante frecuencia. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,tecnologia,constructivo,largo,1,3,clase_visibilidad_pantalla,1,3
+"No veo relación clara entre la metodología y los objetivos del curso. Este punto me genera bastante frustración. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_negativo,metodologia,queja,largo,1,2,contenidos_adecuados,1,2
+"Estoy muy satisfecho con la experiencia global del curso. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_positivo,general,informal,largo,4,5,ninguno,1,5
+"Los materiales del curso aportan valor y complementan bien las clases. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,contenido,constructivo,largo,3,5,conocimientos_utiles_futuro,3,5
+"La forma de plantear las tareas no siempre ayuda a consolidar lo aprendido. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,metodologia,constructivo,largo,1,3,contenidos_adecuados,1,3
+En ocasiones las clases se hacen demasiado largas. Creo que aún se podrían mejorar algunos detalles.,negativo,clase,constructivo,medio,1,3,clase_duracion,1,3
+Hay un buen equilibrio entre explicación y ejercicios prácticos. Creo que aún se podrían mejorar algunos detalles.,positivo,metodologia,constructivo,medio,3,5,conocimientos_utiles_futuro,3,5
+Las explicaciones del profesor me resultan confusas y poco útiles. Este punto me genera bastante frustración.,muy_negativo,profesor,queja,medio,1,2,mantiene_atencion,1,2
+"Mi experiencia general con el curso es correcta, sin ser espectacular. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,general,informal,largo,2,4,ninguno,1,5
+"El soporte suele responder en un tiempo razonable. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,soporte,informal,largo,3,5,velocidad_respuesta,3,5
+"Echo en falta más ejemplos o aclaraciones por parte del profesor. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,profesor,constructivo,largo,1,3,preparado_clases,1,3
+"La atención al alumno podría ser bastante más ágil. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,soporte,constructivo,largo,1,3,utilidad_anuncios,1,3
+"En conjunto, el curso no ha cumplido del todo mis expectativas. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,general,informal,largo,1,3,ninguno,1,5
+"El ritmo de clase no siempre se adapta al grupo. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,clase,constructivo,largo,1,3,clase_conveniencia_dia,1,3
+"La mayoría de las sesiones me parecen poco aprovechables. Este punto me genera bastante frustración. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_negativo,clase,queja,largo,1,2,clase_horario,1,2
+La experiencia tecnológica es satisfactoria en la mayoría de las clases. Creo que aún se podrían mejorar algunos detalles.,positivo,tecnologia,constructivo,medio,3,5,clase_calidad_conexion,3,5
+"La experiencia global ha sido buena, con algunos puntos mejorables. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,general,informal,largo,3,5,ninguno,1,5
+Las clases suelen tener un ritmo adecuado en la mayoría de los días. Me gustaría que se introdujeran cambios en este sentido.,positivo,clase,sugerencia,medio,3,5,clase_duracion,3,5
+"Repetiría una formación similar con esta escuela. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,general,formal,largo,3,5,ninguno,1,5
+"El balance del curso es claramente positivo para mí. Me gustaría que se introdujeran cambios en este sentido. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,general,sugerencia,largo,3,5,ninguno,1,5
+"Algunas sesiones se sienten poco productivas. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,clase,informal,largo,1,3,clase_horario,1,3
+"El profesor suele explicar bien, aunque a veces va un poco rápido.",positivo,profesor,formal,corto,3,5,preparado_clases,3,5
+Algunos temas del contenido me han resultado poco relevantes. Creo que aún se podrían mejorar algunos detalles.,negativo,contenido,constructivo,medio,1,3,conocimientos_utiles_futuro,1,3
+"Las actividades planteadas encajan bien con los objetivos del curso. Me gustaría que se introdujeran cambios en este sentido. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,metodologia,sugerencia,largo,3,5,conocimientos_utiles_futuro,3,5
+"El profesor suele explicar bien, aunque a veces va un poco rápido. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,profesor,constructivo,largo,3,5,dominio_materia,3,5
+"El ritmo de clase es aceptable, aunque no siempre perfecto. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,clase,constructivo,largo,2,4,clase_conveniencia_dia,2,4
+"La forma de plantear las tareas no siempre ayuda a consolidar lo aprendido. Este punto me genera bastante frustración. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,metodologia,queja,largo,1,3,conocimientos_utiles_futuro,1,3
+"Las clases son correctas, sin algo especialmente destacable. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,clase,constructivo,largo,2,4,clase_conveniencia_dia,2,4
+"La experiencia tecnológica es satisfactoria en la mayoría de las clases. Me gustaría que se introdujeran cambios en este sentido. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,tecnologia,sugerencia,largo,3,5,clase_calidad_audio,3,5
+La forma de plantear las tareas no siempre ayuda a consolidar lo aprendido.,negativo,metodologia,informal,medio,1,3,grado_dificultad,1,3
+En general las clases son agradables y productivas. Creo que aún se podrían mejorar algunos detalles.,positivo,clase,constructivo,medio,3,5,clase_conveniencia_dia,3,5
+"La calidad de la conexión suele ser buena. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,tecnologia,formal,largo,3,5,clase_calidad_conexion,3,5
+"Me siento muy acompañado por el profesor durante todo el curso. Valoro mucho este aspecto del curso. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_positivo,profesor,elogio,largo,4,5,accesible_y_atiende_consultas,4,5
+Las soluciones que me han dado no siempre han sido claras. Este punto me genera bastante frustración.,negativo,soporte,queja,medio,1,3,utilidad_anuncios,1,3
+"La calidad técnica es muy mala y rompe el flujo de las clases. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_negativo,tecnologia,formal,largo,1,2,clase_calidad_conexion,1,2
+"La calidad técnica es aceptable, pero mejorable. Me gustaría que se introdujeran cambios en este sentido.",neutral,tecnologia,sugerencia,medio,2,4,clase_calidad_audio,2,4
+Me cuesta mantener la atención durante toda la clase. Creo que aún se podrían mejorar algunos detalles.,negativo,clase,constructivo,corto,1,3,clase_conveniencia_dia,1,3
+La metodología a veces hace que las clases se sientan algo monótonas. Este punto me genera bastante frustración.,negativo,metodologia,queja,medio,1,3,conocimientos_utiles_futuro,1,3
+No he tenido prácticamente ningún problema técnico durante el curso. Valoro mucho este aspecto del curso.,muy_positivo,tecnologia,elogio,medio,4,5,clase_visibilidad_pantalla,4,5
+A veces las clases son más interesantes y otras más densas. Creo que aún se podrían mejorar algunos detalles.,neutral,clase,constructivo,medio,2,4,clase_horario,2,4
+"Mi experiencia global con el curso ha sido claramente negativa. Este punto me genera bastante frustración. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_negativo,general,queja,largo,1,2,ninguno,1,5
+La calidad técnica es muy mala y rompe el flujo de las clases. Este punto me genera bastante frustración.,muy_negativo,tecnologia,queja,medio,1,2,clase_calidad_conexion,1,2
+"A veces tardan un poco en contestar, pero termina resolviéndose. Creo que aún se podrían mejorar algunos detalles.",neutral,soporte,constructivo,medio,2,4,utilidad_anuncios,2,4
+La calidad de la conexión suele ser buena. Creo que aún se podrían mejorar algunos detalles.,positivo,tecnologia,constructivo,medio,3,5,clase_visibilidad_pantalla,3,5
+La mayor parte del contenido me resulta aplicable a mi trabajo. Me gustaría que se introdujeran cambios en este sentido.,positivo,contenido,sugerencia,medio,3,5,conocimientos_utiles_futuro,3,5
+"La experiencia tecnológica es satisfactoria en la mayoría de las clases. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,tecnologia,formal,largo,3,5,clase_calidad_audio,3,5
+"Las actividades planteadas encajan bien con los objetivos del curso. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,metodologia,informal,largo,3,5,conocimientos_utiles_futuro,3,5
+"Siento que la forma de trabajar es estándar, ni especialmente buena ni mala. Me gustaría que se introdujeran cambios en este sentido. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,metodologia,sugerencia,largo,2,4,organiza_actividades,2,4
+"La calidad técnica es aceptable, pero mejorable. Me gustaría que se introdujeran cambios en este sentido. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,tecnologia,sugerencia,largo,2,4,clase_calidad_conexion,2,4
+"Mi valoración global es intermedia, ni muy alta ni muy baja. Creo que aún se podrían mejorar algunos detalles.",neutral,general,constructivo,medio,2,4,ninguno,1,5
+La metodología a veces hace que las clases se sientan algo monótonas. Creo que aún se podrían mejorar algunos detalles.,negativo,metodologia,constructivo,medio,1,3,grado_dificultad,1,3
+"En general estoy contento con el curso. Valoro mucho este aspecto del curso. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,general,elogio,largo,3,5,ninguno,1,5
+"El equipo de soporte responde rápido y soluciona los problemas eficazmente. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_positivo,soporte,informal,largo,4,5,utilidad_anuncios,4,5
+En general estoy satisfecho con el contenido que se ha impartido. Valoro mucho este aspecto del curso.,positivo,contenido,elogio,medio,3,5,contenidos_adecuados,3,5
+"El soporte responde de forma correcta, sin destacar demasiado. Me gustaría que se introdujeran cambios en este sentido. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,soporte,sugerencia,largo,2,4,velocidad_respuesta,2,4
+"Estoy muy decepcionado con el resultado final del curso. Este punto me genera bastante frustración. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_negativo,general,queja,largo,1,2,ninguno,1,5
+El profesor responde a las dudas y facilita el seguimiento del temario. Creo que aún se podrían mejorar algunos detalles.,positivo,profesor,constructivo,medio,3,5,accesible_y_atiende_consultas,3,5
+La mayor parte del contenido me resulta aplicable a mi trabajo. Valoro mucho este aspecto del curso.,positivo,contenido,elogio,medio,3,5,contenidos_adecuados,3,5
+Me cuesta seguir las explicaciones del profesor en algunas sesiones. Creo que aún se podrían mejorar algunos detalles.,negativo,profesor,constructivo,medio,1,3,recomendaria_profesor,1,3
+"El soporte suele responder en un tiempo razonable. Valoro mucho este aspecto del curso. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,soporte,elogio,largo,3,5,utilidad_anuncios,3,5
+"El profesor explica los conceptos de forma muy clara y estructurada. Valoro mucho este aspecto del curso. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_positivo,profesor,elogio,largo,4,5,accesible_y_atiende_consultas,4,5
+"La calidad del audio o vídeo a veces dificulta seguir la clase. Este punto me genera bastante frustración. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,tecnologia,queja,largo,1,3,clase_visibilidad_pantalla,1,3
+El profesor responde a las dudas y facilita el seguimiento del temario. Valoro mucho este aspecto del curso.,positivo,profesor,elogio,medio,3,5,accesible_y_atiende_consultas,3,5
+No siempre el profesor responde de forma clara a las dudas. Creo que aún se podrían mejorar algunos detalles.,negativo,profesor,constructivo,medio,1,3,dominio_materia,1,3
+"A veces el profesor no consigue que los conceptos queden claros. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,profesor,constructivo,largo,1,3,recomendaria_profesor,1,3
+"El contenido es interesante y útil en la mayoría de los temas. Valoro mucho este aspecto del curso. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,contenido,elogio,largo,3,5,contenidos_adecuados,3,5
+"Las explicaciones del profesor son buenas y ayudan a entender la materia. Me gustaría que se introdujeran cambios en este sentido. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,profesor,sugerencia,largo,3,5,dominio_materia,3,5
+Me siento cómodo participando en las clases. Creo que aún se podrían mejorar algunos detalles.,positivo,clase,constructivo,medio,3,5,clase_conveniencia_dia,3,5
+"Repetiría una formación similar con esta escuela. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,general,constructivo,largo,3,5,ninguno,1,5
+"La experiencia global ha sido algo decepcionante. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,general,formal,largo,1,3,ninguno,1,5
+"En general estoy satisfecho con el contenido que se ha impartido. Valoro mucho este aspecto del curso. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,contenido,elogio,largo,3,5,contenidos_adecuados,3,5
+Me siento muy acompañado por el soporte académico y técnico. Valoro mucho este aspecto del curso.,muy_positivo,soporte,elogio,medio,4,5,utilidad_anuncios,4,5
+"La experiencia global ha sido algo decepcionante. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,general,constructivo,largo,1,3,ninguno,1,5
+"La atención al alumno podría ser bastante más ágil. Este punto me genera bastante frustración. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,soporte,queja,largo,1,3,utilidad_anuncios,1,3
+"En varias ocasiones he sentido que el soporte tardaba demasiado en responder. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,soporte,formal,largo,1,3,velocidad_respuesta,1,3
+En general estoy satisfecho con el contenido que se ha impartido.,positivo,contenido,sugerencia,corto,3,5,contenidos_adecuados,3,5
+"El curso ha superado mis expectativas en casi todos los aspectos. Valoro mucho este aspecto del curso. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_positivo,general,elogio,largo,4,5,ninguno,1,5
+"El contenido es interesante y útil en la mayoría de los temas. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,contenido,formal,largo,3,5,contenidos_adecuados,3,5
+A veces el profesor no consigue que los conceptos queden claros. Creo que aún se podrían mejorar algunos detalles.,negativo,profesor,constructivo,medio,1,3,mantiene_atencion,1,3
+Echo en falta más ejemplos o aclaraciones por parte del profesor. Creo que aún se podrían mejorar algunos detalles.,negativo,profesor,constructivo,medio,1,3,recomendaria_profesor,1,3
+La experiencia global ha sido algo decepcionante. Creo que aún se podrían mejorar algunos detalles.,negativo,general,constructivo,corto,1,3,ninguno,1,5
+El soporte casi nunca responde a tiempo a mis consultas. Este punto me genera bastante frustración.,muy_negativo,soporte,queja,corto,1,2,velocidad_respuesta,1,2
+"Las explicaciones del profesor son correctas pero podrían ser más dinámicas. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,profesor,constructivo,largo,2,4,dominio_materia,2,4
+"El temario cumple, sin aportar nada extraordinario. Me gustaría que se introdujeran cambios en este sentido.",neutral,contenido,sugerencia,medio,2,4,conocimientos_utiles_futuro,2,4
+"Las conexiones fallan con bastante frecuencia. Este punto me genera bastante frustración. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,tecnologia,queja,largo,1,3,clase_visibilidad_pantalla,1,3
+"Me siento muy acompañado por el profesor durante todo el curso. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_positivo,profesor,formal,largo,4,5,recomendaria_profesor,4,5
+"En conjunto, el curso no ha cumplido del todo mis expectativas. Este punto me genera bastante frustración.",negativo,general,queja,medio,1,3,ninguno,1,5
+"La mayoría de las sesiones me parecen poco aprovechables. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_negativo,clase,formal,largo,1,2,clase_horario,1,2
+"Mi valoración global es intermedia, ni muy alta ni muy baja. Me gustaría que se introdujeran cambios en este sentido.",neutral,general,sugerencia,medio,2,4,ninguno,1,5
+"El temario cumple, sin aportar nada extraordinario. Me gustaría que se introdujeran cambios en este sentido. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,contenido,sugerencia,largo,2,4,contenidos_adecuados,2,4
+"La mayor parte del contenido me resulta aplicable a mi trabajo. Valoro mucho este aspecto del curso. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,contenido,elogio,largo,3,5,conocimientos_utiles_futuro,3,5
+Echo en falta más ejemplos o aclaraciones por parte del profesor. Este punto me genera bastante frustración.,negativo,profesor,queja,medio,1,3,accesible_y_atiende_consultas,1,3
+"Mi experiencia general con el curso es correcta, sin ser espectacular. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,general,constructivo,largo,2,4,ninguno,1,5
+"El soporte suele responder en un tiempo razonable. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,soporte,constructivo,largo,3,5,velocidad_respuesta,3,5
+"He tenido que insistir más de una vez para resolver algunos problemas. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,soporte,constructivo,largo,1,3,velocidad_respuesta,1,3
+En general las clases son agradables y productivas. Valoro mucho este aspecto del curso.,positivo,clase,elogio,medio,3,5,clase_horario,3,5
+"Las explicaciones del profesor son buenas y ayudan a entender la materia. Valoro mucho este aspecto del curso. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,profesor,elogio,largo,3,5,mantiene_atencion,3,5
+"En general la plataforma responde bien y es estable. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,tecnologia,formal,largo,3,5,clase_calidad_audio,3,5
+"No disfruto las clases y a menudo desconecto. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_negativo,clase,formal,largo,1,2,clase_duracion,1,2
+"La metodología del curso es muy práctica y facilita mucho el aprendizaje. Valoro mucho este aspecto del curso. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_positivo,metodologia,elogio,largo,4,5,grado_dificultad,4,5
+"El contenido es correcto, aunque algunos temas me han parecido básicos. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,contenido,constructivo,largo,2,4,conocimientos_utiles_futuro,2,4
+Me siento cómodo participando en las clases. Me gustaría que se introdujeran cambios en este sentido.,positivo,clase,sugerencia,corto,3,5,clase_duracion,3,5
+La atención es aceptable pero podría ser más proactiva. Creo que aún se podrían mejorar algunos detalles.,neutral,soporte,constructivo,corto,2,4,utilidad_anuncios,2,4
+"En general la metodología me parece bastante acertada. Valoro mucho este aspecto del curso. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,metodologia,elogio,largo,3,5,contenidos_adecuados,3,5
+"La plataforma cumple su función, sin destacar demasiado.",neutral,tecnologia,informal,medio,2,4,clase_calidad_audio,2,4
+"Mi experiencia general con el curso es correcta, sin ser espectacular. Me gustaría que se introdujeran cambios en este sentido.",neutral,general,sugerencia,medio,2,4,ninguno,1,5
+El contenido es interesante y útil en la mayoría de los temas. Creo que aún se podrían mejorar algunos detalles.,positivo,contenido,constructivo,medio,3,5,contenidos_adecuados,3,5
+"Muchos temas me parecen irrelevantes para mis objetivos. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_negativo,contenido,formal,largo,1,2,conocimientos_utiles_futuro,1,2
+"La experiencia global ha sido buena, con algunos puntos mejorables. Me gustaría que se introdujeran cambios en este sentido. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,general,sugerencia,largo,3,5,ninguno,1,5
+Las soluciones que me han dado no siempre han sido claras. Creo que aún se podrían mejorar algunos detalles.,negativo,soporte,constructivo,medio,1,3,velocidad_respuesta,1,3
+"Los materiales del curso aportan valor y complementan bien las clases. Valoro mucho este aspecto del curso. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,contenido,elogio,largo,3,5,contenidos_adecuados,3,5
+"La estructura de las sesiones es razonable, pero algo predecible. Me gustaría que se introdujeran cambios en este sentido.",neutral,metodologia,sugerencia,medio,2,4,organiza_actividades,2,4
+"En general estoy satisfecho con cómo el profesor lleva las clases. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,profesor,constructivo,largo,3,5,dominio_materia,3,5
+"La dedicación del profesor marca una diferencia enorme en mi aprendizaje. Valoro mucho este aspecto del curso. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_positivo,profesor,elogio,largo,4,5,recomendaria_profesor,4,5
+"La metodología es adecuada y me ayuda a entender mejor los temas. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,metodologia,formal,largo,3,5,organiza_actividades,3,5
+"La dedicación del profesor marca una diferencia enorme en mi aprendizaje. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_positivo,profesor,formal,largo,4,5,dominio_materia,4,5
+No tengo una percepción especialmente buena del curso en general. Este punto me genera bastante frustración.,negativo,general,queja,corto,1,3,ninguno,1,5
+"Echo en falta más actividades prácticas en esta metodología. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,metodologia,constructivo,largo,1,3,conocimientos_utiles_futuro,1,3
+"En varias ocasiones he sentido que el soporte tardaba demasiado en responder. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,soporte,constructivo,largo,1,3,velocidad_respuesta,1,3
+"El profesor responde a las dudas y facilita el seguimiento del temario. Me gustaría que se introdujeran cambios en este sentido. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,profesor,sugerencia,largo,3,5,accesible_y_atiende_consultas,3,5
+"No estoy nada satisfecho con la forma de enseñar del profesor. Este punto me genera bastante frustración. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_negativo,profesor,queja,largo,1,2,dominio_materia,1,2
+"Parte del contenido me ha parecido desactualizado o repetitivo. Este punto me genera bastante frustración. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,contenido,queja,largo,1,3,contenidos_adecuados,1,3
+El formato de las sesiones me ayuda a seguir el hilo del curso. Me gustaría que se introdujeran cambios en este sentido.,positivo,clase,sugerencia,medio,3,5,clase_horario,3,5
+"Hay un buen equilibrio entre explicación y ejercicios prácticos. Me gustaría que se introdujeran cambios en este sentido. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,metodologia,sugerencia,largo,3,5,organiza_actividades,3,5
+El formato de las sesiones me ayuda a seguir el hilo del curso. Valoro mucho este aspecto del curso.,positivo,clase,elogio,medio,3,5,clase_conveniencia_dia,3,5
+Las explicaciones del profesor son buenas y ayudan a entender la materia. Creo que aún se podrían mejorar algunos detalles.,positivo,profesor,constructivo,medio,3,5,preparado_clases,3,5
+"El soporte suele responder en un tiempo razonable. Me gustaría que se introdujeran cambios en este sentido. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,soporte,sugerencia,largo,3,5,utilidad_anuncios,3,5
+"La atención al alumno es excelente y muy cercana. Valoro mucho este aspecto del curso. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_positivo,soporte,elogio,largo,4,5,velocidad_respuesta,4,5
+"Hay un buen equilibrio entre explicación y ejercicios prácticos. Valoro mucho este aspecto del curso. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,metodologia,elogio,largo,3,5,grado_dificultad,3,5
+He tenido que insistir más de una vez para resolver algunos problemas. Creo que aún se podrían mejorar algunos detalles.,negativo,soporte,constructivo,medio,1,3,velocidad_respuesta,1,3
+"La calidad de audio y vídeo en las clases online es excelente. Valoro mucho este aspecto del curso. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_positivo,tecnologia,elogio,largo,4,5,clase_visibilidad_pantalla,4,5
+"La plataforma a veces se bloquea o responde lenta. Este punto me genera bastante frustración. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,tecnologia,queja,largo,1,3,clase_calidad_conexion,1,3
+La atención al alumno en general es buena. Me gustaría que se introdujeran cambios en este sentido.,positivo,soporte,sugerencia,medio,3,5,velocidad_respuesta,3,5
+Solo he tenido pequeños problemas técnicos que se han resuelto rápido. Creo que aún se podrían mejorar algunos detalles.,positivo,tecnologia,constructivo,corto,3,5,clase_calidad_audio,3,5
+"En general estoy satisfecho con cómo el profesor lleva las clases. Valoro mucho este aspecto del curso. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,profesor,elogio,largo,3,5,mantiene_atencion,3,5
+"Las explicaciones del profesor son correctas pero podrían ser más dinámicas. Me gustaría que se introdujeran cambios en este sentido. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,profesor,sugerencia,largo,2,4,mantiene_atencion,2,4
+"El profesor cumple con su función, sin destacar especialmente. Creo que aún se podrían mejorar algunos detalles.",neutral,profesor,constructivo,corto,2,4,accesible_y_atiende_consultas,2,4
+"La plataforma cumple su función, sin destacar demasiado. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,tecnologia,constructivo,largo,2,4,clase_calidad_audio,2,4
+"Las clases son correctas, sin algo especialmente destacable. Me gustaría que se introdujeran cambios en este sentido. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,clase,sugerencia,largo,2,4,clase_horario,2,4
+En general estoy satisfecho con cómo el profesor lleva las clases. Valoro mucho este aspecto del curso.,positivo,profesor,elogio,medio,3,5,accesible_y_atiende_consultas,3,5
+Las explicaciones del profesor son correctas pero podrían ser más dinámicas. Me gustaría que se introdujeran cambios en este sentido.,neutral,profesor,sugerencia,medio,2,4,mantiene_atencion,2,4
+"No tengo una percepción especialmente buena del curso en general. Este punto me genera bastante frustración. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,general,queja,largo,1,3,ninguno,1,5
+En general la metodología me parece bastante acertada. Creo que aún se podrían mejorar algunos detalles.,positivo,metodologia,constructivo,medio,3,5,grado_dificultad,3,5
+"A veces tardan un poco en contestar, pero termina resolviéndose. Me gustaría que se introdujeran cambios en este sentido. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,soporte,sugerencia,largo,2,4,utilidad_anuncios,2,4
+"En varias ocasiones he sentido que el soporte tardaba demasiado en responder. Este punto me genera bastante frustración. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,soporte,queja,largo,1,3,velocidad_respuesta,1,3
+"Me siento cómodo participando en las clases. Valoro mucho este aspecto del curso. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,clase,elogio,largo,3,5,clase_duracion,3,5
+He echado en falta mayor profundidad en ciertos apartados. Este punto me genera bastante frustración.,negativo,contenido,queja,corto,1,3,contenidos_adecuados,1,3
+"A veces tardan un poco en contestar, pero termina resolviéndose. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,soporte,constructivo,largo,2,4,velocidad_respuesta,2,4
+"No tengo una opinión muy fuerte sobre el soporte, es razonable. Creo que aún se podrían mejorar algunos detalles.",neutral,soporte,constructivo,medio,2,4,velocidad_respuesta,2,4
+"Algunas sesiones se sienten poco productivas. Este punto me genera bastante frustración. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,clase,queja,largo,1,3,clase_duracion,1,3
+"Muchos temas me parecen irrelevantes para mis objetivos. Este punto me genera bastante frustración. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_negativo,contenido,queja,largo,1,2,contenidos_adecuados,1,2
+"La tecnología utilizada es correcta, con algún fallo puntual. Creo que aún se podrían mejorar algunos detalles.",neutral,tecnologia,constructivo,corto,2,4,clase_visibilidad_pantalla,2,4
+"Me cuesta seguir las explicaciones del profesor en algunas sesiones. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,profesor,constructivo,largo,1,3,preparado_clases,1,3
+"Echo en falta más actividades prácticas en esta metodología. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,metodologia,informal,largo,1,3,conocimientos_utiles_futuro,1,3
+"El temario no siempre se ajusta a lo que esperaba aprender. Este punto me genera bastante frustración. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,contenido,queja,largo,1,3,contenidos_adecuados,1,3
+"El profesor cumple con su función, sin destacar especialmente. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,profesor,constructivo,largo,2,4,accesible_y_atiende_consultas,2,4
+En general la plataforma responde bien y es estable. Creo que aún se podrían mejorar algunos detalles.,positivo,tecnologia,constructivo,medio,3,5,clase_calidad_audio,3,5
+En general estoy contento con el curso. Valoro mucho este aspecto del curso.,positivo,general,elogio,medio,3,5,ninguno,1,5
+"Las clases son correctas, sin algo especialmente destacable. Me gustaría que se introdujeran cambios en este sentido.",neutral,clase,sugerencia,medio,2,4,clase_horario,2,4
+En general las clases son agradables y productivas. Me gustaría que se introdujeran cambios en este sentido.,positivo,clase,sugerencia,medio,3,5,clase_horario,3,5
+"Las respuestas del equipo de soporte son útiles la mayoría de las veces. Valoro mucho este aspecto del curso. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,soporte,elogio,largo,3,5,utilidad_anuncios,3,5
+La metodología es adecuada y me ayuda a entender mejor los temas. Valoro mucho este aspecto del curso.,positivo,metodologia,elogio,medio,3,5,conocimientos_utiles_futuro,3,5
+"En general la plataforma responde bien y es estable. Valoro mucho este aspecto del curso. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,tecnologia,elogio,largo,3,5,clase_calidad_audio,3,5
+"No siempre el profesor responde de forma clara a las dudas. Este punto me genera bastante frustración. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,profesor,queja,largo,1,3,mantiene_atencion,1,3
+"He tenido varios problemas técnicos que cortan el ritmo de la sesión. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,tecnologia,constructivo,largo,1,3,clase_calidad_audio,1,3
+"Mi valoración global es intermedia, ni muy alta ni muy baja. Me gustaría que se introdujeran cambios en este sentido. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,general,sugerencia,largo,2,4,ninguno,1,5
+"En general las clases son agradables y productivas. Valoro mucho este aspecto del curso. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,clase,elogio,largo,3,5,clase_conveniencia_dia,3,5
+"Hay varios aspectos del curso que me han dejado insatisfecho. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,general,formal,largo,1,3,ninguno,1,5
+"El profesor responde a las dudas y facilita el seguimiento del temario. Valoro mucho este aspecto del curso. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,profesor,elogio,largo,3,5,accesible_y_atiende_consultas,3,5
+En general estoy satisfecho con cómo el profesor lleva las clases. Creo que aún se podrían mejorar algunos detalles.,positivo,profesor,constructivo,medio,3,5,preparado_clases,3,5
+"Me siento cómodo participando en las clases. Me gustaría que se introdujeran cambios en este sentido. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,clase,sugerencia,largo,3,5,clase_conveniencia_dia,3,5
+"La metodología del curso no se adapta nada a mis necesidades. Este punto me genera bastante frustración. En conjunto, esta parte influye bastante en mi percepción del curso.",muy_negativo,metodologia,queja,largo,1,2,organiza_actividades,1,2
+"El ritmo de clase es aceptable, aunque no siempre perfecto. Me gustaría que se introdujeran cambios en este sentido. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,clase,sugerencia,largo,2,4,clase_conveniencia_dia,2,4
+"El temario cumple, sin aportar nada extraordinario. Creo que aún se podrían mejorar algunos detalles.",neutral,contenido,constructivo,corto,2,4,contenidos_adecuados,2,4
+El formato de las sesiones me ayuda a seguir el hilo del curso. Creo que aún se podrían mejorar algunos detalles.,positivo,clase,constructivo,medio,3,5,clase_conveniencia_dia,3,5
+"No siempre el profesor responde de forma clara a las dudas. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,profesor,constructivo,largo,1,3,preparado_clases,1,3
+"Hay un buen equilibrio entre explicación y ejercicios prácticos. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,metodologia,constructivo,largo,3,5,conocimientos_utiles_futuro,3,5
+"No tengo una percepción especialmente buena del curso en general. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,general,constructivo,largo,1,3,ninguno,1,5
+"Las soluciones que me han dado no siempre han sido claras. Este punto me genera bastante frustración. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,soporte,queja,largo,1,3,utilidad_anuncios,1,3
+"No tengo una opinión muy fuerte sobre el soporte, es razonable. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,soporte,constructivo,largo,2,4,velocidad_respuesta,2,4
+La calidad de la conexión suele ser buena. Me gustaría que se introdujeran cambios en este sentido.,positivo,tecnologia,sugerencia,medio,3,5,clase_visibilidad_pantalla,3,5
+"Las actividades son aceptables, aunque podrían ser más variadas. Me gustaría que se introdujeran cambios en este sentido.",neutral,metodologia,sugerencia,corto,2,4,contenidos_adecuados,2,4
+En general estoy contento con el curso. Creo que aún se podrían mejorar algunos detalles.,positivo,general,constructivo,corto,3,5,ninguno,1,5
+"El profesor suele explicar bien, aunque a veces va un poco rápido. Me gustaría que se introdujeran cambios en este sentido. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,profesor,sugerencia,largo,3,5,preparado_clases,3,5
+El nivel del contenido me parece adecuado pero no especialmente diferencial. Me gustaría que se introdujeran cambios en este sentido.,neutral,contenido,sugerencia,medio,2,4,conocimientos_utiles_futuro,2,4
+"Me cuesta mantener la atención durante toda la clase. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,clase,constructivo,largo,1,3,clase_duracion,1,3
+"No tengo una opinión muy marcada sobre el profesor, es aceptable. Me gustaría que se introdujeran cambios en este sentido. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,profesor,sugerencia,largo,2,4,mantiene_atencion,2,4
+Echo en falta más actividades prácticas en esta metodología. Este punto me genera bastante frustración.,negativo,metodologia,queja,medio,1,3,contenidos_adecuados,1,3
+"Las clases suelen tener un ritmo adecuado en la mayoría de los días. Me gustaría que se introdujeran cambios en este sentido. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,clase,sugerencia,largo,3,5,clase_conveniencia_dia,3,5
+"Cuando he tenido incidencias, se han resuelto adecuadamente. Creo que aún se podrían mejorar algunos detalles.",positivo,soporte,constructivo,corto,3,5,utilidad_anuncios,3,5
+El nivel del contenido me parece adecuado pero no especialmente diferencial. Creo que aún se podrían mejorar algunos detalles.,neutral,contenido,constructivo,medio,2,4,conocimientos_utiles_futuro,2,4
+"El formato de las sesiones me ayuda a seguir el hilo del curso. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,clase,constructivo,largo,3,5,clase_conveniencia_dia,3,5
+"Las clases suelen tener un ritmo adecuado en la mayoría de los días. Valoro mucho este aspecto del curso. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,clase,elogio,largo,3,5,clase_horario,3,5
+"El profesor cumple con su función, sin destacar especialmente. Me gustaría que se introdujeran cambios en este sentido. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,profesor,sugerencia,largo,2,4,preparado_clases,2,4
+"El balance del curso es claramente positivo para mí. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,general,constructivo,largo,3,5,ninguno,1,5
+"Solo he tenido pequeños problemas técnicos que se han resuelto rápido. Me gustaría que se introdujeran cambios en este sentido. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,tecnologia,sugerencia,largo,3,5,clase_calidad_audio,3,5
+La forma de plantear las tareas no siempre ayuda a consolidar lo aprendido. Este punto me genera bastante frustración.,negativo,metodologia,queja,medio,1,3,organiza_actividades,1,3
+"La atención al alumno en general es buena. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,soporte,constructivo,largo,3,5,velocidad_respuesta,3,5
+"La metodología es adecuada y me ayuda a entender mejor los temas. Me gustaría que se introdujeran cambios en este sentido. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,metodologia,sugerencia,largo,3,5,contenidos_adecuados,3,5
+"La calidad técnica es aceptable, pero mejorable. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,tecnologia,constructivo,largo,2,4,clase_calidad_audio,2,4
+"Las clases suelen tener un ritmo adecuado en la mayoría de los días. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,clase,constructivo,largo,3,5,clase_horario,3,5
+"Mi valoración global es intermedia, ni muy alta ni muy baja. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,general,constructivo,largo,2,4,ninguno,1,5
+"Ha habido cosas buenas y cosas mejorables, en equilibrio. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",neutral,general,constructivo,largo,2,4,ninguno,1,5
+El contenido es interesante y útil en la mayoría de los temas. Valoro mucho este aspecto del curso.,positivo,contenido,elogio,medio,3,5,conocimientos_utiles_futuro,3,5
+"Algunos temas del contenido me han resultado poco relevantes. Este punto me genera bastante frustración. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,contenido,queja,largo,1,3,contenidos_adecuados,1,3
+Las explicaciones del profesor son buenas y ayudan a entender la materia. Me gustaría que se introdujeran cambios en este sentido.,positivo,profesor,sugerencia,corto,3,5,accesible_y_atiende_consultas,3,5
+"Repetiría una formación similar con esta escuela. Me gustaría que se introdujeran cambios en este sentido. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,general,sugerencia,largo,3,5,ninguno,1,5
+"El profesor suele explicar bien, aunque a veces va un poco rápido. Valoro mucho este aspecto del curso. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,profesor,elogio,largo,3,5,mantiene_atencion,3,5
+Las actividades planteadas encajan bien con los objetivos del curso. Me gustaría que se introdujeran cambios en este sentido.,positivo,metodologia,sugerencia,medio,3,5,grado_dificultad,3,5
+"En general la plataforma responde bien y es estable. Me gustaría que se introdujeran cambios en este sentido. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,tecnologia,sugerencia,largo,3,5,clase_visibilidad_pantalla,3,5
+"Cuando he tenido incidencias, se han resuelto adecuadamente. Me gustaría que se introdujeran cambios en este sentido.",positivo,soporte,sugerencia,medio,3,5,utilidad_anuncios,3,5
+"Algunas sesiones se sienten poco productivas. Creo que aún se podrían mejorar algunos detalles. En conjunto, esta parte influye bastante en mi percepción del curso.",negativo,clase,constructivo,largo,1,3,clase_conveniencia_dia,1,3
+"La atención al alumno en general es buena. Valoro mucho este aspecto del curso. En conjunto, esta parte influye bastante en mi percepción del curso.",positivo,soporte,elogio,largo,3,5,velocidad_respuesta,3,5
+Me cuesta mantener la atención durante toda la clase. Este punto me genera bastante frustración.,negativo,clase,queja,medio,1,3,clase_horario,1,3
