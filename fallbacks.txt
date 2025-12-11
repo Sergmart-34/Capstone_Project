@@ -1,6 +1,0 @@
-Hola, soy Immune Agent. Para ayudarte mejor con la satisfacción de los alumnos, necesito que elijas una opción: A, B, C o D.
-Soy Immune Agent. Mi objetivo es analizar formaciones, pero primero necesito que me guíes: ¿por sector, tipo, precio o nombre?
-¡Hola! Aquí Immune Agent. Cuéntame, ¿cómo prefieres filtrar los cursos? (Sector, Tipo, Precio, Nombre).
-Disculpa, necesito centrarme en los cursos de Immune. ¿Te ayudo a buscar por Sector o Precio?
-Para poder darte un análisis de calidad, primero debemos ubicar el curso. ¿Tienes el nombre o buscamos por categorías?
-Soy Immune Agent. No he entendido bien tu respuesta, ¿podrías indicarme si prefieres buscar por Sector, Tipo, Precio o Nombre?
