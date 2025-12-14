@@ -226,6 +226,7 @@ Importa los archivos `.xlsx` y `.csv` generados en Power BI Desktop.
 
 - **`Arquitectura.md`**: Documentación técnica completa con diccionario de variables, metodología de clustering y arquitectura del dashboard
 - **Resumen Visual**: [Diagrama en Excalidraw](https://excalidraw.com/#room=b2f4fb4c0ce095979505,gzZQ7jnj6MIlwEKvtgGA0g)
+- Enlace a colab:  https://colab.research.google.com/drive/1PCP-w7rE2e1evOou6O2P1t63IyK7xxPZ?usp=sharing
 
 ---
 
@@ -238,3 +239,4 @@ Importa los archivos `.xlsx` y `.csv` generados en Power BI Desktop.
 ## 📝 Licencia
 
 Este proyecto es parte del programa académico de IMMUNE Technology Institute.
+
